@@ -132,13 +132,13 @@ Encore ce ton léger, mi-sérieux, mi amusé ! Je déteste ça. J'aime autant pr
 Et je redescends dans mon corps. Je le retrouve dans l'état où je l'avais quitté, juste un peu engourdi.
 Une différence notable : la vessie appelle à être vidée.
 
-Assis sur les toilettes, je songe à ma conversation avec Gabriel. 
-Oui, je l'ai appellé Gabriel, depuis que je le connais, par manque d'imagination. 
-Bien sûr, je ne suis pas assez taré pour croire que je parle avec Dieu par l'intermédiaire d'un ange. 
-Mais je n'ai aucune idée de qui est Gabriel, de l'endroit où je le rencontre, ou de quoi que ce soit de concret à propos de lui. 
-Tout ce que je sais, c'est que je m'accroche à lui pour essayer d'apprendre des choses valables sur le monde et sur moi-même, et que lui, il ne fait que me poser plus de questions. 
-J'ai chaque fois l'impression distincte qu'il se moque gentiment de moi, comme si on se connaissait depuis longtemps. 
+Assis sur les toilettes, je songe à ma conversation avec Gabriel.
+Oui, je l'ai appellé Gabriel, depuis que je le connais, par manque d'imagination.
+Bien sûr, je ne suis pas assez taré pour croire que je parle avec Dieu par l'intermédiaire d'un ange.
+Mais je n'ai aucune idée de qui est Gabriel, de l'endroit où je le rencontre, ou de quoi que ce soit de concret à propos de lui.
+Tout ce que je sais, c'est que je m'accroche à lui pour essayer d'apprendre des choses valables sur le monde et sur moi-même, et que lui, il ne fait que me poser plus de questions.
+J'ai chaque fois l'impression distincte qu'il se moque gentiment de moi, comme si on se connaissait depuis longtemps.
 Pourtant, il n'y a que quelques mois que j'ai trouvé ces sons binauraux et que je sors régulièrement de mon corps.  
-Gabriel est un maître patient mais bien mystérieux. 
+Gabriel est un maître patient mais bien mystérieux.
 J'aimerais bien devenir comme lui, mais pour ça, il faudrait que je sache ce qu'il est.  
 Bon, allez, assez de questions pour aujourd'hui. Je tire la chasse d'eau et vais me coucher.

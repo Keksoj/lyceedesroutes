@@ -87,5 +87,23 @@ Le sol est fait de parquet usé par les années.
 Le bureau, déjà démodé il y a quarante ans, rend l'impression de s'être sédimenté au cours des âges.
 Les fenêtres, mal isolées, donnent sur le ciel, où les nuages glissent le long de trajectoires qu'ils sont les seuls à connaître.
 
-C'est le moment privilégié de ma journée. Ici, sous ma table, je suis en sécurité. Enfin protégée du monde, isolée, je peux me laisser aller à toutes mes peurs païennes. J'ai peur des autres, j'ai peur de leur regard, je déteste gérer les relations humaines. Les gens sont de vraies larves, des moutons qui suivent ce qu'on leur dit de faire. Mes semblables, les autres élèves, semblent jouer à un grand concours dont les règles seraient "Surtout ne pas prendre d'initiative". Habille-toi comme les autres, va en cours tous les jours, apprends ce qu'on te donne à apprendre, ne regarde pas trop autour de toi, sinon tu t'apercevras que personne ne réfléchit vraiment. Si tu es une fille, fais en sorte d'être plus belle que les autres pour obtenir l'attention des garçons, sans passer pour une prostituée non plus, sinon les filles te détesteront. Si tu es un garçon, fais bien l'idiot pour que les filles te repèrent, sans exagérer, parce que tu deviendrais ridicule auprès des autres garçons. Même les profs semblent être dénués de toute étincelle d'originalité. Ils font leurs cours, rejoignent la salle des profs, montent dans leur voiture et rentrent chez eux, où semble se dérouler leur vraie vie, loin du lycée.
-Les gens me dégoûtent. Et comme j'en fais partie, je me dégoûte moi-même. Alors, régulièrement, je viens ici, en salle 407, pour me réfugier sous une table et me consacrer en entier à cette angoisse qui me ronge. J'ai l'impression que c'est à moi de tout faire marcher, dans ce monde-là. Si je n'étais pas là, l'exposé d'allemand n'avancerait jamais. Il n'y aurait personne pour récupérer la clé de la salle 308, c'est moi qui le fais depuis le début de l'année. Il n'y aurait personne pour parler à mon père et à ma mère, vu qu'ils ne se parlent plus du tout l'un à l'autre. Ils sont à deux doigts du divorce et je suis entre les deux, dernier rempart pour que ça tienne. Si je n'étais pas dans le monde, plus rien de fonctionnerait, j'en ai bien peur.
+C'est le moment privilégié de ma journée.
+Ici, sous ma table, je suis en sécurité.
+Enfin protégée du monde, isolée, je peux me laisser aller à toutes mes peurs païennes.
+J'ai peur des autres, j'ai peur de leur regard, je déteste gérer les relations humaines.
+Les gens sont de vraies larves, des moutons qui suivent ce qu'on leur dit de faire.
+Mes semblables, les autres élèves, semblent jouer à un grand concours dont les règles seraient "Surtout ne pas prendre d'initiative".
+Habille-toi comme les autres, va en cours tous les jours, apprends ce qu'on te donne à apprendre, ne regarde pas trop autour de toi, sinon tu t'apercevras que personne ne réfléchit vraiment.
+Si tu es une fille, fais en sorte d'être plus belle que les autres pour obtenir l'attention des garçons, sans passer pour une prostituée non plus, sinon les filles te détesteront.
+Si tu es un garçon, fais bien l'idiot pour que les filles te repèrent, sans exagérer, parce que tu deviendrais ridicule auprès des autres garçons.
+Même les profs semblent être dénués de toute étincelle d'originalité.
+Ils font leurs cours, rejoignent la salle des profs, montent dans leur voiture et rentrent chez eux, où semble se dérouler leur vraie vie, loin du lycée.
+Les gens me dégoûtent.
+Et comme j'en fais partie, je me dégoûte moi-même.
+Alors, régulièrement, je viens ici, en salle 407, pour me réfugier sous une table et me consacrer en entier à cette angoisse qui me ronge.
+J'ai l'impression que c'est à moi de tout faire marcher, dans ce monde-là.
+Si je n'étais pas là, l'exposé d'allemand n'avancerait jamais.
+Il n'y aurait personne pour récupérer la clé de la salle 308, c'est moi qui le fais depuis le début de l'année.
+Il n'y aurait personne pour parler à mon père et à ma mère, vu qu'ils ne se parlent plus du tout l'un à l'autre.
+Ils sont à deux doigts du divorce et je suis entre les deux, dernier rempart pour que ça tienne.
+Si je n'étais pas dans le monde, plus rien de fonctionnerait, j'en ai bien peur.
