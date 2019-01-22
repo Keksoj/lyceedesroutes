@@ -1,4 +1,4 @@
-# 01 - Augustine, journée type
+## Augustine
 
 Moi, c'est Augustine. Augustine Lambert.
 17 ans, terminale L au Lycée des Routes de Crémigny.

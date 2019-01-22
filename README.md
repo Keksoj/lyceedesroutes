@@ -1,7 +1,7 @@
 # Le Lycée des Routes
 Un roman en langue française.
 
-Pour éditer ce roman, je n'ai pas souhaité utilisé un outil de traitement de texte classique comme Word ou LibreOffice.
+Pour éditer ce roman, je n'ai pas souhaité utiliser un outil de traitement de texte classique comme Word ou LibreOffice.
 Ces outils sont puissants mais le format n'est pas très portable.
 On peut éditer un roman dans LibreOffice, avec un sommaire, des chapitres, etc...
 mais il faut refaire la mise en page entièrement selon qu'on veut par exemple :
@@ -38,12 +38,7 @@ Autre avantage de markdown : il est natif de github, ce qui fait que le roman es
 ### Éditer avec pandoc
 
 Pandoc est une bibliothèque en haskell, et un outil en ligne de commande associé.
-Il permet de convertir du texte d'un format à un autre en tapant dans un terminal :
-```
-pandoc texte.md -o texte.pdf
-```
-
-Il est susceptible de recevoir du texte rédigé avec markdown et le convertir :
+Il est susceptible de recevoir du texte rédigé avec markdown et de le convertir :
 * En **html** (pour une page web et les emails)
 * En **epub** (pour une liseuse)
 * En **pdf** (pour imprimer)
@@ -51,22 +46,26 @@ Il est susceptible de recevoir du texte rédigé avec markdown et le convertir :
 
 #### Créer un epub à partir de markdown
 Pandoc est assez agile pour créer un epub.
-Il suffit de lui commander :
+Il faut s'adresser à lui par ligne de commande :
 ```
-pandoc roman.md -o roman.epub
+pandoc *.md -o roman.epub
 ```
-Et il génère automatiquement un fichier `roman.epub` immédiatement lisible par une liseuse.
-(`-o` est une option qui signifie *output*)
+* `pandoc` appelle l'outil
+* `*.md` signifie *tous les fichiers markdown*.
+* `-o` est une option qui signifie *output*
+* `roman.epub` est le fichier de sortie
+
+Pandoc récupère donc tous les chapitres rédigés en markdown et génère un fichier `roman.epub`, immédiatement lisible par une liseuse.
+
 
 ###### Générer la première page
 La page titre est générée par la combinaison de deux éléments :
 * les métadonnées (titre, nom de l'auteur...) présentes dans le fichier `metadata.yaml`
 * le fichier `epub.css` qui gère la décoration (centrer le titre...)
 
-Il faut donc faire:
+Il faut donc mettre à jour notre ligne de commande :
 ```
 pandoc --data-dir=. metadata.yaml *.md -o roman.epub
 ```
-* `--data-dir=.` pour que pandoc trouve `epub.css` dans le dossier courant
+* `--data-dir=.` pour que pandoc trouve `epub.css` dans le dossier courant ( `.` )
 * `metadata.yaml` pour fournir les métadonnées.
-* `*.md` signifie *prends tous les fichiers markdown*.
