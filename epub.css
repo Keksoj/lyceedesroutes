@@ -1,8 +1,29 @@
 /* This defines styles and classes used in the book */
-body { margin: 5%; text-align: justify; font-size: medium; }
+body {
+  margin: 0%;
+  text-align: justify;
+  font-size: medium;
+  font-family: georgia, arial, ubuntu;
+}
+p {
+  text-indent: 1em;
+  display: block;
+  margin-top: 0.3em;
+  margin-bottom: 0em;
+  margin-left: 0;
+  margin-right: 0;
+}
 code { font-family: monospace; }
-h1 { text-align: left; }
-h2 { text-align: left; }
+
+/*Affecte le titre du livre*/
+h1 { text-align: center; }
+
+/*Affecte le titre des chapitres*/
+h2 {
+  text-align: left;
+  page-break-before: always;
+}
+
 h3 { text-align: left; }
 h4 { text-align: left; }
 h5 { text-align: left; }

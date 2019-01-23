@@ -1,5 +1,6 @@
 ## Augustine
 
+
 Moi, c'est Augustine. Augustine Lambert.
 17 ans, terminale L au Lycée des Routes de Crémigny.
 Plutôt grande et mince, cheveux bouclés mais pas trop, le genre de fille pas trop mal mais dont le miroir magique renvoie toujours une image pleine de boutons et de petits défauts.
@@ -7,7 +8,8 @@ Que voulez-vous, à mon âge, pas facile de s'assumer quand on a eu trois ans ch
 Sans oublier ma super copine, madame Menstrue, qui vient me donner un gros coup de latte dans le ventre tous les mois.
 Et les papotages, et les histoires de mec.
 Et mes parents au bord du divorce.
-Être une fille à 17 ans, ce n'est pas une sinécure.  
+Être une fille à 17 ans, ce n'est pas une sinécure.
+
 Si on apprends à me connaître, on me découvre un certain excès de confiance en moi.
 Je compense mes incertitudes par une répartie bien sentie, j'aime donner l'impression que je ne m'en laisse pas conter.
 Et c'est en bonne partie vrai.
@@ -17,15 +19,16 @@ J'entends les conversations s'éteindre sur mon passage dans les couloirs, pour 
 Je vois les regards.
 Je sens que je dépasse du cadre.
 Les profs aiment bien ça, leur cours est plus vivant quand il y a une grande gueule pour faire avancer le débat.
-Et moi j'assume. Il faut savoir ce qu'on fait, dans la vie.  
-Exemple concret : cet exposé d'allemand que je fais avec Tom et Julie pour M. Hain (le grand, celui qui veut faire jeune).
+Et moi j'assume. Il faut savoir ce qu'on fait, dans la vie.
+
+Exemple concret : cet exposé d'allemand que je fais avec Tom et Julie pour M. Hain (le grand, celui qui veut faire jeune).
 Nous sommes en cours depuis presque une heure, livrés à nous-mêmes depuis une vingtaine de minutes.
 Mes collègues sont incapables d'imaginer un embryon de plan.
 Tom relit pour la énième fois la même page wikipédia, persuadé qu'il nous manque des infos, pendant que Julie ressasse la consigne encore et encore, et marmonne sans arrêt "C'est trop vague comme sujet".
 Ces gens sont infichus de se prendre en main tout seuls.
 Il faut que je mette du papier blanc entre nous trois, que je prenne un crayon dans la main et que je leur tire les vers du nez pour faire un brainstorming digne de ce nom.
 Au bout d'une dizaine de minutes, on a enfin un schéma qui nous donnera un plan concret.
-La suite est simple : je prends l'élément de plan le plus facile à traiter pour moi, et je donne aux autres des directives claires pour qu'ils produisent des sous-parties qui valent le coup.
+La suite est simple : je prends l'élément de plan le plus facile à traiter pour moi, et je donne aux autres des directives claires pour qu'ils produisent des sous-parties qui valent le coup.
 Impeccable, on a réparti les tâches avant que la cloche ne sonne.
 Mais qu'est-ce que c'est laborieux d'amener les gens à accoucher d'eux-mêmes !
 
@@ -42,18 +45,30 @@ Elles peuvent laisser quelqu'un rentrer en retard ou partir en avance.
 Elles vérifient tous les papiers importants, et en écrivent beaucoup de non moins importants. Dialoguer avec elles est un défi intéressant.
 Je ne peux pas leur mentir entièrement, mais elles ne doivent jamais savoir ce que je pense en for intérieur.
 C'est chaque fois un exercice d'équilibriste, dont je me sors en général plutôt bien.
-Celle qui est la plus disponible m'accueille avec un sourire.  
-— Augustine, bonjour. Que nous vaut le plaisir ?  
-— Bonjour Mme Médiane, réponds-je sagement. Je viens chercher la clé de la salle 308, on en a besoin pour le cours de M. Rabelais.  
-La réponse est mécanique :  
-— M. Rabelais ne vient pas la chercher lui-même ?  
-— Non, il nous a demandé de la prendre, il n'a pas envie de descendre à chaque fois, continue-je, plantée les mains derrière le dos, comme une écolière récite sa leçon.  
-— Pourquoi ai-je tellement de mal à te faire confiance, Augustine ? renvoie-t-elle avec un soupir résigné.  
-— Je ne suis pas vraiment d'accord, fais-je avec un ton plus défiant. En général, à chaque fois que vous me faites confiance, ça se passe bien.  
-J'ai gagné. Mme Médiane fouille son bureau et me tend le bras.  
-— Bon, voici la clé. Qui me la rapporte ?  
-— M. Rabelais. Ou l'un d'entre nous. Mais on vous la rapporte, ça c'est sûr.  
-— Très bien très bien, roulez jeunesse, envoie-t-elle, déjà occupée à autre chose.  
+Celle qui est la plus disponible m'accueille avec un sourire.
+
+— Augustine, bonjour. Que nous vaut le plaisir ?
+
+— Bonjour Mme Médiane, réponds-je sagement. Je viens chercher la clé de la salle 308, on en a besoin pour le cours de M. Rabelais.
+
+La réponse est mécanique :
+
+— M. Rabelais ne vient pas la chercher lui-même ?
+
+— Non, il nous a demandé de la prendre, il n'a pas envie de descendre à chaque fois, continue-je, plantée les mains derrière le dos, comme une écolière récite sa leçon.
+
+— Pourquoi ai-je tellement de mal à te faire confiance, Augustine ? renvoie-t-elle avec un soupir résigné.
+
+— Je ne suis pas vraiment d'accord, fais-je avec un ton plus défiant. En général, à chaque fois que vous me faites confiance, ça se passe bien.
+
+J'ai gagné. Mme Médiane fouille son bureau et me tend le bras.
+
+— Bon, voici la clé. Qui me la rapporte ?
+
+— M. Rabelais. Ou l'un d'entre nous. Mais on vous la rapporte, ça c'est sûr.
+
+— Très bien très bien, roulez jeunesse, envoie-t-elle, déjà occupée à autre chose.
+
 Au moment où je ressors de la pièce, les autres élèvent arrivent en foule, comme des moutons pressés de rentrer à l'abattoir.
 J'entends derrière moi la voix de Mme Médiane, blasée, qui lance à sa collègue "Il y en a qui devraient faire de la politique, ils ont réponse à tout".
 
@@ -67,23 +82,34 @@ Je retourne au troisième étage, où j'ai cours et où mes collègues attendent
 M. Rabelais, qui enseigne le français, a autre chose à faire que de se soucier d'une histoire de clé.
 Une élève (c'est moi) lui tend la clé, il s'en saisit, il fait son cours, et à la fin, comme à chaque fois, il la donne à une élève (ce n'est pas moi) qui va la rapporter à la vie scolaire.
 Le même jeu dure depuis le début de l'année.
-Chaque lycée a ses failles.
+Chaque lycée a ses failles. <br /><br />
 
 Je remonte dès que je peux au quatrième étage, trouve la porte que j'ai déverrouillée tout à l'heure, la pousse, vérifie qu'il n'y a personne, referme.
 La porte a un verrou qui ferme de l'intérieur, sans clé. Pratique.
-Me voilà enfermée.  
+Me voilà enfermée.
+
 Je pose mon sac sur une table, enlève mon manteau, défais le gros bouton de mon jean, et viens m'asseoir par terre, près d'une table.
-Une fois à terre, je me réfugie sous la table.  
-M'enroule en position foetale.  
-Me cache le visage dans les mains.  
-Respire à grand coups saccadés.  
+Une fois à terre, je me réfugie sous la table.
+
+M'enroule en position foetale.
+
+Me cache le visage dans les mains.
+
+Respire à grand coups saccadés.
+
 Mon corps se contracte, ma respiration se fait difficile.
 C'est comme si mon ventre était pris dans un corset qui ne desserait pas.
 J'ai l'impression d'étouffer.
-Je dois lâcher quelques sanglots nerveux, accepter des spasmes qui me serrent la poitrine, et doucement, doucement, je parviens à respirer normalement.  
-Je garde ma position, le visage dans les mains, le souffle chaud de ma bouche renvoyé vers mon visage.  
-Le silence se fait dans la petite salle de classe.  
-Le sol est fait de parquet usé par les années.  
+Je dois lâcher quelques sanglots nerveux, accepter des spasmes qui me serrent la poitrine, et doucement, doucement, je parviens à respirer normalement.
+
+Je garde ma position, le visage dans les mains, le souffle chaud de ma bouche renvoyé vers mon visage.
+
+Le silence se fait dans la petite salle de classe.
+
+Le sol est fait de parquet usé par les années.
+
+
+
 Le bureau, déjà démodé il y a quarante ans, rend l'impression de s'être sédimenté au cours des âges.
 Les fenêtres, mal isolées, donnent sur le ciel, où les nuages glissent le long de trajectoires qu'ils sont les seuls à connaître.
 
