@@ -1,4 +1,4 @@
-## 05 — Augustine a un bug
+## Augustine a un bug
 
 Je suis de mauvais poil aujourd'hui.
 
