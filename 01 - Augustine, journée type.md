@@ -108,8 +108,6 @@ Le silence se fait dans la petite salle de classe.
 
 Le sol est fait de parquet usé par les années.
 
-
-
 Le bureau, déjà démodé il y a quarante ans, rend l'impression de s'être sédimenté au cours des âges.
 Les fenêtres, mal isolées, donnent sur le ciel, où les nuages glissent le long de trajectoires qu'ils sont les seuls à connaître.
 
