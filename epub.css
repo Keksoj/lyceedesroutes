@@ -1,28 +1,50 @@
 /* This defines styles and classes used in the book */
 body {
-  margin: 0%;
+  margin: 5%;           /* installe des marges autour du texte */
   text-align: justify;
   font-size: medium;
   font-family: georgia, arial, ubuntu;
 }
+
+
 p {
-  text-indent: 1em;
+  text-indent: 1em;  /* taille de l'alinéa */
   display: block;
-  margin-top: 0.3em;
+  margin-top: 0em;   /* espacement entre les paragraphes */
   margin-bottom: 0em;
-  margin-left: 0;
-  margin-right: 0;
 }
 code { font-family: monospace; }
 
-/*Affecte le titre du livre*/
-h1 { text-align: center; }
+/* Empêche les alinéas dans les paragraphes de citations  */
+blockquote > p {
+  text-indent: 0em;
+  font-size: 1rem;
+  font-style: italic;
+}
 
-/*Affecte le titre des chapitres*/
-h2 {
-  text-align: left;
+/* Affecte le titre du livre et des chapitres */
+h1 {
+  padding-top: 5em;
+  padding-bottom: 5em;
+  padding-right: 1em;
+  padding-left: 1em;
+  font-size: 1.5em;
+  text-align: center;
   page-break-before: always;
 }
+
+/*Affecte les titres de deuxième niveau*/
+h2 {
+  text-align: left;
+  font-size: 1em;
+}
+
+/*le théâtre */
+/* Dans la <div class="theatre">, aménage un espace entre les paragraphes */
+div.theatre > p {
+  margin-top: 1em;
+}
+
 
 h3 { text-align: left; }
 h4 { text-align: left; }

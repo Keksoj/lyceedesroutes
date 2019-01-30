@@ -1,4 +1,4 @@
-## Faustin retrouve Augustine
+# Faustin retrouve Augustine
 
 On m'a laissé partir de l'hôpital le lendemain.
 Des trois, j'ai été le plus rapide à me calmer et à me laisser faire.

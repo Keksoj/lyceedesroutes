@@ -1,4 +1,4 @@
-## Augustine confrontée au monde
+# Augustine confrontée au monde
 
 Mon corps respire un peu mieux depuis quelques dix minutes.
 Sur ce lit d'infirmerie, c'est plus facile.

@@ -1,4 +1,6 @@
-## Focalisation externe, les urgences
+# Focalisation externe, les urgences
+
+<div class="theatre">
 
 *Une salle blanche, bardée de lits également blancs.
 Des fenêtres partiellement brouillées laissent apercevoir la nuit dehors.
@@ -58,7 +60,7 @@ Vous n'aviez pas l'air mal en point, c'est juste que vous ne vous réveilliez pa
 
 **LA JEUNE FEMME**
 , *se tourne*
-Faustin ? Faustin Vaultier ? Qu'est-ce que tu fous là ?
+— Faustin ? Faustin Vaultier ? Qu'est-ce que tu fous là ?
 
 **FAUSTIN**
 —	Augustine!? Mais où sommes-nous ?
@@ -123,3 +125,5 @@ Le dragon aux yeux de feu, ses ailes aussi large que l'univers !
 **LE DOCTEUR**
 , *aux nombreux infirmiers qui se sont précipités dans la salle*
 — Mettez-moi tout ça sous Tercian.
+
+</div>

@@ -1,4 +1,6 @@
-## Augustine - ils convainquent le père de Jacob
+# Convaincre le père de Jacob
+
+### Augustine
 
 Le père de Jacob nous laisse entrer.
 Soulagement.
@@ -121,7 +123,7 @@ On reprend chacun notre tasse pour boire une gorgée avant de parler (et merde, 
 Faustin se lance.
 
 — Augustine, Jacob et moi-même, nous ne nous connaissions qu'à peine il y a deux semaines.
-Un jour, ...
+Un jour, ... <br /><br />
 
 La récollection prends du temps (c'est M. Mlynikowski qui appelle cela une récollection).
 Il faut tout se raconter à nouveau.

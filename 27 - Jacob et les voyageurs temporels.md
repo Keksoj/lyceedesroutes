@@ -1,4 +1,6 @@
-## Jacob et les voyageurs temporels
+# Les voyageurs temporels
+
+### Jacob
 
 C'est bien simple : je les aime.
 Pour la première fois de ma vie, je ne suis pas seul dans mes attermoiements existentiels, j'ai des gens qui me comprennent.
@@ -251,7 +253,7 @@ Pendant que Faustin parle, les femmes nous scrutent intensément de leurs yeux e
 
 — Le sens de la vie humaine.
 
-Les deux femmes éclatent de rire, on entend l'homme pouffer, allongé qu'il est à réparer je ne sais quoi sur la machine.
+Les deux femmes éclatent de rire, on entend l'homme pouffer, allongé qu'il est à réparer je ne sais quoi sous la machine.
 La femme à l'instrument, penchée sur son écran, dit d'une voix technique :
 
 — C'est pas mal mais ce n'est pas encore ça.

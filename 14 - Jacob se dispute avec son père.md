@@ -1,4 +1,4 @@
-## Jacob se dispute avec son père
+# Jacob se dispute avec son père
 
 Réveillé à l'infirmerie, tout va bien.
 On me laisse sortir, l'heure de la fin des cours est passée depuis une heure.
@@ -80,7 +80,7 @@ Il y avait un CD marqué "Brainwave" et je l'ai rippé en mp3.
 
 — Tu as fouillé dans mes affaires !
 
-Maintenant il est furieux, mais qu'est-ce qui lui prends ?
+Maintenant il est furieux, mais qu'est-ce qui lui prend ?
 
 — Bon papa, c'est quoi le problème ?
 Tu as des cartons plein de vieux tests de QI, de bouquins de psychanalyse, et ça t'a jamais gêné que je fouille là-dedans.
@@ -167,7 +167,7 @@ Rapidement, me voilà dans ce lieu plein de lumière, où je me sens si bien com
 — Bonjour, Jacob !
 
 C'est sa voix, toujours aussi suave et amicale (sans jamais perdre ce léger ton moqueur !).
-Je suis soulagé, enfin une présence aimante !  
+Je suis soulagé, enfin une présence aimante !
 
 — Bonjour Gabriel. Je suis tellement content de t'entendre !
 
@@ -204,11 +204,13 @@ Je ne me suis jamais senti si respecté de ma vie.
 Je pleurerais de reconnaissance si j'avais des yeux pour le faire.
 Je reprends, timidement, d'une voix presque inexistante.
 
-— Je... je ne sais pas ce que je fais sur terre... je... je ne sais pas qui je suis... je voudrais... je voudrais vivre vraiment. Vivre pleinement.
-
+— Je... je ne sais pas ce que je fais sur terre...
+je... je ne sais pas qui je suis... je voudrais...
+je voudrais vivre vraiment. Vivre pleinement.
 Je voudrais savoir ce qui fait aimer la vie aux autres.
 Je voudrais aimer la vie, moi aussi.
 Mais j'ai peur, j'ai terriblement peur.
+
 Ma voix retombe, mais le silence est toujours là, à m'écouter.
 Et puis, j'entends une sorte de brise légère, qui tourne autour de moi.
 Gabriel murmure à mon oreille droite.

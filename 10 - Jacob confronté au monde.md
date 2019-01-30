@@ -1,4 +1,4 @@
-## Jacob confronté au monde
+# Jacob confronté au monde
 
 Il s'installe dans son fauteuil avec violence, ce qui n'est pas pour me rassurer.
 Quant à moi, je me suis souvenu de comment on utilise une chaise, et me suis appliqué à poser mes fesses sur celle qui est disponible.

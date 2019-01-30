@@ -1,4 +1,4 @@
-## Faustin a un bug
+# Faustin a un bug
 
 Je croise Anne-Marie dans les couloirs, à la récréation.
 Celle-ci me passe les bras autour du cou.

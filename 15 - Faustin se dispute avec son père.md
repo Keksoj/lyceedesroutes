@@ -1,4 +1,4 @@
-## Faustin se dispute avec son père
+# Faustin se dispute avec son père
 
 Après ma douche.
 Je suis revenu au lycée pour les cours de l'après-midi.

@@ -1,0 +1,32 @@
+/* This defines styles and classes used in the book */
+body {
+  margin: 10%;
+  text-align: justify;
+  font-size: medium;
+  text-indent: 20px each-line;
+}
+p {
+  text-indent: 2em;
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0em;
+  margin-left: 0;
+  margin-right: 0;
+}
+code { font-family: monospace; }
+h1 { text-align: center; }
+h2 { text-align: left; }
+h3 { text-align: left; }
+h4 { text-align: left; }
+h5 { text-align: left; }
+h6 { text-align: left; }
+nav#toc ol,
+a.footnote-ref { vertical-align: super; }
+em, em em em, em em em em em { font-style: italic;}
+em em, em em em em { font-style: normal; }
+
+/*le théâtre */
+/* Dans la <div class="theatre">, aménage un espace entre les paragraphes */
+div.theatre > p {
+  margin-top: 1em;
+}
