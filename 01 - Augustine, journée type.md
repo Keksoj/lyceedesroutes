@@ -24,7 +24,7 @@ Et moi j'assume. Il faut savoir ce qu'on fait, dans la vie.
 Exemple concret : cet exposé d'allemand que je fais avec Tom et Julie pour M. Hain (le grand, celui qui veut faire jeune).
 Nous sommes en cours depuis presque une heure, livrés à nous-mêmes depuis une vingtaine de minutes.
 Mes collègues sont incapables d'imaginer un embryon de plan.
-Tom relit pour la énième fois la même page wikipédia, persuadé qu'il nous manque des infos, pendant que Julie ressasse la consigne encore et encore, et marmonne sans arrêt "C'est trop vague comme sujet".
+Tom relit pour la énième fois la même page wikipédia, persuadé qu'il nous manque des infos, pendant que Julie ressasse la consigne encore et encore, et marmonne sans arrêt « C'est trop vague comme sujet ».
 Ces gens sont infichus de se prendre en main tout seuls.
 Il faut que je mette du papier blanc entre nous trois, que je prenne un crayon dans la main et que je leur tire les vers du nez pour faire un brainstorming digne de ce nom.
 Au bout d'une dizaine de minutes, on a enfin un schéma qui nous donnera un plan concret.
@@ -70,7 +70,7 @@ J'ai gagné. Mme Médiane fouille son bureau et me tend le bras.
 — Très bien très bien, roulez jeunesse, envoie-t-elle, déjà occupée à autre chose.
 
 Au moment où je ressors de la pièce, les autres élèvent arrivent en foule, comme des moutons pressés de rentrer à l'abattoir.
-J'entends derrière moi la voix de Mme Médiane, blasée, qui lance à sa collègue "Il y en a qui devraient faire de la politique, ils ont réponse à tout".
+J'entends derrière moi la voix de Mme Médiane, blasée, qui lance à sa collègue « Il y en a qui devraient faire de la politique, ils ont réponse à tout ».
 
 Quatre à quatre, je monte les marches de l'escalier le moins fréquenté.
 Au quatrième étage, il n'y a pas grand monde.
@@ -116,7 +116,7 @@ Ici, sous ma table, je suis en sécurité.
 Enfin protégée du monde, isolée, je peux me laisser aller à toutes mes peurs païennes.
 J'ai peur des autres, j'ai peur de leur regard, je déteste gérer les relations humaines.
 Les gens sont de vraies larves, des moutons qui suivent ce qu'on leur dit de faire.
-Mes semblables, les autres élèves, semblent jouer à un grand concours dont les règles seraient "Surtout ne pas prendre d'initiative".
+Mes semblables, les autres élèves, semblent jouer à un grand concours dont les règles seraient « Surtout ne pas prendre d'initiative ».
 Habille-toi comme les autres, va en cours tous les jours, apprends ce qu'on te donne à apprendre, ne regarde pas trop autour de toi, sinon tu t'apercevras que personne ne réfléchit vraiment.
 Si tu es une fille, fais en sorte d'être plus belle que les autres pour obtenir l'attention des garçons, sans passer pour une prostituée non plus, sinon les filles te détesteront.
 Si tu es un garçon, fais bien l'idiot pour que les filles te repèrent, sans exagérer, parce que tu deviendrais ridicule auprès des autres garçons.

@@ -35,7 +35,7 @@ De l'autre côté du Rhin, la politique allemande ressemble encore au Saint-Empi
 Conséquence de notre côté : le baccalauréat auquel je me prépare me permettra d'étudier partout en France.
 Conséquences de l'autre côté : un Allemand qui passe son Abitur à Brême ne pourra pas étudier à Munich.<br /><br />
 
-Je suis élève dans un lycée qui est l'exemple même de l'héritage de Napoléon, ce qu'il a appelé les "masses de granit".
+Je suis élève dans un lycée qui est l'exemple même de l'héritage de Napoléon, ce qu'il a appelé les « masses de granit ».
 Des institutions fortes pour un État fort.
 Légion d'honneur, franc germinal, préfecture, baccalauréat, banque de France, et lycée bien sûr.
 Tout ça, c'est du despotisme éclairé.
@@ -43,7 +43,7 @@ Nous sommes les fiers héritiers d'une dictature qui a écrasé ce qui fait nos 
 Liberté, égalité, fraternité, ça ne nourrit pas son peuple.
 Pouvoir central tout-puissant, élitisme et entre-soi, voilà qui est mieux.
 Nous sommes vraiment dans une société schizophrène.
-Comme le dit Machiavel : “En politique le choix est rarement entre le bien et le mal, mais entre le pire et le moindre mal.”<br /><br />
+Comme le dit Machiavel : « En politique le choix est rarement entre le bien et le mal, mais entre le pire et le moindre mal. »<br /><br />
 
 On l'aura compris, mon truc à moi, c'est l'histoire et les intellectuels.
 Je passe mon temps à lire des bouquins qui parlent de choses qui n'intéressent personne.
@@ -65,7 +65,7 @@ En fait, ma petite vie me convient, du moment qu'elle ne m'oblige pas trop à ch
 
 Me voilà en cours de philo.
 L'exemple typique qui explique ce qui ne va pas avec moi.
-Le cours me passionne complètement, j'adore écouter le prof, un certain M. Immanuel (le prénom de Kant... qui a dit "prédestination" ?).
+Le cours me passionne complètement, j'adore écouter le prof, un certain M. Immanuel (le prénom de Kant... qui a dit « prédestination » ?).
 Cependant, je ne relis jamais mes notes pour me les approprier, je ne me base que sur mes ressentis pour rédiger mes dissertations, ce qui fait que je n'ai jamais la moyenne.
 Le prof me rend la copie du dernier DS, justement, et me réclame de la rigueur, toujours plus de rigueur.
 Je range ma copie avec ma mauvaise note, et j'attends que le cours se passe.
@@ -95,6 +95,6 @@ Et elle me répondrait avec beaucoup de tendresse.
 Mais je n'ose pas, j'ai vraiment trop honte de moi.
 Elle et moi, nous n'avons que des rapports chastes.
 
-Parfois, je me dis que ma vie serait différente si ma mère n'était pas partie aux États-Unis pour vivre avec ce "life coach".
+Parfois, je me dis que ma vie serait différente si ma mère n'était pas partie aux États-Unis pour vivre avec ce « life coach ».
 Un type qui fait payer les gens pour qu'ils se fassent expliquer comment mieux vivre leur vie, être plus heureux.
 Et ben, s'il avait pu expliquer à ma mère que la meilleure chose à faire pour elle, c'était de ne pas partir vivre avec lui mais de rester avec sa famille en France... ma vie serait différente.

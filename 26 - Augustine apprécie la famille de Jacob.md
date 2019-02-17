@@ -147,8 +147,8 @@ Abdalahad a posé deux questions :
 
 Or, la prof de philo nous a fait bosser sur l'importance de bien décortiquer un énoncé.
 
-* Que veut dire "exister" ?
-* Quel "nous" est impliqué ?
+* Que veut dire « exister » ?
+* Quel « nous » est impliqué ?
 * Est-ce un nous à trois, est-ce toute l'humanité ?
 * Qu'est-ce que le sens ?
 * De quelle vie parle-t-on au juste ?
@@ -161,7 +161,7 @@ Qu'est-ce qu'un humain ?
 Un humain est un être biologique, un primate avec des pouces opposables (pratiques pour dessiner) et un gros cerveau (pratique pour inventer l'écriture).
 
 — Je t'arrête tout de suite, ma petite.
-Quand tu dis "un humain est un être", il y a deux fois le mot "être", une fois en verbe conjugué et une fois en nom.
+Quand tu dis « un humain est un être", il y a deux fois le mot « être", une fois en verbe conjugué et une fois en nom.
 Enlève-en un.
 
 — Un humain est biologique.
@@ -186,7 +186,7 @@ Soit. Continuons.
 — Très bien, admet-je.
 Un humain est un discours sur la vie.
 
-— Ta question de départ, si je me souviens bien, était "Qu'est-ce qu'un humain ?" et devient donc "Qu'est-ce qu'un discours sur la vie ?"
+— Ta question de départ, si je me souviens bien, était « Qu'est-ce qu'un humain ? » et devient donc « Qu'est-ce qu'un discours sur la vie ? »
 
 — Admettons.
 Mais je ne vois pas où tu veux en venir.
@@ -210,8 +210,8 @@ Il avait mal été rangé.
 Jacob se retourne et l'attrape de la main, parcourt la page qui a été ouverte par hasard.
 Il se tourne vers moi, et sans réfléchir il lit à voix haute :
 
-> "Avec de la terre, le Seigneur Dieu modela toutes les bêtes des champs et tous les oiseaux du ciel, et il les amena vers l’homme pour voir quels noms il leur donnerait.
-C’étaient des êtres vivants, et l’homme donna un nom à chacun."
+> « Avec de la terre, le Seigneur Dieu modela toutes les bêtes des champs et tous les oiseaux du ciel, et il les amena vers l’homme pour voir quels noms il leur donnerait.
+C’étaient des êtres vivants, et l’homme donna un nom à chacun. »
 
 Puuuuuutain !
 
@@ -235,10 +235,10 @@ C'est Jacob qui me touche les mains.
 Ce contact me fait revenir sur terre, c'est chaud et agréable.
 Je lève les yeux et le trouve content, soucieux pour moi mais content.
 
-— On va manger, Augustine, vient avec nous !
+— On va manger, Augustine, viens avec nous !
 
 Je me lève et le suis, mais cette phrase me poursuit.
 Elle commence l'un des chapitres du livre.
 Je l'ai apprise par cœur :
 
-> Au commencement était le logos, la parole de Dieu, et le logos était avec Dieu, et le logos était Dieu.
+> « Au commencement était le logos, la parole de Dieu, et le logos était avec Dieu, et le logos était Dieu. »

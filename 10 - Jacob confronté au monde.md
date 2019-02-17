@@ -17,7 +17,7 @@ Que j'ai été pris d'une extase mystique suivie de visions cosmiques ?
 Je n'ai jamais été ivre de ma vie.
 Je n'ai jamais tiré sur sur un seul des joints que les autres lycéens roulent sur les bancs publics des parcs de la ville, quand ils se sentent assez libres pour le faire.
 Quant aux autres substances, elles ne m'ont jamais intéressé.
-On m'a déjà dit : "Mec, tu n'as pas besoin de drogues, tu es déjà perché naturellement".
+On m'a déjà dit : « Mec, tu n'as pas besoin de drogues, tu es déjà perché naturellement ».
 Et je dois avouer qu'il y a quelque chose de vrai là-dedans.
 Tout se passe comme si j'étais tombé dans la marmite de LSD quand j'étais petit.
 
@@ -29,7 +29,7 @@ Cet homme a beaucoup trop de puissance mentale pour que je lui résiste longtemp
 Il faut que je trouve un chemin pour sortir rapidement de cette situation, sinon il saura tout de moi.
 Ses yeux sont bleus comme l'un de ses lagons insondables où l'on s'imagine couler sans pouvoir remonter à la surface.
 
-— Ça veut dire quoi, "heu" ?
+— Ça veut dire quoi, « heu » ?
 
 — Ça veut dire que, heu...
 
@@ -50,7 +50,7 @@ La mémoire : ne remonte qu'à cinq minutes en arrière.
 À travailler.
 Les opérations formelles : deux plus deux égale quatre, quatre puissance quatre égale deux-cents-cinquante-six.
 Tout va bien.
-Le language : "Bien mal acquis ne profite jamais".
+Le language : « Bien mal acquis ne profite jamais ».
 Ça ira.
 La prise de décision : c'est ce qui nous intéresse le plus, repassons d'abord sur la mémoire.
 La mémoire : Je m'appelle Jacob Mlynikowski, j'ai dix-sept ans, élève de première L, mes parents sont éducateur et psychologue, j'ai une petite soeur qui s'appelle Manon, de temps en temps je fait des voyages astraux pour discuter avec une entité dont j'ignore tout.

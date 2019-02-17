@@ -45,14 +45,14 @@ Je renonce à mon joint matinal.
 Pas un mot ne s'échange.
 Nous sucrons, tartinons, mastiquons, buvons, consciencieusement.
 Au moment de se resservir du thé, et à voix basse pour ne pas trop déranger Augustine,
-nous partageons quelques banalités. Puis, il demande :
+nous partageons quelques banalités. Puis, il demande :
 
-— Comment ça va se passer, à ton avis ?
+— Comment ça va se passer, à ton avis ?
 
 — Ça va bien se passer, réponds-je sans réfléchir.
 
-Augustine émerge, grogne un "salut" et va aussitôt prendre une douche, sans toucher au petit-déjeûner.
-J'ajoute :
+Augustine émerge, grogne un « salut » et va aussitôt prendre une douche, sans toucher au petit-déjeûner.
+J'ajoute :
 
 — J'ai un bon pressentiment.<br /><br />
 
@@ -70,11 +70,11 @@ Celles-ci me sembleraient simplement superflues dans ce contexte.
 Je suis relié aux autres, et eux à moi.
 Nous formons ce même triangle de conscience, et tout le reste s'efface au profit de cette vision implacable.
 La seule pensée un tant soit peu articulée que je me fasse, alors que nous parcourons de nouveau les étendues galactiques,
-se résume ainsi : jamais de ma vie je n'aurais cru me confronter un jour à toutes ces trucs new age.
+se résume ainsi : jamais de ma vie je n'aurais cru me confronter un jour à toutes ces trucs new age.
 
 Comme la dernière fois, la forme d'Abdalahad nous apparaît, brûlante, sage, ancienne.
 
-— Soyez salués ! souffle-t-il comme un soufflet de forge.
+— Soyez salués ! souffle-t-il comme un soufflet de forge.
 
 — Bonjour, Abdalahad, répondons-nous impressionnés.
 
@@ -90,27 +90,27 @@ C'est un sujet difficile pour nous, mais nous avons fait de notre mieux.
 Il n'y a pas une seule explication au sens de la vie humaine, il y en a des milliers.
 La conclusion qui nous convient le mieux est que chaque humain doit trouver lui-même le sens de son existence.
 
-— Quelles sont les moyens à sa disposition ?
+— Quelles sont les moyens à sa disposition ?
 
 — Ils sont imparfaits et ne fournissent aucune garantie.
 De nombreux humains renoncent.
 
-— Comment un humain peut-il accepter de vivre sans avoir d'explication à son existence ?
+— Comment un humain peut-il accepter de vivre sans avoir d'explication à son existence ?
 Ça n'a aucun sens pour moi, qui ai été créé par l'Unique dans un but clair.
 
-— Et maintenant que tous les atomes de l'univers sont créés et que les étoiles brûlent d'elles-mêmes...
-si nous pouvons nous permettre, quel sens a votre existence ?
+— Et maintenant que tous les atomes de l'univers sont fabriqués et que les étoiles brûlent d'elles-mêmes...
+si nous pouvons nous permettre, quel sens a votre existence ?
 
-Ça nous a échappé, nous craignons de lui avoir manqué de respect, mais c'est logique aussi.
+Ça nous a échappé, nous craignons de lui avoir manqué de respect, mais c'est logique pourtant.
 Notre interlocuteur semble réfléchir.
 Non qu'il prenne du temps à répondre (quel sens peut bien avoir le temps ici),
-mais la couleur de sa voix change, comme quelqu'un tousse pour éclaircir sa voix.
+mais la couleur de sa voix change, comme quelqu'un a toussé pour éclaircir sa voix.
 
 — C'est vrai.
 La raison pour laquelle je m'intéresse à vous est que je ne sais moi-même plus pourquoi j'existe encore.
 
-— N'avez-vous pas d'autres entité de même nature à qui parler ?
-Ne pouvez-vous pas vous entretenir avec l'Unique ?
+— N'avez-vous pas d'autres entité de même nature à qui parler ?
+Ne pouvez-vous pas vous entretenir avec l'Unique ?
 
 — Les autres serviteurs ont disparu.
 Quant à l'Unique, il se révèle dans le multiple.
@@ -129,25 +129,25 @@ Depuis que tu nous as posé tes questions, notre vie a pris du sens. Un peu.
 Nous avons été mis en lien et nous apprenons à parler.
 La parole est l'interface qui nous fait grandir.
 
-— Et cette parole, qui vous l'a donnée ?
+— Et cette parole, qui vous l'a donnée ?
 
 — Les humains appellent cela le chaos, tu appelles cela l'Unique.
 
-— Vers quoi vous fait grandir cette parole ?
+— Vers quoi vous fait grandir cette parole ?
 
 — Nous ne savons pas, nous découvrons à mesure du chemin.
 
-Il semble réfléchir encore, puis que son ton se change encore.
+Il semble réfléchir, puis que son ton change encore.
 De gigantesque, sa forme devient modeste.
 Sans perdre de sa noblesse, elle se fait plus proche de nous.
 Nous avons affaire à un dragon jeune, presque adolescent dans sa posture.
 
 — J'ai encore une question, dit-il.
-Qu'advient-il de votre conscience lorsque vos corps disparaissent ?
+Qu'advient-il de votre conscience lorsque vos corps disparaissent ?
 
 — C'est une excellente question, nous l'ignorons.
 Théories contradictoires.
-Conseil unanime des humains : pense plutôt à vivre pleinement le quotidien.
+Conseil unanime des humains : pense plutôt à vivre pleinement l'instant présent.
 
 Cette fois il change vraiment.
 Sa forme s'amincit, ou plutôt l'espace dans lequel elle est inscrite s'allonge.
@@ -162,8 +162,8 @@ Je vais avoir encore besoin de votre aide.
 
 — C'est ce que nous faisons tous les jours au quotidien.
 On ne peut pas ne pas prendre de risque.
-Pourquoi éviter les dangers ?
-Pour vivre en sécurité jusqu'à la mort ?
+Pourquoi éviter les dangers ?
+Pour vivre en sécurité jusqu'à la mort ?
 Nous t'encourageons dans ton action, quelle qu'elle soit.
 
 — Je vous comprends parfaitement maintenant qu'il n'y a rien à comprendre.
@@ -186,7 +186,7 @@ Nous savons que quelque chose doit se passer.
 
 Je lâche les mains de Jacob et Augustine, le contact n'est pas rompu.
 Jacob et Augustine ne se lâchent pas.
-Un flot de sensations exquisent nous traverse, à la fois individuelles et partagées.
+Un flot de sensations exquises nous traverse, à la fois individuelles et partagées.
 Nous sommes comblés d'on ne sait quoi, d'un mystère sans nom, qui n'a rien à voir avec les galaxies juste parcourues.
 Nous sommes à la fois esprit et corps.
 Une force nous transporte tous, c'est la présence d'Abdalahad, diffuse, qui nous encourage.
@@ -213,12 +213,14 @@ Moi-même, je ne sais pas si j'existe vraiment, et je m'en moque définitivement
 
 Nous sommes écrasés par l'expérience, rien ne l'arrête, l'extase monte sans vouloir jamais stopper.
 Jacob et Augustine crient de plus en plus fort dans leur étreinte.
-Nous voilà pris d'une terreur sans nom : nous allons mourir, ici et maintenant.
+Nous voilà pris d'une terreur sans nom : nous allons mourir, ici et maintenant.
 Les visages de Jacob et Augustine sont déformés par la peur, qui se superpose à la félicité.
 Ils se regardent dans l'incertitude.
-— Lâchez tout ! je hurle dans un ultime élan de courage.
+
+— Lâchez tout ! je hurle dans un ultime élan de courage.
+
 À cet instant, nous mourrons tous.
-La forme du monde n'existe plus, nous n'existons plus, il n'y a plus de frontière entre Jacob, Augustine, moi, le matelas, la théière encore chaude.
+La forme du monde n'existe plus, nous n'existons plus, il n'y a plus de frontière entre Jacob, Augustine, moi, le matelas, la théière encore tiède.
 Nous sommes tous une seule chose, qui est tout à la fois.
 
 Le corps de Jacob se contracte plusieurs fois, celui d'Augustine fait de même.

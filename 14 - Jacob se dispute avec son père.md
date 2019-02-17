@@ -76,7 +76,7 @@ Cette fois il a perdu son calme, il s'est tourné vers moi et me lance un regard
 Mais qu'est-ce qui lui arrive ?
 
 — Heu... j'utilise les battements binauraux que j'ai trouvé dans tes cartons.
-Il y avait un CD marqué "Brainwave" et je l'ai rippé en mp3.
+Il y avait un CD marqué « Brainwave » et je l'ai rippé en mp3.
 
 — Tu as fouillé dans mes affaires !
 
@@ -127,7 +127,7 @@ Mal employés, ils peuvent morceler la psyché, comme tu l'as vécu aujourd'hui.
 
 Le ton est autoritaire.
 Après tout, c'est lui le psychologue.
-Je me résigne, le regarde et lui lance un "d'accord" peu enthousiaste, et m'efface de la pièce.
+Je me résigne, le regarde et lui lance un « d'accord » peu enthousiaste, et m'efface de la pièce.
 
 Je suis debout dans ma chambre, dans le silence.
 Les objets sont tous à leur place, les étagères, le bureau, les posters sur les murs.
@@ -135,7 +135,7 @@ Un seul bruit, un battement sourd : mon cœur.
 
 Marre de ce monde à la con.
 Il suffit qu'on tente de se libérer, ne serait-ce qu'un tout petit peu, du quotidien, et voilà que quelqu'un vous tombe dessus pour vous dire
-"C'est pas bien, ce que tu fais, enfin je te dis ça pour ton bien, pas parce que ça me dérange personnellement".
+« C'est pas bien, ce que tu fais, enfin je te dis ça pour ton bien, pas parce que ça me dérange personnellement ».
 Bande d'hypocrites !
 Bien sûr que ça les dérange !
 Ça les dérange que je sorte de mon corps et que je fasse du hors-piste !
@@ -237,7 +237,7 @@ Sa voix s'efface en murmurant ces mots :
 — Je m'appelle Jacob.
 
 Les mots résonnent dans la lumière du silence, se répètent de plus en plus fort.
-C'est tout le silence qui me hurle "Je m'appelle Jacob" dans les oreilles, encore et encore, des millions de fois, un vrai vacarme.
+C'est tout le silence qui me hurle « Je m'appelle Jacob » dans les oreilles, encore et encore, des millions de fois, un vrai vacarme.
 Le vacarme semble atteindre un paroxysme, et puis, la lumière s'éteint, les échos se noient, le vacarme devient bourdonnement.
 Un battement sourd et régulier émerge au milieu du bourdonnement.
 C'est le bruit de mon cœur.

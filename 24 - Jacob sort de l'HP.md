@@ -65,7 +65,7 @@ Mais les acteurs redeviennent eux-mêmes des zombies la plupart du temps.
 Cette dame assise sur la chaise au bout du couloir, je l'aime bien.
 C'est une zombie, mais elle a quelque chose en plus.
 Son regard est fixe, mais pas vide.
-J'ai entendu des gardes – enfin, des soignants – évoquer le mot "sénilité".
+J'ai entendu des gardes – enfin, des soignants – évoquer le mot « sénilité ».
 Je ne sais pas très bien ce que ça veut dire, mais je crois que c'est l'un de ces mots qu'on utilise pour se protéger des gens pas pareils.
 Elle est ne prend pas de rôle, ne crie jamais, ne se plaint jamais.
 Parfois je m'assois non loin d'elle, et je l'observe pendant un moment.
@@ -89,7 +89,7 @@ Quand les portes de la voiture claquent, je me tourne vers papa, qui tient le vo
 
 — Je sors vraiment ?
 
-Il souffle d'un ton étonné et fatigué : "Ouais !" et le moteur démarre.
+Il souffle d'un ton étonné et fatigué : « Ouais ! » et le moteur démarre.
 
 Le paysage défile.
 Je tente une conversation, l'exercice est très étrange mais c'est mon jour apparemment.

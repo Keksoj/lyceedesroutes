@@ -99,7 +99,7 @@ J'ouvre la porte du bureau et la referme derrière moi.
 — Toi ! je m'exclame.
 
 Mon père s'est levé.
-Il s'écrie : "Augustine !"
+Il s'écrie : « Augustine ! »
 Je suis debout devant lui.
 Il fait signe à la personne de l'accueil, qui a ouvert la porte derrière moi, de refermer la porte, qu'il me connaît, etc.
 La porte se referme.

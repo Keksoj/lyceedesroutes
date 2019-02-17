@@ -103,7 +103,7 @@ Il prend un ton calme, ça fait un nouvel objet d'attention pour elle et de curi
 
 — Je n'en sais pas plus long que vous mais je sens qu'un modérateur n'est pas de trop.
 Je vais tâcher de reformuler les demandes d'Abdalahad et vous allez me dire si nous sommes d'accord.
-Question numéro un : "Quel est le sens de votre vie ?"
+Question numéro un : « Quel est le sens de votre vie ? »
 On est d'accord ?
 
 — Ouais.
@@ -116,20 +116,20 @@ Je fais oui de la tête.
 
 Je fais non de la tête.
 
-— Bien. Enfin, quand je dis "bien"...
+— Bien. Enfin, quand je dis « bien »...
 Deuxième question :
-"Comment faites-vous pour vivre dans cette ignorance ?"
+« Comment faites-vous pour vivre dans cette ignorance ? »
 On est d'accord ?
 
 — Ça ne veut rien dire tout ça, fait Augustine.
-Ça veut dire "quel sens cela a-t-il, de ne pas avoir de sens ?"
+Ça veut dire « quel sens cela a-t-il, de ne pas avoir de sens ? »
 C'est l'hôpital qui se fout de la charité.
 
 — Hein ?
 
 — Je suis pas sûr de l'expression, mais grosso modo, je trouve que ça ne veut rien dire ce qu'il nous demande, c'est pour ça que je suis en colère.
-"Bonjour petits humains, excusez-moi de vous déranger, mais pouvez-vous me résumer en deux minutes ce que des millénaires de philosophies n'ont pas réussi à dénouer ?
-Vous comprenez, je suis un être interdimensionnel, j'ai fabriqué des galaxies et maintenant je m'ennuie, alors je vous pose la question."
+« Bonjour petits humains, excusez-moi de vous déranger, mais pouvez-vous me résumer en deux minutes ce que des millénaires de philosophies n'ont pas réussi à dénouer ?
+Vous comprenez, je suis un être interdimensionnel, j'ai fabriqué des galaxies et maintenant je m'ennuie, alors je vous pose la question. »
 Mais nous on lui a rien demandé, hein.
 Pourquoi on est là, d'ailleurs, hein ?
 Pourquoi on se prend la tête pour lui ?

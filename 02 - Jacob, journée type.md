@@ -181,7 +181,7 @@ Mais c'est peine perdue, je le sens.
 
 — Mais c'est impossible !
 
-— J'ai dit "Essaie" !
+— J'ai dit « Essaie » !
 
 Encore ce ton léger, mi-sérieux, mi amusé ! Je déteste ça. J'aime autant prendre congé.
 

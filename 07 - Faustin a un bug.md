@@ -74,18 +74,18 @@ Contre ma poitrine, les cheveux soigneusement shampooinés d'Anne-Marie continue
 Je les embrasse soigneusement et fais mes adieux à cette chère tête blonde.
 Aussitôt, je décide de manquer le cours suivant, et vais trouver les toilettes les mieux isolées, pour aller sur mon smartphone, demander à Wikipédia tout ce qu'elle peut me dire sur le savon.
 
->"Le savon est un produit liquide ou solide composé de molécules amphiphiles obtenues par réaction chimique entre une base forte, spécifiquement l'hydroxyde de sodium ou l'hydroxyde de potassium, et un ou plusieurs acides gras."
+> « Le savon est un produit liquide ou solide composé de molécules amphiphiles obtenues par réaction chimique entre une base forte, spécifiquement l'hydroxyde de sodium ou l'hydroxyde de potassium, et un ou plusieurs acides gras. »
 
 Je vais chercher, un par un, chacun de ces mots.
 Amphiphile, base forte, hydroxyde de sodium, potassium, acide gras...
 Merde et merde, je suis une brêle en chimie, je suis incapable de différencier un acide d'une base, mais je cherche tous ces mots-clés.
 Je n'y comprend pas tout, je tombe sur d'autres pages qui m'expliquent d'autres choses.
 Qui savait que Potassium se note avec la lettre K, parce qu'en allemand et dans d'autres langues, on l'appelle kalium ?
-Le mot kalium vient lui-même de l'arabe "al qaliyah" qui veut dire : "la cendre des plantes".
+Le mot kalium vient lui-même de l'arabe « al qaliyah » qui veut dire : « la cendre des plantes ».
 
 Un fois que j'ai épluché tous les mots-clés, sans les comprendre, je poursuit l'article.
 
-> "Son caractère amphiphile lui donne des propriétés caractéristiques, notamment la capacité de ses composants moléculaires à se placer à l'interface entre la phase aqueuse (solvant hydrophile) et la phase lipidique (graisse hydrophobe), la formation de mousse et la stabilisation d'émulsions utiles pour le lavage."
+> « Son caractère amphiphile lui donne des propriétés caractéristiques, notamment la capacité de ses composants moléculaires à se placer à l'interface entre la phase aqueuse (solvant hydrophile) et la phase lipidique (graisse hydrophobe), la formation de mousse et la stabilisation d'émulsions utiles pour le lavage. »
 
 Je m'accroche, j'épluche chaque mot.
 J'apprend ce qu'est une phase aqueuse, et une phase lipidique.

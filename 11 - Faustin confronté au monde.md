@@ -29,7 +29,7 @@ Il me jette un regard vide, presque implorant, et me demande avec un étonnement
 
 — Qu'est-ce qui s'est retrouvé plus important que le cours ?
 
-— De façon assez inattendue, il a absolument fallu que je m'isole dans les toilettes pour consulter l'article "savon" sur wikipédia avec mon smartphone.
+— De façon assez inattendue, il a absolument fallu que je m'isole dans les toilettes pour consulter l'article « savon » sur wikipédia avec mon smartphone.
 
 Il ouvre les yeux encore plus grands, si c'était possible.
 
