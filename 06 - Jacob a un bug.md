@@ -4,7 +4,7 @@ Quelle journée magnifique !
 
 Chaque fois que je parle avec Gabriel, je passe un lendemain génial.
 Non pas que le monde soit plus beau.
-En fait, je suis toujours dans ma bulle pour m'en protéger.
+Je suis toujours dans ma bulle pour m'en protéger.
 Disons plutôt que ma bulle s'élargit.
 Oui, c'est ça, elle s'étend autour de moi, jusqu'à englober les bâtiments, les arbres, les gens, tous les objets.
 Le monde entier est ma bulle.
@@ -34,8 +34,8 @@ Des images me viennent, je me vois d'au-dessus comme si j'étais sorti de mon co
 
 — Eh, mais c'est Jacob. Il est pas en cours ?
 
-Le lycée vu du dessus, c'est magnifique, on se croirait sur google maps, seulement la résolution est tellement meilleure, et tout est en 3D.
-Je peux voir chaque voiture circuler autour du lycée, je voix chaque personne, chaque arbre, chaque fourmi.
+Le lycée vu du dessus, c'est dantesque, on se croirait sur google maps, seulement la résolution est tellement meilleure, et tout est en 3D.
+Je peux voir chaque voiture circuler autour du lycée, je vois chaque personne, chaque arbre, chaque fourmi.
 
 — Eh, Jacob, t'as fumé quoi ?
 
@@ -49,11 +49,11 @@ Mon Dieu, c'est magnifique, je vois la France depuis l'espace.
 Elle est magnifique, le soleil brille sur les lacs et les fleuves.
 Et je m'éloigne encore, toujours plus.
 Les Alpes, l'Europe, la Méditerrannée.
-As-t-on jamais rien vu d'aussi beau ?
+A-t-on jamais rien vu d'aussi beau ?
 
 — Bon, qu'est-ce qui se passe, ici ? Qu'est-ce que tu fais planté là, Jacob ?
 
-La Terre entière m'apparaît, orbe parfaite.
+La Terre entière se révèle comme une orbe parfaite.
 Le soleil brille sur la calotte glacière du pôle nord.
 Tout ceci m'apparaît dans la plus parfaite tranquilité.
 Je vogue maintenant à travers l'espace, confiant et sûr de moi.
@@ -63,12 +63,12 @@ Je suis un immense dragon rouge, et je m'appelle...
 — JACOB !
 
 Je n'ai jamais rien vécu d'aussi douloureux de ma vie.
-L'instant d'avant, je voguais tranquillement vers le soleil, et maintenant je suis dans un endroit étrange, face à une créature singulière, bien que vaguement familière.
-Elle se tient debout sur ses deux membres postérieurs, sa tête est munie de deux yeux dont elle se sert pour me regarder, avec une impression vaguement familière.
+L'instant d'avant, je planais tranquillement vers le soleil, et maintenant je suis dans un endroit étrange, face à une créature singulière, bien que vaguement familière.
+Elle se tient debout sur ses deux membres postérieurs, sa tête est munie de deux yeux dont elle se sert pour me regarder, avec une expression qui me semble signifier quelque chose.
 Qu'est-ce qu'elle vient de dire ?
 Jacob ? Ce mot m'est familier, lui aussi.
 Cet endroit en entier est familier, mais je ne parviens pas à le reconnaître.
-Tout est si étrange après l'immense simplicité des espaces immenses où je planais à l'instant...
+Tout est si étrange après l'immense simplicité des espaces immenses où je nageais à l'instant...
 
 — Jacob, mais qu'est-ce qui t'arrive ?
 
@@ -82,7 +82,7 @@ Apparemment, je suis attaché à un corps qui ressemble à celui de la créature
 Des membres postérieurs dont j'ai le contrôle, je peux les tenir devant mes yeux - j'ai des yeux.
 Ces membres postérieurs ont cinq ramifications plus fines - on appelle ça des doigts.
 Comment je sais qu'on appelle ça des doigts ?
-Je ne sais pas, ça m'est paru évident, d'un seul coup.
+Je ne sais pas, ça m'est paru évident, d'un coup.
 
 — Jacob, mais dis-moi quelque chose, nom d'un chien !
 
@@ -95,18 +95,18 @@ Un humain furieux et inquiet.
 Il s'appelle monsieur Charles, c'est le CPE.
 
 Je regarde autour de moi.
-Plusieurs visages étonnés et inquiets me contemplent.
+Plusieurs visages me dévisagent.
 D'autres humains. Des élèves.
 
-Très, très lentement, le brouillard se dissipe et je prend conscience de toute l'épaisseur de la réalité.
+Très, très lentement, le brouillard se dissipe et je prends conscience de toute l'épaisseur de la réalité.
 Et ça va de pire en pire.
-Non seulement je suis un humain, élève dans un lycée, mais en plus, le CPE me regarde avec un regard inquiet et furieux.
+Non seulement je suis un humain, élève dans un lycée, mais qui plus est, le CPE me considère de façon inquiète et furieuse.
 
 — Je t'écoute, Jacob !
 
 Il veut que je dise quelque chose.
 Je regarde à l'extérieur de moi et je vois un monde qui ne fait que m'agresser depuis cinq minutes... ou plutôt, depuis des années et des années.
-D'un seul coup d'un seul, je m'aperçois que la réalité m'attaque tous les jours.
+D'un coup d'un seul, je m'aperçois que la réalité m'attaque tous les jours.
 Le monde est un endroit dur, je m'y cogne, et ça fait mal.
 Vraiment, quel est l'intérêt de vivre dans la réalité, si c'est pour souffrir ?
 Cette grande énigme se développe et s'épanouit dans mon crâne, mais j'ai le sentiment que ce n'est pas ça que veut entendre M. Charles.

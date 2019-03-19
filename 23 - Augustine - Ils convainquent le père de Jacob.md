@@ -9,7 +9,7 @@ Quelle idée de venir à cette heure, aussi.
 
 La mère de Jacob a l'air moins enchantée, nous ne faisions pas partie de son planning.
 Mais elle nous conduit tout de même dans la cuisine, qu'elle finit de ranger en même temps qu'elle met de l'eau à bouillir.
-Pendant qu'elle échange quelques mots précautioneux avec son mari, Faustin et moi restons plantés là, incertains.
+Pendant qu'elle échange quelques mots avec son mari, Faustin et moi restons plantés là, incertains.
 Alors j'examine la maison.
 C'est une vieille bâtisse, qui a été retapée plusieurs fois au cours de son histoire, j'imagine.
 Le couloir de l'entrée est plein de bois, du parquet à l'escalier en passant par la commode, le banc où on se chausse, les porte-manteaux.
@@ -20,7 +20,7 @@ Le frigo croule sous ces magnets qu'on trouve dans les paquets de céréales.
 
 Le père de Jacob remplit des tasses d'eau chaude, on choisit nos sachets de thé, et on le suit dans le salon.
 Là encore, mélange d'ancien et de moderne.
-Des canapés et fauteuils qui paraîtraient démodés même à Emmaüs.
+Des canapés et fauteuils qui paraîtraient démodés même chez Emmaüs.
 Un tapis magnifique.
 Une télé grand écran mais pas hyper moderne non plus.
 Des murs couverts d'étagères qui débordent de bouquins.
@@ -46,7 +46,7 @@ Aujourd'hui, nous aimerions le rencontrer.
 — Aujourd'hui ?
 À cette heure-ci ?
 Il n'est pas un peu tard ?
-il rétorque.
+qu'il rétorque.
 
 Mais qu'il est chiant !
 Faustin se reformule, bla bla bla, pas aujourd'hui même, ces prochains jours, bla bla bla.
@@ -59,7 +59,7 @@ Il lève la tête, incrédule.
 Je reprends :
 
 — Nous-mêmes, on n'a aucune idée de ce qui nous arrive, et on espérait que vous pourriez nous aider à y voir plus clair.
-On a vu des trucs qui n'existent pas et ça nous mets en vrac.
+On a vu des trucs qui n'existent pas et ça nous met en vrac.
 Vous êtes psy, faudrait que ça serve à quelque chose !
 
 Il me regarde, maintenant, et s'adresse à moi comme si j'étais incapable de le comprendre :
@@ -73,13 +73,13 @@ On est fous, sans doute, mais pas morts.
 — Je ne dirais pas que nous sommes fous, intervient Faustin.
 Je pense qu'il nous arrive quelque chose qui dépasse notre compréhension du monde.
 
-— Mon fils est fou, constate le père de Jacob, l'air dévasté.
+— Mon fils est fou, constate le père de Jacob, dévasté.
 
 — Pas si on change de point de vue.
 Michel Foucault, dans son histoire de la folie à l'âge classique, explique que la folie est apparue avec l'émergence de la raison.
 Si on abandonne la prétention à la raison, on se défait de la folie comme maladie.
 
-— Et si on suit le raisonnement de Canguilhem, on ne définit pas la maladie comme une anomalie, mais comme une souffrance.
+— Et si on suit le raisonnement de Canguilhem, on ne définit pas la maladie comme un éloignement de la norme, mais comme une souffrance.
 Que mon fils soit fou ou pas, il est en souffrance.
 
 Je me sens débile quand ils parlent comme ça, et ça m'a l'air assez inutile.
@@ -103,8 +103,8 @@ On pourra le stabiliser, mais il a une chance sur deux de plonger dans la schizo
 — Et que comptez-vous faire au juste ?
 
 Le père de Jacob lève les yeux vers nous.
-Son regard est dur, il semble perdu.
-Et puis il nous dévisage, la bouche ouverte comme un bébé, ça ne lui donne pas l'air malin.
+Son regard est dur, puis perdu.
+Il nous dévisage, la bouche ouverte comme un bébé, ça ne lui donne pas l'air malin.
 On dirait qu'il nous voit pour la première fois.
 
 — Et qui êtes-vous ?
@@ -127,10 +127,10 @@ Un jour, ... <br /><br />
 
 La récollection prends du temps (c'est M. Mlynikowski qui appelle cela une récollection).
 Il faut tout se raconter à nouveau.
-On se refait du thé.
+On refait du thé.
 Cette fois-ci, je mentionne les gens que j'ai frappés, Faustin ajoute des détails qu'il ne m'avait pas donnés (par exemple, sa mère est partie quand il était jeune, le pauvre, je comprends mieux sa tête d'asocial).
 Le père de Jacob devient hyper professionnel.
-Il prends note de tout, pose des questions super précises, me force à me souvenir de détails qui m'avaient échappés.
+Il prend note de tout, pose des questions super précises, me force à me souvenir de détails qui m'avaient échappés.
 Sa posture froide laisse place à de l'entrain, presque de l'amusement.
 Il lance des questions qui n'ont a priori pas d'intérêt, exige des réponses immédiates, relance des questions qui n'ont rien à voir.
 Faustin comprend :

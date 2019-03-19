@@ -1,12 +1,14 @@
 # Dialogue final
 
+### Faustin
+
 J'ouvre les yeux.
 
 Le tapis du salon dévoile ses couleurs.
 Je me tourne sur moi-même et découvre la cheminée, le matelas sur lequel Jacob est couché, le canapé.
 Augustine y dort, roulée en boule sous sa couverture.
 
-Nous avons dormi dans le salon.
+Nous avons dormi là.
 Après la dispute d'hier et la rencontre avec les voyageurs temporels, nous nous sommes tous mis d'accord sur notre mission, si étrange soit-elle.
 Nous avons établi une cellule de brainstorming dans le salon, en partageant les rôles.
 
@@ -25,14 +27,14 @@ Nous avons tout tenté, tout cherché, tout discuté, de notre mieux.
 Il s'est fait tard, nous avons fait du feu dans la cheminée et mordu dans des sandwiches en répandant des miettes sur toutes nos vaines tentatives d'explication du monde.
 Nous, des enfants, avons joué aux adultes, détruit et reconstruit le monde.
 Arrivé à minuit, de guerre lasse, nous avons laissé le feu mourir,
-jeté des matelas sur nos gribouillages métaphysiques, et laissé le sommeil nous gagner.
+jeté des matelas sur nos gribouillages métaphysiques, et cédé au sommeil.
 
 Le jour éclaire la pièce de plus en plus fort.
 Je m'extrait de mon duvet, me lève tant bien que mal et m'oriente vers la cuisine.
 Rituel du matin, du thé.
 Le bruit de la bouilloire remplit le silence de la maison.
 Toutes ces sensations me grisent.
-La cuisine des années 60 qui a l'air plus démodée que la maison elle-même, pourtant plus vieille.
+La cuisine des années 60 a l'air plus démodée que la maison elle-même, pourtant plus vieille.
 Le carrelage froid sous mes pieds nus.
 Le calme de la campagne, orné seulement des chants d'oiseaux.
 L'eau est chaude, je remplis la théière et l'amène au salon, avec trois tasses.
@@ -68,13 +70,15 @@ Les pensées qui m'étaient propres semblent disparaître.
 Non que je sois incapable de mes propres réflexions, elles sont encore mobilisables.
 Celles-ci me sembleraient simplement superflues dans ce contexte.
 Je suis relié aux autres, et eux à moi.
-Nous formons ce même triangle de conscience, et tout le reste s'efface au profit de cette vision implacable.
+Nous formons ce même triangle de conscience, tout le reste s'efface au profit de cette vision implacable.
 La seule pensée un tant soit peu articulée que je me fasse, alors que nous parcourons de nouveau les étendues galactiques,
-se résume ainsi : jamais de ma vie je n'aurais cru me confronter un jour à toutes ces trucs new age.
+se résume ainsi : *jamais de ma vie je n'aurais cru me confronter un jour à tous ces trucs new age*.
 
 Comme la dernière fois, la forme d'Abdalahad nous apparaît, brûlante, sage, ancienne.
 
-— Soyez salués ! souffle-t-il comme un soufflet de forge.
+— Soyez salués !
+
+Un soufflet de forge.
 
 — Bonjour, Abdalahad, répondons-nous impressionnés.
 
@@ -88,7 +92,7 @@ C'est un sujet difficile pour nous, mais nous avons fait de notre mieux.
 
 — Les humains ont développé des écoles de pensées différentes et contradictoires.
 Il n'y a pas une seule explication au sens de la vie humaine, il y en a des milliers.
-La conclusion qui nous convient le mieux est que chaque humain doit trouver lui-même le sens de son existence.
+Celle qui nous convient le mieux est que chaque humain doit trouver lui-même le sens de son existence.
 
 — Quelles sont les moyens à sa disposition ?
 
@@ -109,7 +113,7 @@ mais la couleur de sa voix change, comme quelqu'un a toussé pour éclaircir sa 
 — C'est vrai.
 La raison pour laquelle je m'intéresse à vous est que je ne sais moi-même plus pourquoi j'existe encore.
 
-— N'avez-vous pas d'autres entité de même nature à qui parler ?
+— N'avez-vous pas d'autres entités de même nature à qui parler ?
 Ne pouvez-vous pas vous entretenir avec l'Unique ?
 
 — Les autres serviteurs ont disparu.
@@ -171,7 +175,7 @@ Nous t'encourageons dans ton action, quelle qu'elle soit.
 Sa forme s'allonge de plus en plus, elle s'amincit encore, ou plutôt l'espace s'allonge encore davantage.
 Nous voilà cerné par un dragon-fil qui s'enroule autour de notre triangle de conscience.
 
-— Je parlerai avec une bouche.
+— Je parlerai.
 
 Le fil-dragon se serre autour du triangle, en rapproche deux segments, qui se courbent docilement et se mettent à vibrer plus fort à mesure que le fil les serre...
 
@@ -187,7 +191,7 @@ Nous savons que quelque chose doit se passer.
 Je lâche les mains de Jacob et Augustine, le contact n'est pas rompu.
 Jacob et Augustine ne se lâchent pas.
 Un flot de sensations exquises nous traverse, à la fois individuelles et partagées.
-Nous sommes comblés d'on ne sait quoi, d'un mystère sans nom, qui n'a rien à voir avec les galaxies juste parcourues.
+Nous sommes comblés d'on ne sait quoi, d'un mystère sans nom, qui n'a rien à voir avec les galaxies de tout à l'heure.
 Nous sommes à la fois esprit et corps.
 Une force nous transporte tous, c'est la présence d'Abdalahad, diffuse, qui nous encourage.
 Sa douceur est telle qu'elle ne nous laisse pas vraiment le choix, ou plutôt, nous disons oui avant qu'elle n'ait songé à nous contraindre.
@@ -209,12 +213,12 @@ Jacob et Augustine crient de joie, leurs visages remplis d'extase.
 J'ai beau repenser à la beauté sidérale des étendues que nous avons parcourues lors de nos dialogues avec Abdalahad, rien n'égale la splendeur de ces deux corps complémentaires.
 Les corps étaient dispersés, ils se sont réunis.
 Les consciences de Jacob et Augustine n'y résistent pas, ils sont étourdis, ivres, transportés, comme s'ils mourraient à eux-même.
-Moi-même, je ne sais pas si j'existe vraiment, et je m'en moque définitivement.
+Moi-même, je ne sais pas si j'existe vraiment, et je m'en moque.
 
 Nous sommes écrasés par l'expérience, rien ne l'arrête, l'extase monte sans vouloir jamais stopper.
 Jacob et Augustine crient de plus en plus fort dans leur étreinte.
 Nous voilà pris d'une terreur sans nom : nous allons mourir, ici et maintenant.
-Les visages de Jacob et Augustine sont déformés par la peur, qui se superpose à la félicité.
+Les visages de Jacob et Augustine sont déformés par une peur qui se superpose à leur félicité.
 Ils se regardent dans l'incertitude.
 
 — Lâchez tout ! je hurle dans un ultime élan de courage.

@@ -1,9 +1,10 @@
-# Faustin se dispute avec son père
+# F
 
-Après ma douche.
-Je suis revenu au lycée pour les cours de l'après-midi.
+### Faustin
+
+J'ai pris ma douche, me voilà revenu au lycée pour les cours de l'après-midi.
 Aucun de mes voisins de classe ne s'est formalisé de mes quelques heures d'absence de ce matin.
-J'ai retrouvé Anne-Marie pour quelques moments d'intimité dans le couloir du quatrième étage, on n'a pas été dérangé.
+J'ai retrouvé Anne-Marie pour quelques moments d'intimité dans le couloir du quatrième étage, on n'a pas été dérangés.
 Quelques heures de plus et me voilà sur le chemin de chez moi.
 L'occasion de m'asseoir sur le banc d'un parc, de ressortir la petite tête de weed qui me reste et d'entreprendre le roulage d'un joint.
 
@@ -112,7 +113,7 @@ Et sans même m'en rendre compte !
 Il a enlevé ses lunettes, en mordille un bout et me jauge, comme si j'étais l'une de ses cartes historiques et qu'il m'étudiait à fond.
 Il rétorque :
 
-— Mais qu'est-ce qui t'oblige à faire pareil, c'est ça que je comprends pas.
+— Mais qu'est-ce qui t'oblige à faire pareil, c'est ça que je ne comprends pas.
 Si tu ne veux pas faire comme moi, alors, je te demande : qu'est-ce que tu veux faire ?
 
 — Je sais pas ce que je veux faire !
@@ -140,17 +141,17 @@ Et puis, il fait quelque chose qu'il ne fait jamais normalement.
 Laissant la table sur sa droite, il fait quelques pas vers moi, et me parle dans les yeux, calmement.
 Nous faisons la même taille.
 
-— Faustin, je comprends que ça doit pas être facile de grandir sans maman et que je ne suis pas très présent pour toi.
+— Faustin, je comprends que ça ne doit pas être facile de grandir sans maman et que je ne suis pas très présent pour toi.
 Au point où tu en es, je pourrais te décrire à quoi ressemble ma vie, je pourrais te parler de mes faiblesses, des mes questionnements et de mes peurs, de celles que j'affronte en cultivant mes fameuses laitues.
 Ça ne serait peut-être pas passionnant.
 Tout ceci n'est pas toi.
 Tu es libre de choisir la vie que tu veux mener, totalement libre.
 Et moi, je ne peux pas te montrer qui tu es vraiment, c'est à toi de le découvrir.
 Tu dois affronter la vie toi-même, avec toute ta liberté.
-Tu t'apercevras peut-être que cette liberté est absolument terrifiante, et tu comprendras alors peut-être pourquoi je vis comme je vis.
+Tu t'apercevras peut-être que cette liberté est terrifiante, et tu comprendras alors peut-être pourquoi je vis comme je vis.
 Et peut-être pas.
 
-— Mais toi, tu peux pas juste m'apprendre à vivre ?
+— Mais toi, tu ne peux pas juste m'apprendre à vivre ?
 
 Les larmes me montent aux yeux.
 L'allégorie du barrage n'est pas inapropriée.

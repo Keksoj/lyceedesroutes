@@ -8,7 +8,7 @@ Celle-ci me passe les bras autour du cou.
 Je trouve délicieux comme elle s'emploie à utiliser les tournures les plus plus formelles de la langue française pour s'adresser à moi.
 J'ai l'impression d'être un personnage de Molière.
 
-— C'est pas mal, pas mal du tout, ma toute-belle. Encore mieux depuis cinq secondes, puisque je te tiens dans mes bras.
+— Je vais bien, je vais très bien, ma toute-belle. Encore mieux depuis cinq secondes, puisque je te tiens dans mes bras.
 
 — Voilà un homme qui sais me chérir, je m'en trouve ravie. Sais-tu quand les auspices nous seront favorables aujourd'hui ?
 
@@ -22,13 +22,14 @@ J'ai l'impression d'être un personnage de Molière.
 
 Anne-Marie hasarde un regard en dehors de notre cocon, comme pour vérifier que notre intimité n'est pas trop exposée.
 Cette fille est magnifique.
-Elle est capable de dévorer un Tolkien le samedi et un big mac le dimanche, en réalisant une continuité parfaite entre l'un et l'autre.
-Je me souviens l'avoir vue mimer des combats d'épée avec des frites dans ses petites mains, des tranches de concombre pour figurer les boucliers, et faire les voix par-dessus.
-J'en avais avalé mon sprite de travers, et en avais recraché partout par le nez.
+Elle est capable de dévorer un Tolkien le samedi et un big mac le dimanche, sans transition.
+Je me souviens l'avoir vue mimer des combats d'épée avec ses petites mains, tenant des frites pour figurer les épées, des tranches de concombre pour  les boucliers, et faire les voix par-dessus.
+« Pour le Gondor ! Pour la lumière d'Ecthelion ! »
+J'en avais avalé mon sprite de travers et tout recraché par le nez.
 On a tellement ri ce jour-là !
 C'était notre troisième rendez-vous.
 
-Son visage est tout sage, avec cet air grave, étonné et attentif quand elle pose des questions, à croire que le sort du monde est en jeu.
+Son visage est tout sage, il prend cet air grave, étonné et attentif quand elle pose des questions, à croire que le sort du monde est en jeu.
 Ses cheveux blonds ruissellent de chaque côté de son visage, raides et peu disciplinés.
 Elle porte toujours quelque chose de particulier qui la distingue des autres.
 Aujourd'hui, c'est une chemise dont le col en bataille sort du col en V de son pull.
@@ -79,11 +80,11 @@ Aussitôt, je décide de manquer le cours suivant, et vais trouver les toilettes
 Je vais chercher, un par un, chacun de ces mots.
 Amphiphile, base forte, hydroxyde de sodium, potassium, acide gras...
 Merde et merde, je suis une brêle en chimie, je suis incapable de différencier un acide d'une base, mais je cherche tous ces mots-clés.
-Je n'y comprend pas tout, je tombe sur d'autres pages qui m'expliquent d'autres choses.
+Je n'y comprends pas tout, d'autres pages m'expliquent d'autres choses.
 Qui savait que Potassium se note avec la lettre K, parce qu'en allemand et dans d'autres langues, on l'appelle kalium ?
 Le mot kalium vient lui-même de l'arabe « al qaliyah » qui veut dire : « la cendre des plantes ».
 
-Un fois que j'ai épluché tous les mots-clés, sans les comprendre, je poursuit l'article.
+Un fois que j'ai épluché tous les mots-clés sans les comprendre, je poursuis l'article.
 
 > « Son caractère amphiphile lui donne des propriétés caractéristiques, notamment la capacité de ses composants moléculaires à se placer à l'interface entre la phase aqueuse (solvant hydrophile) et la phase lipidique (graisse hydrophobe), la formation de mousse et la stabilisation d'émulsions utiles pour le lavage. »
 
@@ -100,18 +101,18 @@ Fascinant ! J'ignorais tout cela !
 Ça fait des années que je prend mes douches sans savon.
 Je croyais que le savon était une sorte d'option facultative pour se parfumer.
 Depuis que maman est partie de la maison, j'ai perdu beaucoup de repères concernant l'hygiène.
-Papa ne s'occupe pas beaucoup de moi, de ce point de vue.
+Papa ne s'occupe pas beaucoup de moi de ce point de vue.
 Il est toujours parti à la fac, ou bien je ne sais où, enfin, pas à la maison.
 
 Tout est clair désormais.
 Je repose mon smartphone sur mes genoux et me met à songer, rêveur, au fonctionnement de ce savon dont j'ignorais tant jusque là.
-Dans ma tête, je visualise les molécules de savon, qui s'accrochent d'un côté à une phase aqueuse, de l'autre à une phase huileuse.
+Dans ma tête, je visualise les molécules qui s'accrochent d'un côté à une phase aqueuse de l'autre à une phase huileuse.
 D'un coup, le fonctionnement des bulles de savon devient clair pour moi.
 Je le vois très bien.
 C'est simple la chimie, en réalité.
 Après tout, la matière est faite d'atomes qui se ressemblent tous.
 Ils sont eux-mêmes composés des mêmes particules : protons, neutron, électrons...
-Ces particules sont elles-mêmes issues de particules plus petites encore, et ainsi de suite jusqu'à s'apercevoir que la matière n'est que de l'énergie réduite à une faible niveau de vibration.
+Ces particules sont à leur tour issues de particules plus petites encore, et ainsi de suite jusqu'à s'apercevoir que la matière n'est que de l'énergie réduite à une faible niveau de vibration.
 À l'origine, tout est énergie, c'est après le commencement que l'univers a commencé à se dilater, à se refroidir, à former de la matière, de l'antimatière, de l'énergie noire.
 Des forces colossales furent en jeu, des batailles cosmiques ont eu lieu entre matière et antimatière, entre gravitation et énergie sombre...
 La plus fascinantes des force en présence, c'est celle qui a conduit le coeur des étoiles à fabriquer les atomes dont notre planète et nous-mêmes sommes composés.

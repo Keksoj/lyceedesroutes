@@ -1,4 +1,4 @@
-# Augustine sort de l'HP
+# Augustine hors de l'HP
 
 Il m'a fallu du temps pour sortir de cette saloperie d'HP.
 J'ai fini par comprendre ce qu'il fallait faire :
@@ -24,7 +24,7 @@ Qu'est-ce qui fait que je me retrouve dans cette aventure avec deux cas sociaux 
 Faustin, je le connais de l'an dernier, il était dans ma classe.
 Un type gros et démodé en plus d'être malodorant.
 Toujours prêt à faire une remarque intelligente pour montrer qu'il est au lycée par erreur, qu'il devrait déjà être à la fac.
-Comment il s'est retrouvé en couple avec cette pimbêche d'Anne-Claire, voilà qui est un mystère pour moi.
+Comment il s'est retrouvé en couple avec cette pimbêche d'Anne-Marie, voilà qui est un mystère pour moi.
 Cette fille ressemble à un catalogue de crayons de couleurs.
 Le jeune déjà vieux et la fille aquarelle, finalement ils vont bien ensemble.
 

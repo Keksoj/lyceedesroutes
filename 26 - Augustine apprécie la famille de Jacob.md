@@ -1,4 +1,6 @@
-# Augustine apprécie la famille de Jacob
+# Dans la famille de Jacob
+
+### Augustine
 
 J'adore cette maison, j'adore cette famille.
 La mère de Jacob est super sympa, elle n'a pas eu le moindre regard désobligeant depuis qu'on est arrivé hier soir.
@@ -32,7 +34,7 @@ Je viens le trouver alors qu'il se roule un joint.
 On veut le garder sur terre, le malheureux.
 C'est déjà pas simple.
 
-Il réparti des morceaux d'herbe sur son tabac et entreprends de faire rouler la mixture dans le papier à cigarette.
+Il réparti des morceaux d'herbe sur son tabac et entreprend de faire rouler la mixture dans le papier à cigarette.
 
 — Je sais pas comment tu le trouves, dit-il.
 J'ai l'impression qu'il va mieux.
@@ -133,7 +135,7 @@ Il est temps de m'éclipser.
 
 — Un plaisir !
 
-Là-dessus, je vais m'installer dans le salon, où, installée dans le fauteuil de M. Mlynikowski, je contemple Manon qui dessine dans un cahier de coloriage My Little Pony, pendant que Jacob fait courir son stylo-plume dans un carnet Paperblanks.
+Là-dessus, je vais m'installer dans le salon, où, posée dans le fauteuil de M. Mlynikowski, je contemple Manon qui dessine dans un cahier de coloriage My Little Pony, pendant que Jacob fait courir son stylo-plume dans un carnet Paperblanks.
 Saloperie de famille heureuse, pourquoi n'y ai-je pas eu droit ?
 
 Je pourrais leur parler, je pourrais rester à les regarder.
@@ -161,7 +163,7 @@ Qu'est-ce qu'un humain ?
 Un humain est un être biologique, un primate avec des pouces opposables (pratiques pour dessiner) et un gros cerveau (pratique pour inventer l'écriture).
 
 — Je t'arrête tout de suite, ma petite.
-Quand tu dis « un humain est un être", il y a deux fois le mot « être", une fois en verbe conjugué et une fois en nom.
+Quand tu dis « un humain est un être », il y a deux fois le mot « être », une fois en verbe conjugué et une fois en nom.
 Enlève-en un.
 
 — Un humain est biologique.
@@ -207,8 +209,8 @@ BAM
 
 Un livre est tombé de l'étagère.
 Il avait mal été rangé.
-Jacob se retourne et l'attrape de la main, parcourt la page qui a été ouverte par hasard.
-Il se tourne vers moi, et sans réfléchir il lit à voix haute :
+Jacob se retourne l'attrape de la main, l'amène devant ses yeux, jette un œil sur la page qui a été ouverte par hasard.
+Sans réfléchir, il lit à voix haute :
 
 > « Avec de la terre, le Seigneur Dieu modela toutes les bêtes des champs et tous les oiseaux du ciel, et il les amena vers l’homme pour voir quels noms il leur donnerait.
 C’étaient des êtres vivants, et l’homme donna un nom à chacun. »

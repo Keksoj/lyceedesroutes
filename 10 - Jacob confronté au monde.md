@@ -1,4 +1,4 @@
-# Jacob confronté au monde
+# Jacob face au CPE
 
 Il s'installe dans son fauteuil avec violence, ce qui n'est pas pour me rassurer.
 Quant à moi, je me suis souvenu de comment on utilise une chaise, et me suis appliqué à poser mes fesses sur celle qui est disponible.
@@ -46,15 +46,18 @@ Il suffit de lâcher les manettes... et voilà. J'y suis.
 Tout seul, en sécurité.
 Bien. Ah, ça va mieux !
 Faisons un check-up de notre état mental.
-La mémoire : ne remonte qu'à cinq minutes en arrière.
+
+* La mémoire : ne remonte qu'à cinq minutes en arrière.
 À travailler.
-Les opérations formelles : deux plus deux égale quatre, quatre puissance quatre égale deux-cents-cinquante-six.
+* Les opérations formelles : deux plus deux égale quatre, quatre puissance quatre égale deux-cents-cinquante-six.
 Tout va bien.
-Le language : « Bien mal acquis ne profite jamais ».
+* Le language : « Bien mal acquis ne profite jamais ».
 Ça ira.
-La prise de décision : c'est ce qui nous intéresse le plus, repassons d'abord sur la mémoire.
-La mémoire : Je m'appelle Jacob Mlynikowski, j'ai dix-sept ans, élève de première L, mes parents sont éducateur et psychologue, j'ai une petite soeur qui s'appelle Manon, de temps en temps je fait des voyages astraux pour discuter avec une entité dont j'ignore tout.
-Bien, revenons à la prise de décision : le CPE m'a vu dans un état anormal et s'inquiète.
+* La prise de décision : c'est ce qui nous intéresse le plus, repassons d'abord sur la mémoire.
+* La mémoire : Je m'appelle Jacob Mlynikowski, j'ai dix-sept ans, élève de première L, mes parents sont psychologue et éducatrice, j'ai une petite soeur qui s'appelle Manon, de temps en temps je fait des voyages astraux pour discuter avec une entité dont j'ignore tout.
+
+Bien, revenons à la prise de décision.
+Le CPE m'a vu dans un état anormal et s'inquiète.
 Il est persuadé que j'ai fumé quelque chose et je dois lui donner une explication.
 L'explication la plus acceptable pour lui sera donc que j'ai fumé quelque chose.
 Facile.
@@ -81,7 +84,7 @@ Son regard a perdu de sa dureté et exprime plutôt une certaine lassitude.
 — Mais qu'est-ce que je vais faire de toi...
 
 — Ça ne se reproduira plus, monsieur Charles.
-Je comprend que j'ai dépassé les bornes.
+Je comprends que j'ai dépassé les bornes.
 
 — C'est bien le moins que tu puisses dire.
 Tu vas avoir des problèmes, Jacob, ça c'est moi qui te le dis.

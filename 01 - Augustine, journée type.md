@@ -2,7 +2,7 @@
 
 
 Moi, c'est Augustine. Augustine Lambert.
-17 ans, terminale L au Lycée des Routes de Crémigny.
+17 ans, terminale L au Lycée des Routes.
 Plutôt grande et mince, cheveux bouclés mais pas trop, le genre de fille pas trop mal mais dont le miroir magique renvoie toujours une image pleine de boutons et de petits défauts.
 Que voulez-vous, à mon âge, pas facile de s'assumer quand on a eu trois ans chrono pour se voir pousser des hanches, des seins, et une grosse tendance à baver en pensant à Ryan Gosling.
 Sans oublier ma super copine, madame Menstrue, qui vient me donner un gros coup de latte dans le ventre tous les mois.
@@ -43,7 +43,7 @@ Je suis toujours polie avec ces personnes-là.
 Ces femmes sont au bas de la hiérarchie de l'équipe éducative, mais pour les élèves, ce sont de vrais dieux incarnés, qui font la pluie et le beau temps.
 Elles peuvent laisser quelqu'un rentrer en retard ou partir en avance.
 Elles vérifient tous les papiers importants, et en écrivent beaucoup de non moins importants. Dialoguer avec elles est un défi intéressant.
-Je ne peux pas leur mentir entièrement, mais elles ne doivent jamais savoir ce que je pense en for intérieur.
+Je ne peux pas leur mentir entièrement, mais elles ne doivent jamais savoir ce que je pense en mon for intérieur.
 C'est chaque fois un exercice d'équilibriste, dont je me sors en général plutôt bien.
 Celle qui est la plus disponible m'accueille avec un sourire.
 
@@ -80,7 +80,7 @@ Je me dirige vers une porte que rien ne distingue des autres, mets la clé dans 
 Je n'entre pas.
 Je retourne au troisième étage, où j'ai cours et où mes collègues attendent comme moi le prof qui remonte du deuxième étage.
 M. Rabelais, qui enseigne le français, a autre chose à faire que de se soucier d'une histoire de clé.
-Une élève (c'est moi) lui tend la clé, il s'en saisit, il fait son cours, et à la fin, comme à chaque fois, il la donne à une élève (ce n'est pas moi) qui va la rapporter à la vie scolaire.
+Je lui la lui donne, il s'en saisit, il fait son cours, et à la fin, comme à chaque fois, il la rend à une autre élève qui va la rapporter à la vie scolaire.
 Le même jeu dure depuis le début de l'année.
 Chaque lycée a ses failles. <br /><br />
 
@@ -128,6 +128,6 @@ Alors, régulièrement, je viens ici, en salle 407, pour me réfugier sous une t
 J'ai l'impression que c'est à moi de tout faire marcher, dans ce monde-là.
 Si je n'étais pas là, l'exposé d'allemand n'avancerait jamais.
 Il n'y aurait personne pour récupérer la clé de la salle 308, c'est moi qui le fais depuis le début de l'année.
-Il n'y aurait personne pour parler à mon père et à ma mère, vu qu'ils ne se parlent plus du tout l'un à l'autre.
+Il n'y aurait personne pour maintenir le lien entre ma mère et mon père, vu qu'ils ne se parlent plus du tout l'un à l'autre.
 Ils sont à deux doigts du divorce et je suis entre les deux, dernier rempart pour que ça tienne.
 Si je n'étais pas dans le monde, plus rien de fonctionnerait, j'en ai bien peur.

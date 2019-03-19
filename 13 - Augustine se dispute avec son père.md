@@ -1,9 +1,11 @@
-# Augustine se dispute avec son père
+# Tuer le père
+
+### Augustine
 
 Le voyage en voiture avec ma mère est silencieux.
 Il s'est mis à pleuvoir, de ce temps de chien qui n'est ni du gris ni de la pluie, mais quelque chose entre deux.
 L'humidité rentre même dans la voiture, le chauffage ne fonctionne vraiment qu'au moment où on est arrivées, après de longs silences.
-Je déteste ces moments, maman les déteste sans doute tout autant, on s'est mis d'accord pour se la fermer.
+Je déteste ces moments, maman les déteste sans doute, on s'est mises d'accord pour se la fermer.
 
 Sitôt rentrées, je monte dans ma chambre et m'enferme sous ma couette, roulée en boule, des écouteurs sur la tête. Toujours la même chanson : John Lennon qui chante Love, l'enregistrement de 1970. Cette voix semble me parler de très loin et de très près à la fois. Les mots tombent comme des gouttes de pluie sur un jardin. J'avais peur, il me rassurent. John a vécu bien plus de choses que moi, il est la bouée à laquelle me raccrocher. Du fond des années hippies, il vient me rappeler que les choses devraient être simples.
 
@@ -34,7 +36,7 @@ Ce qu'on échange avec les garçons ? Pfuit !
 Des regards dans les couloirs, des remarques grasses et débiles.
 L'amour c'est ce dont font preuves mes copines ?
 J'ai pas de copines.
-Je n'ai que des pions que je manipule à ma guise, des adolescents influençables par manque d'amour-propre.
+Je n'ai que des pions que je manipule à ma guise, des adolescentes influençables par manque d'amour-propre.
 Je le sais parce que je n'ai aucun amour-propre.
 L'amour c'est l'estime de soi ?
 Mais où est passée cette Augustine conquérante et rayonnante, qui fait avancer les cours, qui rabat le caquet des garçons, qui est enviée par les autres filles ?
@@ -59,7 +61,7 @@ Mais je ne veux rien entendre de tout ça.
 Ma vie est trop horrible pour que je puisse m'intéresser à celle des autres, fut-ce celle de ma mère.
 Heureusement, je suis tellement crevée que le sommeil vient m'emporter bien rapidement.<br /><br />
 
-Dans mes rêves, je vole au-dessus d'îles inconnues, où l'océan vient s'écraser en créant des vagues énormes.
+Dans mes rêves, je vole au-dessus d'îles inconnues où l'océan vient s'écraser en vagues énormes.
 Je vole au-dessus, pleine d'une jubilation incroyable.
 Je m'amuse à compter chaque goutte d'eau, à voler au-dessus de chaque rocher, à passer à l'intérieur des vagues qui forment des rouleaux, comme le ferait un surfeur.
 Je ressens une joie pure, neuve, sauvage.<br /><br />
@@ -118,14 +120,14 @@ Mon père s'est raproché, mes yeux ont commencé à pleurer, mais je reste maî
 — Augustine, tu vas te calmer tout de suite sinon ça va mal finir.
 
 — Comment tu veux que ça finisse plus mal !
-
-Maman boit son whisky pour oublier que tu la trompes avec ta pétasse de responsable marketing, je me fais virer du lycée parce que je suis devenue violente, et toi t'es au courant de rien, tu m'envoies des SMS parce que t'es plus capable de parler directement à ta femme, ça va pas, mais alors pas du tout.
+Maman boit son whisky pour oublier que tu la trompes avec ta pétasse de responsable marketing, je me fais virer du lycée parce que je suis devenue violente, et toi t'es au courant de rien, tu m'envoies des SMS parce que t'es plus capable de parler directement à ta femme.
+Ça ne va pas, mais alors ça ne va pas du tout.
 Comment tu voudrais que ça finisse plus mal !
 
 J'ai parlé assez fort pour que le son traverse la cloison semi-transparente.
 Derrière, les silhouettes des collègues de mon père.
 Ils ont tout entendu.
-Le visage de mon père est allé de l'étonnement à la rage en passant par la colère.
+Le visage de mon père est allé de l'étonnement à la rage.
 Il me saisit le bras droit avec sa main gauche, j'essaie de me dégager, mais déjà la paume de sa main droite se lève pour me donner une claque.
 
 Il se passe quelque chose que je ne comprends pas trop.
@@ -147,7 +149,7 @@ Dix visages héberlués me regardent sortir du bureau.
 Je repasse à côté du guichet où des clients me contemplent avec des yeux ronds.
 Je lâche :
 
-— On peut pas faire confiance aux banquiers, faites-vous respecter.
+— Ne faites pas confiance aux banquiers, achetez du bitcoin.
 
 Dehors, la pluie continue de tomber finement.
 Elle rencontre un visage serein : c'est le mien.

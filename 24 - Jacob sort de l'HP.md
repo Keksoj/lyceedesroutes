@@ -67,8 +67,8 @@ C'est une zombie, mais elle a quelque chose en plus.
 Son regard est fixe, mais pas vide.
 J'ai entendu des gardes – enfin, des soignants – évoquer le mot « sénilité ».
 Je ne sais pas très bien ce que ça veut dire, mais je crois que c'est l'un de ces mots qu'on utilise pour se protéger des gens pas pareils.
-Elle est ne prend pas de rôle, ne crie jamais, ne se plaint jamais.
-Parfois je m'assois non loin d'elle, et je l'observe pendant un moment.
+Elle ne prend pas de rôle, ne crie jamais, ne se plaint jamais.
+Parfois je m'assois non loin d'elle, et l'observe pendant un moment.
 Elle ne bouge pas.
 Je n'arrive pas à décrire son visage.
 Quelque chose m'échappe, mais ce n'est pas comme la couleur disparue des fleurs.
@@ -84,7 +84,7 @@ Au bout du couloir il y a... mon père ?
 
 Son visage semble bienveillant, mais je doute de tout en ce moment.
 J'ai du mal à croire que je suis vraiment en train de ranger mes affaires dans mon sac puis de le jeter sur mon épaule.
-Quand je vois le portail de l'hôpital diminuer de taille derrière moi, je n'y crois guère.
+Quand je vois le portail de l'hôpital diminuer de taille derrière moi, je n'y crois qu'à moitié.
 Quand les portes de la voiture claquent, je me tourne vers papa, qui tient le volant d'une main et met le contact de l'autre.
 
 — Je sors vraiment ?
@@ -117,7 +117,7 @@ Je tente une conversation, l'exercice est très étrange mais c'est mon jour app
 Pour une fois qu'une conversation se passe bien avec papa, je ne vais pas en rester là.
 Je vais le tester.
 
-— Tu sais que je suis devenu fou, que j'ai des visions, que j'entends des voix ?
+— Tu sais que je suis fou, que j'ai des visions, que j'entends des voix ?
 
 — Ça peut arriver à tout le monde.
 

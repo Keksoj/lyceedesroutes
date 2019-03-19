@@ -10,7 +10,7 @@ Si on écoutait mon père banquier, tout le monde devrait prendre son petit-déj
 Maman jouait à lui taper sur les nerfs, bien sûr.
 C'est le seul moyen qu'ils ont de communiquer, aujourd'hui : les petits détails du quotidien, ceux qui énervent sans avoir besoin de parler.
 Évidemment, papa va rentrer hyper tard du boulot, ce qui énervera maman tout autant.
-Et entre les deux, c'est encore moi qui vais encore trinquer.
+Et entre les deux, c'est moi qui vais encore trinquer.
 
 On comprendra que je ne suis pas de la meilleure humeur du monde au moment de passer les grilles du lycée.
 Une sorte d'énergie sourde brûle en moi.
@@ -21,8 +21,8 @@ Je m'assois rageusement à table, sors mon cahier, et décide de noter absolumen
 Cause toujours, mon vieux, cause toujours.
 « Après la victoire de l'Armée Populaire de Libération en 1949... »
 Autant dire la préhistoire...
-« Bon, je vais l'écrire au tableau. Zut. Quelqu'un peut aller à la vie scolaire chercher un feutre qui fonctionne ? »
-Compte pas sur moi, mon coco, je suis bien décidé à prendre des notes.
+« Bon, je vais l'écrire au tableau. Zut. Quelqu'un peut-il aller à la vie scolaire chercher un feutre qui fonctionne ? »
+Compte pas sur moi, mon coco, je suis bien décidée à prendre des notes.
 Tout ce que tu diras sera retenu contre toi, comme disent les types du FBI.
 
 Ça dure un moment comme ça.
@@ -46,12 +46,13 @@ C'est mon amie Clémence qui se tient devant moi, ses affaires rangées.
 Derrière elle marchent les quelques derniers élèves qui sortent de la classe.
 Je regarde autour de moi : le cours est terminé.
 Je ne m'en étais pas rendu compte.
-Mais qu'est-ce que je notais sur mon cahier, alors même que le cours était fini ?
+Mais qu'est-ce que je notais sur mon cahier ?
+Le cours était fini !
 
-— Ah, excuse, je range mon cahier et j'arrive.
+— Ah, excuse, je range mes affaires et j'arrive.
 
-Je rejoins Clémence dans le couloir et on se dirige vers le cours de maths, avec Mme Seguin-Thalès.
-Une fois installés, à faire nos petits exercices de loi binomiale, je repense à ce qui m'a pris en cours d'histoire.
+Je rejoins Clémence dans le couloir et on se dirige vers le cours de spé maths avec Mme Seguin-Thalès.
+Une fois installées à faire nos petits exercices de loi binomiale, je repense à ce qui m'a pris en cours d'histoire.
 Mais Clémence bavarde à propos d'histoires de garçons :
 
 — Et alors, le prof de philo a dit, je sais plus pourquoi, « on dit merci à qui ? »
@@ -72,8 +73,7 @@ Je te laisse, j'aime pas embêter les gens.
 
 Elle se tourne vers son cahier et ne dit plus rien.
 Ah, Clémence ! Quel caractère !
-Elle est vexée pour toute l'heure, comme ça.
-Je retourne à mon exercice et me consacre pleinement à mon étonnement.
+Je retourne à mon exercice et mais n'arrive pas à me concentrer.
 Qu'est-ce qui m'arrive aujourd'hui ?
 Qu'est-ce qui s'est passé en cours d'histoire ?
 Et si le cours était fini, qu'est-ce que je notais fébrilement sur mon cahier ?
@@ -88,7 +88,7 @@ Ah, voilà la fin des notes :
 Ce sera tout, bonne journée...
 C'est une belle planète.
 Comme quoi la chimie à froid n'est pas mal non plus.
-Ça faisait longtemps que je n'avais pas vu autant de combinaisons chimiques différentes dans un seul endroit.
+Ça faisait longtemps que je n'avais pas vu autant de combinaisons différentes dans un seul endroit.
 Les formes de vie prennent un bel équilibre.
 Étrange comme les Humains s'acharnent à vouloir contrôler tout cet environnement qui se régule déjà lui-même.
 Étrange et intéressant.
@@ -99,16 +99,17 @@ Je deviens dingue ou quoi ?
 Brrr, brrr. C'est mon portable qui vibre.
 J'espère que la prof n'a pas entendu.
 Le plus discrètement du monde, je le sors.
-Un message de papa : « `Tu diras à ta mère que je ne rentre pas ce soir.` »
+Un message de papa : `« Tu diras à ta mère que je ne rentre pas ce soir. »`
 
-Les couloirs du lycée me donnent la nausée. Ce monde me donne la nausée.
+Les couloirs du lycée me donnent la nausée.
+Ce monde me donne la nausée.
 Je ne sais même plus de quelle classe je sors, c'est à peine si je sais où je suis.
 Tiens, voilà Tom qui s'approche.
 Il vient sans doute pour l'exposé d'allemand.
 
 — Tiens, Augustine, salut. Je viens te dire, pour l'exposé d'allemand...
 
-Je l'observe sans rien dire, sans pouvoir réprimer un rictus de dégoût.
+Je l'observe sans rien dire, je n'essaye même pas de réprimer un rictus de dégoût.
 
 — En fait, j'ai pas fait ma partie, il va falloir qu'on trouve une solution avec Julie...
 
@@ -128,6 +129,6 @@ Je défoule sur lui toute ma haine du genre humain.
 
 — Augustine, tu te calmes !
 
-On me saisit les bras, c'est d'autres élèves qui me bloquent, et moi je crie, et mon ventre me fait hyper mal, je n'arrive plus à respirer, tout devient noir, je tombe sur mes genoux, cherche ma respiration, et parviens finalement à vomir tout ce que contient mon estomac.
+On me saisit les bras, ce sont d'autres élèves qui me bloquent, et moi je crie, et mon ventre me fait hyper mal, je n'arrive plus à respirer, tout devient noir, je tombe sur mes genoux, cherche ma respiration, et parviens finalement à vomir tout ce que contient mon estomac.
 
 Journée pourrie.

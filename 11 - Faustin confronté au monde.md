@@ -1,9 +1,9 @@
-# Faustin confronté au monde
+# Faustin face au CPE
 
 Je suis Mme Médiane jusque dans le bureau de la vie scolaire.
 Je croise ce type de ma classe, Jacob, qui en sort quand j'y rentre.
 Il fait une drôle de tête.
-Mais rapidement je n'y fais plus du tout attention, parce que voilà M. Charles qui sort de son bureau attenant, et qui m'aperçoit tout de suite.
+Mais bientôt je n'y fais plus du tout attention, parce que voilà M. Charles qui sort de son bureau attenant, et qui m'aperçoit tout de suite.
 Il a les yeux écarquillés et me montre du doigt en disant :
 
 — Faustin ! Et toi, qu'est-ce que tu as fait ?
@@ -18,7 +18,7 @@ Mme Médiane s'interpose.
 
 — Je m'en charge ! Aujourd'hui c'est la journée ! Faustin viens par ici !
 
-Et ben dis donc il est pas d'humeur.
+Et ben dis donc il n'est pas d'humeur.
 Ses gestes sont brusques, il se laisse tomber lourdement sur son fauteuil.
 Moi, je m'installe doucement sur une chaise de l'autre côté du bureau.
 Il me jette un regard vide, presque implorant, et me demande avec un étonnement mêlé de désespoir :
@@ -70,8 +70,8 @@ Les institutions ne rassurent plus personne, les politiques mentent, les fanatiq
 — Je ne comprends pas... c'était la même chose à mon époque.
 Quelle différence présentez-vous ?
 
-— Les trente glorieuses sont-elles finies, la guerre des idéologies n'a plus lieu d'être puisque le capitalisme a gagné.
-Nous n'avons plus aucun idéal vers lequel tendre.
+— Les trente glorieuses sontelles finies, la guerre des idéologies n'a plus lieu d'être puisque le capitalisme a gagné.
+Nous n'avons plus d'idéal vers lequel tendre.
 
 Il me regarde avec les yeux les plus intenses que j'ai jamais vus.
 Quelle pensées peuvent bien tournoyer dans le crâne de cet homme si mystérieux ?

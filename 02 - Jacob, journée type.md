@@ -101,21 +101,17 @@ Il n'est même pas vingt heures.
 Je vais m'allonger sur le lit.
 Ma main trouve d'elle-même le casque stéréo, que je place sur mes oreilles, ainsi que le lecteur mp3.
 
-Ce que j'écoute, ce soir, ce sont des sons binauraux, ces sons qui diffèrent entre l'oreille gauche et l'oreille droite, différence qui induit une fréquence résiduelle, très basse, qui modifie le rythme cérébral.
+Ce que j'écoute, ce soir, ce sont des battements binauraux, ces sons qui diffèrent entre l'oreille gauche et l'oreille droite, différence qui induit une fréquence résiduelle, très basse, qui modifie le rythme cérébral.
 J'ai trouvé ça dans les affaires de papa.
 Je crois qu'il ne sait pas que je m'en sers.
 
 Allongé sur mon lit, les oreilles bercées par des sons qui ne sont pas de ce monde, j'adopte une respiration calme et régulière.
 
-Je me détends, de plus en plus, jusqu'à sentir
-
-que mon corps
-
-n'est plus
-
-mon
-
-corps.
+Je me détends, de plus en plus, jusqu'à sentir  
+que mon corps  
+n'est plus  
+mon  
+corps.  
 
 La grande question bien sûr c'est : comment mon corps peut-il ne plus être mon corps ?
 Eh bien, c'est difficile à expliquer.

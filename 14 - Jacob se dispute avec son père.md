@@ -1,4 +1,6 @@
-# Jacob se dispute avec son père
+# Retour sur Terre
+
+### Jacob
 
 Réveillé à l'infirmerie, tout va bien.
 On me laisse sortir, l'heure de la fin des cours est passée depuis une heure.
@@ -52,8 +54,7 @@ Je réponds sans grande émotion.
 — C'est vrai ? Tu as fumé un joint ? demande-t-il doucement.
 
 Inutile de mentir, cette fois.
-
-— Non, rétorqué-je mécaniquement.
+Mécaniquement, je rétorque que non.
 
 — Que s'est-il passé, dans ce cas ?
 
@@ -83,7 +84,7 @@ Il y avait un CD marqué « Brainwave » et je l'ai rippé en mp3.
 Maintenant il est furieux, mais qu'est-ce qui lui prend ?
 
 — Bon papa, c'est quoi le problème ?
-Tu as des cartons plein de vieux tests de QI, de bouquins de psychanalyse, et ça t'a jamais gêné que je fouille là-dedans.
+Tu as des cartons plein de vieux tests de QI, de bouquins de psychanalyse, et ça ne t'a jamais gêné que je fouille là-dedans.
 
 — Oui, mais ça ! Mais ça !
 
@@ -183,7 +184,7 @@ J'explose, l'émotion m'emporte.
 
 — Ah, non, tu ne vas pas te mettre à me persécuter comme les autres !
 Aujourd'hui j'ai eu une expérience magnifique et ça ne m'a valu que des problèmes.
-J'aurai voulu dire à l'entièreté de l'humanité à quel point le monde est magnifique, et on m'a traité avec méfiance, discrédit, remontrances.
+J'aurais voulu dire à l'entièreté de l'humanité à quel point le monde est magnifique, et on m'a traité avec méfiance, discrédit, remontrances.
 C'est insupportable !
 Ce monde est insupportable !
 La vie est-elle ainsi faite qu'elle doive détruire tout ce qu'y a de beau en nous ?
@@ -227,7 +228,7 @@ Le voilà maintenant devant moi.
 — Aujourd'hui tu as beaucoup appris.
 Continue !
 N'aie pas peur de souffrir, la souffrance te purifie.
-Mais ne recherche pas la souffrance.
+Mais ne la recherche pas pour autant.
 Tu dois prendre soin de ton corps.
 
 Il a tourné.

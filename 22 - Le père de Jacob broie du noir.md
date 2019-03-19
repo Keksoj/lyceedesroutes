@@ -9,17 +9,17 @@ Tel le chat de Schrödinger, il en est sorti aussi mort que vivant, conscient qu
 Il est un homme complet car connaisseur de son incomplétude.
 
 Aujourd'hui, il est rempli d'un sentiment nouveau.
-Enfoncé dans son fauteuil à ennui (sa posture préférée pour se vider de la journée), il a peur, non pour lui-même, mais pour son fils Jacob qui n'a presque plus de contact avec la réalité.
+Enfoncé dans son fauteuil à ennui (sa posture préférée pour se vider de la journée), il a peur.
+Non pour lui-même, mais pour son fils Jacob qui n'a presque plus de contact avec la réalité.
 Jérôme Mlynikowski est en train de perdre son fils, une douleur qu'il ne pensait jamais ressentir.
 
 — Ça ne te sied pas, d'être aussi craintif.
 
 La voix est venue de son for intérieur.
 Cette voix, c'est l'autre lui-même.
-L'Autre lui parle avec sa propre voix, d'un ton distant, comme de derrière un miroir, ou de sous la surface d'un lac.
-La première fois qu'il l'a entendu, Jérôme a cru qu'il lui manquait une case.
-Et puis, il s'est rendu compte que l'Autre remplissait justement cette case manquante.
-L'Autre parle avec la même voix, mais utilise des mots légèrement différents.
+La première fois qu'il l'a entendue, Jérôme a cru qu'il lui manquait une case, pour se rendre compte que l'Autre remplissait justement cette case manquante.
+L'Autre lui parle avec la même voix que lui, d'un ton distant, comme de derrière un miroir, ou de sous la surface d'un lac.
+L'Autre lui ressemble presque exactement, mais utilise des mots légèrement différents.
 Jérôme a appris à dialoguer avec l'Autre.
 C'est confiant qu'il répond :
 
@@ -48,14 +48,14 @@ Jérôme s'est tourné pour s'appuyer sur l'acoudoir, il enfonce son visage dans
 L'Autre continue :
 
 — Est-ce à toi de décider s'il doit mourir ou non ?
-Es-tu Dieu pour en juger ?
+Es-tu Dieu pour en décider ?
 
 — Tu m'énerves, tu m'énerves complètement.
 
 La prostration est un sport qu'il connaît déjà bien.
 Cependant, fuir de soi-même est un exercice mental exténuant.
 Son esprit cours à en perdre haleine sur la plaine, poursuivi par son propre regard.
-Condamné à fuir, il doit se replier dans une activité qui fera pousser des arbres sur cette étendue mentale.
+Condamné à fuir, il doit se replier dans une activité qui posera des boucliers sur cette étendue mentale.
 
 Il se lève, va trouver la Bible sur l'étagère, s'en saisit.
 Déjà il sent la pression retomber.
@@ -65,16 +65,16 @@ Il aime reconnaître le contexte historique, l'auteur, le public, le style emplo
 Il aime également chercher ce qui est écrit entre les lignes, déceler la sagesse qui ne dit pas son nom.
 
 Le livre dans une main, le menton sur l'autre, Jérôme va mieux.
-Plongé dans des considérations métaphysiques, il est soulagé de sa douleur, du moins de façon immédiate.
-Immergé dans la lecture, il relit chaque verset plusieurs fois.
+Plongé dans des considérations métaphysiques, il est soulagé du vide mental, du moins de façon immédiate.
+Il s'immerge dans la lecture, il relit chaque verset plusieurs fois.
 
 > Abraham répondit :  
 « C'est Dieu qui pourvoira à l'agneau pour l'holocauste, mon fils ».  
 Et il s'en allèrent tous deux ensemble.
 
 Il relit, songeur, ces derniers mots, *« ils s'en allèrent tous deux ensemble »*, mais voilà qu'on sonne à la porte d'entrée.
-Il entend son épouse, Marion, parcourir le couloir d'un pas pressé en maugréant parce que ce n'est pas une heure pour sonner chez les gens.
-La porte s'ouvre.
+Il entend son épouse, Marion, parcourir le couloir d'un pas pressé en maugréant que ce n'est pas une heure pour sonner chez les gens.
+On entend la porte s'ouvrir.
 Des bonjours timides prononcés par des voix jeunes.
 Déjà il a reposé le livre sur l'étagère pour rejoindre la scène.
 Marion tient la porte d'une main en menant la conversation avec une certaine réserve.
@@ -84,8 +84,8 @@ Un garçon, plutôt replet et débraillé, l'air mal à l'aise.
 Une fille un peu trop maquillée, peut-être d'un milieu populaire.
 Ils ont déjà expliqué à la mère de Jacob qui ils sont, Faustin et Augustine, du Lycée des Routes, presque dans la classe de Jacob.
 Jérôme se souvient.
-C'est eux qui ont fait un malaise puis une crise en même temps que Jacob.
-La synchronicité des évènement avait intéressé Jérôme mais il a vite compris que leur cas était moins grave que celui de son fils.
+C'est eux qui ont fait un malaise puis une crise en même temps que son fils.
+La synchronicité des évènement avait intéressé Jérôme mais il a vite compris que leur cas était moins grave que celui de Jacob.
 Tout juste a-t-il appris du psychiatre qu'Augustine était resté quelques jours à l'HP, suivie pour profil anxieux et troubles du comportement.
 Ce Faustin, par contre, ne lui a été évoqué que de loin.
 

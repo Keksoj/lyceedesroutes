@@ -4,7 +4,7 @@ On m'a laissé partir de l'hôpital le lendemain.
 Des trois, j'ai été le plus rapide à me calmer et à me laisser faire.
 Au matin, j'ai mis tout ce qui s'est passé dans une boîte noire, et j'ai affirmé que j'avais été victime d'un délire passager après être tombé dans les pommes par manque de sommeil.
 Les médecins étaient dans le doute, mais mon père est venu.
-Il a joué le rôle de l'avocat, me posant des questions qui mettaient en valeur la logique de mon discours.
+Il a joué le rôle de l'avocat, m'a posé des questions qui mettaient en valeur la logique de mon discours.
 Les types de l'hôpital ont laissé tomber, ils avaient plus urgent.
 Augustine avait l'air bien perturbée au réveil, ils l'ont emmenée.
 Mais le pire, c'est Jacob.
@@ -13,17 +13,18 @@ Ils l'ont emmené à l'HP, où il est encore.
 J'espère qu'il va bien.
 Difficile de savoir, comme je ne suis pas de la famille.
 Mon père m'a ramené à la maison, je lui ai fait comprendre que je n'avais rien à raconter sur ce qui s'est passé, il n'a pas tenu à en savoir plus.
-Je ne sais pas encore si je raconterai les évènements à Anne-Claire.
+Je ne sais pas encore si je raconterai les évènements à Anne-Marie.
 Je préfère préserver notre relation de ce genre d'inquiétude.
 Tout va bien avec elle, j'ai une chance incroyable.
+
 Je suis retourné en cours le jour même.
 Plusieurs élèves m'ont demandé ce qui s'était passé, j'ai répondu de façon évasive, ils ont abandonné.
 
 Cette société est incapable de digérer quoi que ce soit qui sort de la matérialité.
 Elle aime les histoires de folie, mais pour mieux s'en protéger.
-Les faits divers structurent le vivre-ensemble, ils sont des anti-exemples sur lesquels on fonde nos normes.
+Les faits divers structurent le vivre-ensemble, ils sont des anti-exemples sur lesquels on fonde les normes.
 Des années après, on fait perdurer l'affaire du petit Grégory.
-C'est devenu un cas d'école, on ciconscrit l'horreur par une attention morbide, on trace une limite entre l'impensable et notre quotidien.
+C'est devenu un cas d'école, on circonscrit l'horreur par une attention morbide, on trace une limite entre l'impensable et notre quotidien.
 Jacob a fait une erreur en prétendant détenir une vérité inaccessible aux autres, ça l'a isolé de la société.
 Il ne sera réintégré que lorsqu'il reconnaîtra les normes du vivre-ensemble que les autres lui proposent.
 
@@ -46,13 +47,12 @@ Je la connais peu, comme Jacob, mais je pars d'une mauvaise impression.
 Typiquement le genre de fille hautaine et superficielle qui s'entoure d'une clique d'adeptes influençables, motivés par la peur d'être seul. Pas mon genre.
 Mais on est dans la même panade, alors autant mettre mes a prioris au placard.
 
-Un échange de numéro plus tard, elle m'appelle, je décroche.
+Un échange de numéro plus tard, mon téléphone sonne et je décroche pour entendre sa voix impérieuse :
 
 — Faustin, je viens de sortir de l'HP.
 Dis-moi, qu'est-ce qu'il s'est passé l'autre jour ?
-lance-t-elle d'un ton impérieux.
 
-— Bah écoute, je me pose la même question.
+— Et bien, je me pose la même question.
 Une hallucination collective, c'est le meilleur terme.
 Encore qu'on a halluciné séparément, chacun dans notre tête, c'est inhabituel pour une hallucination collective.
 
@@ -77,14 +77,14 @@ Je prends le temps de démêler cet embrouillamini de questions et d'y répondre
 
 — On ne sait pas à quoi tout ça rime, malheureusement.
 Pourquoi nous trois, et bien, pourquoi pas ?
-Ce qu'on fait maintenant, c'est réfléchir à ce qu'on peut faire.
+Ce qu'on fait maintenant : réfléchir à ce qu'on peut faire.
 C'est déjà pas mal de réfléchir.
 Quant à la folie, je me suis distancié de cette notion depuis l'évènement.
 Michel Foucault explique que la folie est un concept plutôt récent en occident, c'est apparu à l'âge classique...
 
 — On s'en fout de ces théories !
 Jacob est encore à l'HP ?
-Il ne réponds pas à mes messages.
+Il ne répond pas à mes messages.
 
 — Il y est encore.
 Sa sœur pleure sur facebook.
@@ -92,7 +92,7 @@ Elle ne donne pas de détails mais c'est forcément à cause de lui.
 
 — Il a pris cher, hein ?
 
-Silence.
+On se tait.
 Il faut admettre que Jacob en train de se faire attacher les bras et piquer la fesse était un triste spectacle.
 
 — Il faut le sortir de là, propose Augustine.

@@ -1,4 +1,4 @@
-# Abdalahad devise
+# Abdalahad
 
 J'ai beau y réfléchir, le problème demeure.
 J'ai du mal à penser, ces dernier temps.
@@ -59,7 +59,7 @@ Mieux vaut éviter de les chambouler.
 Je vais en choisir trois et leur souffler dessus, juste un tout petit peu.
 Ça les fera vibrer un chouïa plus vite que le reste de leur environnement, cela devrait suffire.
 
-Quant à moi, je vais m'attacher à cette portion d'espace-temps, tâchant de suivre le Temps dans le même sens et à la même vitesse qu'eux, sinon on ne pourra pas du tout se parler.
+Quant à moi, je vais m'attacher à cette portion d'espace-temps, tâcher de suivre le Temps dans le même sens et à la même vitesse qu'eux, sinon on ne pourra pas du tout se parler.
 Dans quelle aventure je m'embarque !
 Les Humains, quand même !
 A-t-on jamais vu pareille expérience ?

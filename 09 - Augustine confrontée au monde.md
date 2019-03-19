@@ -1,4 +1,4 @@
-# Augustine confrontée au monde
+# Augustine face au CPE
 
 Mon corps respire un peu mieux depuis quelques dix minutes.
 Sur ce lit d'infirmerie, c'est plus facile.
@@ -10,7 +10,7 @@ J'entends la porte qui s'ouvre.
 
 Je grogne une réponse affirmative.
 
-— Bon, bah, monsieur Charles t'attend dans son bureau.
+— Bon, et bien, monsieur Charles t'attend dans son bureau.
 Ta mère devrait bientôt arriver.
 
 Ma mère. C'est le bouquet.
@@ -18,16 +18,16 @@ La situation était déjà assez moisie comme ça, maintenant ma mère va s'en m
 Ou plutôt, la situation va se mêler de ma mère, et ma mère va encore prendre cher.
 Crotte et crotte.
 
-Je me lève, remet mes chaussures.
+Je me lève, remets mes chaussures.
 D'un pas chancelant, je traverse l'infirmerie, en sors, et engage mes pas dans le couloir.
 Heureusement, il n'y a pas trop de monde.
-Le bureau de M. Charles est situé juste à côté de celui de la vie scolaire, qui sert d'antichambre..
+Le bureau de M. Charles est situé juste à côté de celui de la vie scolaire, qui sert d'antichambre...
 Je traverse cette première pièce, en évitant de croiser le regard des dames qui y siègent, silencieuses comme des statues.
 Elles savent que je suis en mauvaise posture et n'en rajouteront pas.
 J'entre dans le bureau du CPE, qui est penché sur son ordinateur sans me regarder.
 Je fais un pas de plus et ne bouge pas.
 
-Il concentre toute son attention sur son ordi, comme si je n'existait pas.
+Il concentre toute son attention sur son ordi, comme si je n'existais pas.
 C'est très énervant, j'ai l'impression d'être un élément du décor, au même titre que le masque africain accroché au mur derrière son bureau.
 Et puis, subitement, il arrête de cliquer, s'éloigne de l'écran, enlève ses lunettes, se pose au fond de son siège, se tourne vers moi.
 
@@ -56,7 +56,7 @@ Ce qui m'intéresse, c'est pourquoi tu as fait ça.
 Qu'est-ce qui t'arrive en ce moment ?
 Qu'est-ce qui se passe, Augustine ?
 
-Je ne supporte pas les gens, au point de m'isoler régulièrement pour tenter de canaliser mes pulsions agressives.
+Je ne supporte pas les gens, au point de m'isoler régulièrement pour tenter de canaliser mes angoisses et mes pulsions agressives.
 Mes parents sont au bord du divorce et je sers de No Man's Land entre leurs tranchées respectives.
 Ma mère est incapable d'affronter la vie, mon père est un salaud fini qui ne dit rien.
 Ce matin j'ai écris des trucs chelous dans mon cahier et je suis en train de questionner sérieusement ma santé mentale.
@@ -120,7 +120,7 @@ Mais moi je sais que cette conversation est parfaitement inutile.
 M. Charles espérait démêler les fils avec ma mère, il s'est rendu compte que l'affaire ne fait que se compliquer.
 Ma pauvre mère est absolument hors d'atteinte, désespérément loin.
 Elle ne sait pas gérer sa propre vie, comment pourrait-elle s'occuper de sa fille qui pète un câble ?
-On peut parler tant qu'on veut, dans ce bureau, ça ne changera rien à l'état de fait : je suis la seule seule, absolument la seule personne à pouvoir s'occuper de moi.
+On peut parler tant qu'on veut, dans ce bureau, ça ne changera rien à l'état de fait : je suis la seule, absolument la seule personne à pouvoir s'occuper de moi.
 Et pour le moment ce n'est pas compliqué : j'accepte ma punition, je dis que je ne recommencerai pas, rien de plus.
 
 L'entretien se met à patiner, les phrases se répètent.

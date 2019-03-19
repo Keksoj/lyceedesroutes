@@ -5,7 +5,7 @@
 C'est bien simple : je les aime.
 Pour la première fois de ma vie, je ne suis pas seul dans mes attermoiements existentiels, j'ai des gens qui me comprennent.
 Plus d'une fois j'ai rêvé de pouvoir partager ce genre d'aventure avec d'autres.
-Partir à la chasse au trésor, affronter des dragons, parcourir la Terre du Milieu !
+Parcourir la Terre du Milieu, affronter des dragons, récupérer un trésor !
 Et pour une fois dans ma vie, nous y sommes, nous y sommes presque.
 Pas de trésor en vue, mais il y a un dragon dans l'histoire.
 Un dragon transdimensionnel qui nous pose des questions existentielles dont nous n'avons pas les réponses, certes.
@@ -24,7 +24,7 @@ Faustin a rétorqué qu'on utilise tous une même langue pour désigner les obje
 La conversation a continué comme ça jusqu'à une heure du matin, on a du se coucher.
 
 Quel est le sens de la vie ?
-Je ne me pose même plus la question, tout est parfait comme c'est.
+Je ne me pose même plus la question, tout est parfait en l'état.
 
 On arrive à destination, maman me donne les clés avec quelques directives, puis repart.
 
@@ -33,7 +33,7 @@ fait Faustin une fois descendu de voiture.
 Tu viens souvent ici, Jacob ?
 
 — Moins souvent depuis que mes grand-parents sont morts.
-On a un domestique qui vient entretenir la maison tous les mois.
+On a un domestique qui passe entretenir la maison tous les mois.
 Mes oncles et tantes ne savent pas s'ils veulent vendre ou louer.
 En attendant, c'est vide et c'est à nous.
 
@@ -92,7 +92,7 @@ Je ne parle pas souvent, c'est vrai.
 On se regarde.
 Elle m'énerve, cette nana !
 Pourquoi elle vient m'embêter moi ?
-Je me défends.
+Je me défends :
 
 — T'es pas obligée d'être méchante avec moi, je t'ai rien fait.
 
@@ -152,10 +152,10 @@ Faustin me hèle mais je le rassure : je ne vais pas loin.
 Je les laisse derrière moi, passe la porte, trace mon chemin dans les allées gravillonnées, trouve le petit bois et son ruisseau, m'accroupis près de l'eau.
 Je viens toujours là quand je suis troublé.
 Le coulis de l'eau sur la terre, c'est une présence sans cesse renouvelée.
+
 Quelque chose me calme dans cet ordre toujours déséquilibré.
 Le paysage recèle-t-il une quelconque réponse au trouble qui me tiraille ?
-Le silence des alentours se cache derrière lui-même.
-C'est comme si le bruit de l'eau disparaissait à force d'être toujours là.
+Le silence des alentours se cache derrière lui-même, comme si le bruit de l'eau disparaissait à force d'être toujours là.
 L'eau vient du ciel et va vers l'océan.
 À quoi bon fabriquer des barrages, l'eau passera tôt ou tard.
 Y a-t-il quelque sagesse à y trouver ?
@@ -206,9 +206,9 @@ Plus récente car ses courbes sont futuristes.
 Plus vieille, parce qu'elle est salie et cabossée comme la clio de mon père.
 La voiture est garnie de tout un tas de trucs qui brillent en dessous – c'est sûrement pour la faire léviter.
 L'histoire ne dit pas comment elle est arrivée là.
-Le fait est qu'un frêne qui était là s'est fait arracher une branche dans l'affaire.
+Le fait est que le frêne s'est fait arracher une branche dans l'affaire.
 
-La Tesla descend doucement et se pose sur le sol de la forêt.
+La Tesla descend doucement et se pose sur le sol du bosquet.
 Elle va aussi bien dans le décor que des épinards sur un gâteau de mariage.
 
 — On voit vraiment tous la même chose ? s'inquiète Augustine.
@@ -218,7 +218,7 @@ Nous ne nous étonnons plus qu'à moitié.
 
 Quelqu'un sort de la voiture, c'est une jeune femme dans la vingtaine, l'air fatigué, les vêtements usés, mais je n'arrive pas à les décrire, ils ne ressemblent à rien de connu.
 Quelqu'un d'autre sort de la voiture, c'est également une femme, même air fatigué, même vêtements usés et indéfinissables.
-La première femme nous lance :
+La première nous lance :
 
 — Salut les jeunes, ça va ?
 
