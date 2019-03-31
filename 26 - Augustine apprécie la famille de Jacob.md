@@ -1,6 +1,6 @@
-# Dans la famille de Jacob
+# 26 - Dans la famille de Jacob
 
-### Augustine
+**Augustine**
 
 J'adore cette maison, j'adore cette famille.
 La mère de Jacob est super sympa, elle n'a pas eu le moindre regard désobligeant depuis qu'on est arrivé hier soir.
@@ -28,67 +28,67 @@ Mais j'avoue que même si on ne comprend rien quand il parle, il dégage une sor
 Tiens, le voilà qui s'est installé sur la terrasse.
 Je viens le trouver alors qu'il se roule un joint.
 
-— Rassure-moi, tu vas pas laisser Jacob fumer de ton truc, je lui lance.
+— Rassure-moi, tu vas pas laisser Jacob fumer de ton truc, je lui lance.
 
-— Tu es folle !
+— Tu es folle !
 On veut le garder sur terre, le malheureux.
 C'est déjà pas simple.
 
 Il réparti des morceaux d'herbe sur son tabac et entreprend de faire rouler la mixture dans le papier à cigarette.
 
-— Je sais pas comment tu le trouves, dit-il.
+— Je sais pas comment tu le trouves, dit-il.
 J'ai l'impression qu'il va mieux.
 L'épisode de ce matin lui a remis les idées en place.
 
-— J'ai la même impression.
+— J'ai la même impression.
 Il a l'air comme... décapsulé.
 Rassuré d'avoir tout regardé en face, et surtout qu'on soit plusieurs.
 
-— Oui. À plusieurs c'est plus facile.
+— Oui. À plusieurs c'est plus facile.
 
 Il passe sa langue sur le bord du papier.
 Une brise fraîche coule entre les chaises en plastiques de la terrasse.
 Le silence s'installe, je le casse.
 
-— J'ai parlé avec ses parents.
+— J'ai parlé avec ses parents.
 Ils proposent qu'on aille passer quelques jours dans la maison de ses grand-parents, en campagne.
 Je sais pas ce que Jacob et toi, vous leur avez raconté...
 
-— Nous leur avons expliqué dans les grandes lignes,
+— Nous leur avons expliqué dans les grandes lignes,
 explique-t-il en allumant l'extrémité de sa cigarette magique.
 
-— Ils ont l'air de penser qu'on ferait bien de prendre l'air.
+— Ils ont l'air de penser qu'on ferait bien de prendre l'air.
 Ça me semble une bonne idée.
 J'ai pas envie de retourner en cours pour le moment.
 Officiellement je suis encore dispensée, et Jacob aussi.
 Mais toi...
 
-— Je peux rater quelques jours de cours, ils contacteront mon père et tout ira bien.
+— Je peux rater quelques jours de cours, ils contacteront mon père et tout ira bien.
 Nous avons eu une discussion, lui et moi.
 Et tes parents ?
 
-— Le dernier de mes soucis, fais-je d'un ton blasé.
+— Le dernier de mes soucis, fais-je d'un ton blasé.
 
 L'odeur de cannabis est forte, maintenant, la fumée monte entre les murs de pierre.
 J'observe les volutes monter délicatement, rêveuse.
 Je hasarde :
 
-— Au sujet de la question que nous posait, heu...
+— Au sujet de la question que nous posait, heu...
 
-— Abdalahad.
+— Abdalahad.
 
-— Oui. Tu y as réfléchi ?
+— Oui. Tu y as réfléchi ?
 
-— Jacob et moi en avons parlé.
+— Jacob et moi en avons parlé.
 Nous avons évoqué le sujet à son père, qui n'a pas voulu s'en mêler.
 Il nous a dit que les réponses viendraient d'elles-mêmes une fois qu'elles seraient bien posées.
 
-— Mais pourquoi ça nous arrive ?
+— Mais pourquoi ça nous arrive ?
 
 Ma voix se fait pressante, le sujet m'angoisse un peu.
 Je sais pas où on va, avec toutes ces conneries.
 
-— Relax, Augustine, fait-il avant de reprendre une taffe.
+— Relax, Augustine, fait-il avant de reprendre une taffe.
 Relax.
 Nous avions des questions, on nous a donné des réponses.
 Tiens, prends une latte.
@@ -106,7 +106,7 @@ Comment ça nous fait bizarre de passer du temps dans une famille saine.
 Je sens l'effet de l'herbe qui monte, comme un verre de vin qui vient tourner la tête, mais en beaucoup, beaucoup plus agréable.
 Je suis détendue maintenant, on se prends à rigoler sur des choses simples.
 
-— Pour en revenir à ta question, reprend-il,
+— Pour en revenir à ta question, reprend-il,
 je pense qu'elle a été chassée par une nouvelle.
 Pourquoi tout ceci nous arrive-t-il ?
 Parce qu'Abdalahad nous a choisis comme interlocuteurs, pardi.
@@ -121,9 +121,9 @@ Une fois qu'on y aura répondu, quelque chose d'autre se passera.
 Quelque chose d'encore plus merveilleux, d'encore plus incompréhensible.
 Ainsi vont les choses.
 
-— Alors, tu es d'accord pour aller à la maison de campagne ?
+— Alors, tu es d'accord pour aller à la maison de campagne ?
 
-— Oui, ça sera génial !
+— Oui, ça sera génial !
 
 Il est cool, ce gars, vraiment cool, avec le col de sa chemise qui dépasse n'importe comment de son pull-over, et ses lunettes pleines de poussière.
 Sous son visage replet, je décèle une intelligence curieuse et en mouvement.
@@ -131,9 +131,9 @@ Voilà qui me va.
 Je le vois qui plonge dans son portable, sans doute pour contacter sa copine.
 Il est temps de m'éclipser.
 
-— OK, merci pour ton temps, et heu... merci pour le joint.
+— OK, merci pour ton temps, et heu... merci pour le joint.
 
-— Un plaisir !
+— Un plaisir !
 
 Là-dessus, je vais m'installer dans le salon, où, posée dans le fauteuil de M. Mlynikowski, je contemple Manon qui dessine dans un cahier de coloriage My Little Pony, pendant que Jacob fait courir son stylo-plume dans un carnet Paperblanks.
 Saloperie de famille heureuse, pourquoi n'y ai-je pas eu droit ?
@@ -162,20 +162,20 @@ Qu'est-ce qu'un humain ?
 
 Un humain est un être biologique, un primate avec des pouces opposables (pratiques pour dessiner) et un gros cerveau (pratique pour inventer l'écriture).
 
-— Je t'arrête tout de suite, ma petite.
+— Je t'arrête tout de suite, ma petite.
 Quand tu dis « un humain est un être », il y a deux fois le mot « être », une fois en verbe conjugué et une fois en nom.
 Enlève-en un.
 
-— Un humain est biologique.
+— Un humain est biologique.
 C'est mieux comme ça ?
 
-— Que veut dire biologique ?
+— Que veut dire biologique ?
 
-— Bio, la vie, logos, le discours.
+— Bio, la vie, logos, le discours.
 Le discours sur la vie.
 Heureusement que j'écoute en classe, parfois.
 
-— Donc, un humain est un discours sur la vie ?
+— Donc, un humain est un discours sur la vie ?
 
 Je dois m'arrêter là.
 Suis-je vraiment en train de parler avec moi-même ?
@@ -183,20 +183,20 @@ Est-ce le cannabis qui me fait vriller, ou le fauteuil du père de Jacob qui m'e
 Pourtant, tout va bien.
 Manon continue de dessiner, Jacob continue d'écrire.
 Le monde tourne rond.
-Soit. Continuons.
+Soit. Poursuivons.
 
-— Très bien, admet-je.
+— Très bien, admets-je.
 Un humain est un discours sur la vie.
 
-— Ta question de départ, si je me souviens bien, était « Qu'est-ce qu'un humain ? » et devient donc « Qu'est-ce qu'un discours sur la vie ? »
+— Ta question de départ, si je me souviens bien, était « Qu'est-ce qu'un humain ? » et devient donc « Qu'est-ce qu'un discours sur la vie ? »
 
-— Admettons.
+— Admettons.
 Mais je ne vois pas où tu veux en venir.
 
-— Qu'est-ce qu'un discours ?
+— Qu'est-ce qu'un discours ?
 Qu'est-ce que la vie ?
 
-— Ah, d'accord, tu creuses toujours plus profond.
+— Ah, d'accord, tu creuses toujours plus profond.
 Voyons voir.
 Un discours, c'est une suite de mot qui présente une vision des choses.
 La vie, c'est ce qui bouge et se multiplie...
@@ -209,7 +209,7 @@ BAM
 
 Un livre est tombé de l'étagère.
 Il avait mal été rangé.
-Jacob se retourne l'attrape de la main, l'amène devant ses yeux, jette un œil sur la page qui a été ouverte par hasard.
+Jacob se retourne, l'attrape de la main, l'amène devant ses yeux, jette un œil sur la page qui a été ouverte par hasard.
 Sans réfléchir, il lit à voix haute :
 
 > « Avec de la terre, le Seigneur Dieu modela toutes les bêtes des champs et tous les oiseaux du ciel, et il les amena vers l’homme pour voir quels noms il leur donnerait.
@@ -217,7 +217,7 @@ C’étaient des êtres vivants, et l’homme donna un nom à chacun. »
 
 Puuuuuutain !
 
-— Fais-moi voir ton livre ! j'ordonne.
+— Fais-moi voir ton livre ! j'ordonne.
 
 Jacob me tend le bouquin d'un air interrogateur.
 Je le lui arrache des mains et regarde la couverture.
@@ -227,7 +227,7 @@ Voyons voir... mais c'est hyper long !
 Prenons un autre morceau au hasard, me dis-je en faisant glisser les pages sous mon pouce opposable....
 stop ! Alors, qu'est-ce que ça dit...<br /><br />
 
-— Augustine, tu vas bien ?
+— Augustine, tu vas bien ?
 Ça fait une demi-heure que tu as les yeux dans le vague.
 Tiens, prête-moi le livre, je vais le poser là, sur la table.
 Je ne perds pas ta page.
@@ -237,7 +237,7 @@ C'est Jacob qui me touche les mains.
 Ce contact me fait revenir sur terre, c'est chaud et agréable.
 Je lève les yeux et le trouve content, soucieux pour moi mais content.
 
-— On va manger, Augustine, viens avec nous !
+— On va manger, Augustine, viens avec nous !
 
 Je me lève et le suis, mais cette phrase me poursuit.
 Elle commence l'un des chapitres du livre.

@@ -8,9 +8,9 @@ body {
 
 
 p {
-  text-indent: 1em;  /* taille de l'alinéa */
+  text-indent: 2em;  /* taille de l'alinéa */
   display: block;
-  margin-top: 0em;   /* espacement entre les paragraphes */
+  margin-top: 0.3em;   /* espacement entre les paragraphes */
   margin-bottom: 0em;
 }
 code { font-family: monospace; }
@@ -30,7 +30,7 @@ h1 {
   padding-left: 1em;
   font-size: 1.5em;
   text-align: center;
-  page-break-before: always;
+  page-break-before: always; /* force le saut de page à chaque chapitre*/
 }
 
 /*Affecte les titres de deuxième niveau*/

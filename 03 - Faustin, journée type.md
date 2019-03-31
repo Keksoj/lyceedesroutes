@@ -1,7 +1,7 @@
-# Faustin
+# 3 - Faustin
 
 Encore un lever laborieux pour Faustin Vaultier (c'est moi).
-Le réveil sonne douloureusement, je l'éteins tout de suite, me redresse dans mon lit et m'accorde quelques instants de discernement.
+Le réveil sonne douloureusement, je l'éteins tout de suite, me redresse dans mon lit et m'accorde quelques instants pour décanter.
 Je vais ouvrir le vélux de ma chambre, l'air froid vient lécher ma peau.
 Je n'aime pas beaucoup cette peau, je la trouve trop ronde, je lui trouve trop de plis.
 Je m'empresse de la recouvrir des habits de la veille : un pantalon de velours délavé et une chemise débraillée dont le col dépasse de façon anarchique d'un pull rouge un peu miteux.
@@ -13,7 +13,7 @@ Je contemple la mosaïque de gouttes d'eau qui perlent sur mon vélux.
 J'ai l'esprit vide.
 
 
-Ensuite, je n'ai qu'à me lever de mon lit, saisir mon sac criblé de badges de groupe de rock, sortir de ma chambre, descendre l'escalier, traverser le salon et la cuisine vides, sortir dehors.
+Ensuite, je n'ai qu'à me lever de mon lit, saisir mon sac criblé de badges de groupes de rock, sortir de ma chambre, descendre l'escalier, traverser le salon et la cuisine vides, sortir dehors.
 Les effluves de cannabis s'échapperont par mon vélux pendant la journée.
 De toutes façons, mon père est prof de fac (il enseigne l'histoire mérovingienne), il n'est jamais là, et puis, il ne fait pas trop gaffe.
 
@@ -22,7 +22,6 @@ Parvenu dehors et lancé sur le chemin du lycée (j'ai quinze minutes de marche)
 Pétroushka, de Stravinski, par le Cleveland Orchestra dirigé par Pierre Boulez.
 Les flûtes et les cordes chantent un hymne à la nature qui se réveille.
 C'est parfait pour commencer la journée.
-L'orchestre danse à mesure que le soleil vient caresser le paysage d'une lumière dorée.
 Les arbres poussent au ralenti.
 Une brise légère chatouille les herbes folles.
 Les oiseaux dansent la ronde, se font la cour.<br /><br />
@@ -54,10 +53,10 @@ Aller chercher la source, l'origine des évènements.
 
 Le souci, c'est que ce temps passé à lire, je ne le passe pas à apprendre mes cours.
 Il n'y a qu'en histoire où mes notes dépassent vraiment de la moyenne, et l'allemand à la rigueur.
-Le reste du temps, je fait preuve d'une nullité enthousiaste.
+Le reste du temps, je fais preuve d'une nullité enthousiaste.
 
 Me voilà arrivé.
-Dans la cour du lycée, je retrouve ma copine, Anne-Marie, que j'apprécie pour sa franchise et qui me supporte malgré mes sales habitudes : pas de sport, pas immensément d'hygiène, assez mutique en société.
+Dans la cour du lycée, je retrouve ma copine, Anne-Marie, que j'apprécie pour sa franchise et qui me supporte malgré mes sales habitudes : pas de sport, peu d'hygiène, assez mutique en société.
 Anne-Marie, elle est géniale, elle voit au travers de mes apparences d'intello défraîchi et mal rasé.
 Si ce n'était elle et la weed, je n'aurais vraiment aucune motivation pour venir au lycée.
 Je suis bien parti pour redoubler ma première L, et ça ne me dérange pas vraiment.
@@ -67,10 +66,10 @@ Me voilà en cours de philo.
 L'exemple typique qui illustre ce qui ne va pas avec moi.
 Le cours me passionne, j'adore écouter le prof, un certain M. Immanuel (le prénom de Kant... qui a dit « prédestination » ?).
 Cependant, je ne relis jamais mes notes pour me les approprier, je ne me base que sur mes ressentis pour rédiger mes dissertations, ce qui fait que je n'ai jamais la moyenne.
-Le prof me rend la copie du dernier DS, justement, et me réclame de la rigueur, toujours plus de rigueur.
+Le prof me rend la copie du dernier devoir surveillé, justement, et me réclame de la rigueur, toujours plus de rigueur.
 Je range ma copie avec sa mauvaise note, et j'attends que le cours se passe.
 
-Le midi, à la cantine, je m'assois tout seul dans mon coin (Anne-Claire et moi n'avons pas la même heure de pause ce midi), et poursuis ma lecture du Nouveau Testament.
+Le midi, à la cantine, je m'assois tout seul dans mon coin (Anne-Marie et moi n'avons pas la même heure de pause ce midi), et poursuis ma lecture du Nouveau Testament.
 Je m'y suis mis il n'y a pas longtemps, c'est du bon storytelling.
 L'histoire de Jésus a été parfaitement mythifiée : on garde la naissance miraculeuse, les années de prêche, la mort et la résurrection, et tout le reste, on le bazarde, ça ne sert à rien pour la portée religieuse.
 J'en suis aux Actes des Apôtres, en ce moment.
@@ -83,7 +82,7 @@ Du beau boulot de légitimation historique, tout aussi bon que l'histoire de la 
 
 Une voix au loin derrière mon épaule :
 
-— Nan, je veux pas m'asseoir par là, ça pue.
+— Nan, je veux pas m'asseoir par là, ça pue.
 
 Je tourne la tête et aperçois des élèves qui poursuivent leur chemin après être passés près de ma table.
 Ont-ils dit ça seulement pour m'insulter, ou est-ce que je pue vraiment ? Je ne sais pas trop. Je ne peux pas savoir.

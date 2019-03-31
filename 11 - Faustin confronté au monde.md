@@ -1,4 +1,4 @@
-# Faustin face au CPE
+# 11 - Faustin face au CPE
 
 Je suis Mme Médiane jusque dans le bureau de la vie scolaire.
 Je croise ce type de ma classe, Jacob, qui en sort quand j'y rentre.
@@ -6,71 +6,71 @@ Il fait une drôle de tête.
 Mais bientôt je n'y fais plus du tout attention, parce que voilà M. Charles qui sort de son bureau attenant, et qui m'aperçoit tout de suite.
 Il a les yeux écarquillés et me montre du doigt en disant :
 
-— Faustin ! Et toi, qu'est-ce que tu as fait ?
+— Faustin ! Et toi, qu'est-ce que tu as fait ?
 
-— J'ai manqué un cours.
+— J'ai manqué un cours.
 
-— On va voir ça ! Viens dans mon bureau !
+— On va voir ça ! Viens dans mon bureau !
 
 Mme Médiane s'interpose.
 
-— Je peux voir ça avec lui, tu sais.
+— Je peux voir ça avec lui, tu sais.
 
-— Je m'en charge ! Aujourd'hui c'est la journée ! Faustin viens par ici !
+— Je m'en charge ! Aujourd'hui c'est la journée ! Faustin viens par ici !
 
 Et ben dis donc il n'est pas d'humeur.
 Ses gestes sont brusques, il se laisse tomber lourdement sur son fauteuil.
 Moi, je m'installe doucement sur une chaise de l'autre côté du bureau.
 Il me jette un regard vide, presque implorant, et me demande avec un étonnement mêlé de désespoir :
 
-— Pourquoi as-tu manqué un cours, Faustin ?
+— Pourquoi as-tu manqué un cours, Faustin ?
 
-— J'ai effectué un tri dans mes options, le cours ne s'est pas trouvé en priorité dans ces options.
+— J'ai effectué un tri dans mes options, le cours ne s'est pas trouvé en priorité dans ces options.
 
-— Qu'est-ce qui s'est retrouvé plus important que le cours ?
+— Qu'est-ce qui s'est retrouvé plus important que le cours ?
 
-— De façon assez inattendue, il a absolument fallu que je m'isole dans les toilettes pour consulter l'article « savon » sur wikipédia avec mon smartphone.
+— De façon assez inattendue, il a absolument fallu que je m'isole dans les toilettes pour consulter l'article « savon » sur wikipédia avec mon smartphone.
 
 Il ouvre les yeux encore plus grands, si c'était possible.
 
-— En quoi cela est-il plus important qu'un cours ?
+— En quoi cela est-il plus important qu'un cours ?
 
-— Monsieur, je me suis soudain rendu compte, passez-moi l'expression, que je pue.
+— Monsieur, je me suis soudain rendu compte, passez-moi l'expression, que je pue.
 Il me fallait tirer l'affaire au clair.
 
-— Tu viens de te rendre compte que tu pues ? Et pourquoi, parce que...
+— Tu viens de te rendre compte que tu pues ? Et pourquoi, parce que...
 
-— ... Je n'utilise pas de savon. C'est ça.
+— ... Je n'utilise pas de savon. C'est ça.
 
 Il détourne le regard et renifle l'air ambiant d'un air questionneur.
 Impossible d'interpréter sa réaction éventuelle.
 
-— Et pourquoi Mme Médiane t'a-t-elle aperçu dans les couloirs ? Où allais-tu ?
+— Et pourquoi Mme Médiane t'a-t-elle aperçu dans les couloirs ? Où allais-tu ?
 
-— Monsieur, j'allais m'acheter du savon et m'en servir chez moi pour prendre une douche.
+— Monsieur, j'allais m'acheter du savon et m'en servir chez moi pour prendre une douche.
 
-— Cela ne pouvait pas attendre la fin de la journée ?
+— Cela ne pouvait pas attendre la fin de la journée ?
 
-— Je tenais à être parfaitement propre pour un rendez-vous galant cet après-midi, monsieur.
+— Je tenais à être parfaitement propre pour un rendez-vous galant cet après-midi, monsieur.
 
-— Et comment cela se fait-il qu'on puisse arriver à ton âge sans savoir utiliser le savon ?
+— Et comment cela se fait-il qu'on puisse arriver à ton âge sans savoir utiliser le savon ?
 
-— C'est un mystère, que je ne m'explique pas autrement que par le fait que je vis sans maman depuis plusieurs années.
+— C'est un mystère, que je ne m'explique pas autrement que par le fait que je vis sans maman depuis plusieurs années.
 
 Il pose sa tête contre son dossier et ferme les yeux, comme s'il s'autorisait une pause après une longue journée de travail.
 Puis il les rouvre et tourne un peu la tête vers moi.
 
-— Toi, au moins, tu as des réponses concrètes à mes questions, vraiment, ça change.
+— Toi, au moins, tu as des réponses concrètes à mes questions, vraiment, ça change.
 Dis-moi, puisque que tu as réponse à tout... Qu'est-ce qui rend ta génération aussi dingue ?
 
-— Je pense que c'est la contradiction profonde qu'il y a à vivre avec un corps d'adulte et un esprit d'enfant.
+— Je pense que c'est la contradiction profonde qu'il y a à vivre avec un corps d'adulte et un esprit d'enfant.
 Notre génération est en manque absolu de repères.
 Les institutions ne rassurent plus personne, les politiques mentent, les fanatiques tuent au nom de la religion, les acteurs les plus aimés cachent leur argent en Suisse, et pendant ce temps, nous autres lycéens devons rester assis huit heures par jour sur une chaise, à ne rien faire.
 
-— Je ne comprends pas... c'était la même chose à mon époque.
+— Je ne comprends pas... c'était la même chose à mon époque.
 Quelle différence présentez-vous ?
 
-— Les trente glorieuses sontelles finies, la guerre des idéologies n'a plus lieu d'être puisque le capitalisme a gagné.
+— Les trente glorieuses sontelles finies, la guerre des idéologies n'a plus lieu d'être puisque le capitalisme a gagné.
 Nous n'avons plus d'idéal vers lequel tendre.
 
 Il me regarde avec les yeux les plus intenses que j'ai jamais vus.
@@ -81,23 +81,23 @@ Qu'est-ce qu'il a bien pu vivre dans la journée pour me poser ces questions-là
 Je ne le saurai pas.
 Tout ce que je sais, c'est qu'il soupire, remet ses lunettes sur son nez, et se rapproche de son bureau.
 
-— Il faudra que tu viennes ici plus souvent pour discuter avec moi, Faustin.
+— Il faudra que tu viennes ici plus souvent pour discuter avec moi, Faustin.
 Bon, en attendant, je te fais un mot.
 Tu vas sortir maintenant, acheter du savon, prendre une douche, et revenir pour 14 heures.
 Tu diras à tout le monde, y compris aux dames de la BVS, que tu as une raison familiale.
 D'ailleurs, c'est ce que je te marque sur le mot.
 Personne ne te posera de question.
 
-— Je ne sais pas comment vous dire merci...
+— Je ne sais pas comment vous dire merci...
 
-— Tu vois, Faustin, à la différence des autres élèves, tu es capable de parler en adulte et d'expliquer concrètement ce qui t'arrive.
+— Tu vois, Faustin, à la différence des autres élèves, tu es capable de parler en adulte et d'expliquer concrètement ce qui t'arrive.
 Si tu savais la matûrité des autres quand ils se trouvent confrontés à l'autorité...
 Ah là là.
 Toi au moins, ça ne te viendrais pas à l'idée de fumer un joint avant de venir en cours, n'est-ce pas ?
 
-— Heu... Non, bien sûr, évidemment que non.
+— Heu... Non, bien sûr, évidemment que non.
 
-— Bon, allez, file.
+— Bon, allez, file.
 
 Je sors de là, passe devant les dames de la BVS, et m'enfuis par le portail du lycée.
 

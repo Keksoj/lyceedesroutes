@@ -1,6 +1,6 @@
-# Convaincre le père de Jacob
+# 23 - Convaincre le père de Jacob
 
-### Augustine
+**Augustine**
 
 Le père de Jacob nous laisse entrer.
 Soulagement.
@@ -37,13 +37,13 @@ Il donne l'impression que son fils est déjà au cimetière.
 Son regard noir est fixé sur un point qui nous semble inaccessible.
 Faustin rompt le silence et j'avoue qu'il parle bien.
 
-— Monsieur, ce que je vais vous dire va vous paraître incroyable, mais c'est ce qui nous est arrivé.
+— Monsieur, ce que je vais vous dire va vous paraître incroyable, mais c'est ce qui nous est arrivé.
 Le jour de notre malaise, celui où Augustine, Jacob et moi avons été emmenés à l'hôpital, nous avons été pris d'hallucinations.
 À notre réveil, nous sommes rentrés dans une transe collective, dont nous ne nous sommes pas remis au même rythme.
 Comme Jacob est encore à l'hôpital, nous nous sentons solidaires de lui.
 Aujourd'hui, nous aimerions le rencontrer.
 
-— Aujourd'hui ?
+— Aujourd'hui ?
 À cette heure-ci ?
 Il n'est pas un peu tard ?
 qu'il rétorque.
@@ -53,61 +53,61 @@ Faustin se reformule, bla bla bla, pas aujourd'hui même, ces prochains jours, b
 Mais l'autre reste de marbre, Faustin est désarçonné.
 Je prends la parole.
 
-— Bon, écoutez, je comprends que vous soyez dans le mal parce que votre fils a pété un câble, mais vous allez pas nous faire la gueule par-dessus le marché !
+— Bon, écoutez, je comprends que vous soyez dans le mal parce que votre fils a pété un câble, mais vous allez pas nous faire la gueule par-dessus le marché !
 
 Il lève la tête, incrédule.
 Je reprends :
 
-— Nous-mêmes, on n'a aucune idée de ce qui nous arrive, et on espérait que vous pourriez nous aider à y voir plus clair.
+— Nous-mêmes, on n'a aucune idée de ce qui nous arrive, et on espérait que vous pourriez nous aider à y voir plus clair.
 On a vu des trucs qui n'existent pas et ça nous met en vrac.
 Vous êtes psy, faudrait que ça serve à quelque chose !
 
 Il me regarde, maintenant, et s'adresse à moi comme si j'étais incapable de le comprendre :
 
-— Mon fils est en train de quitter la vie.
+— Mon fils est en train de quitter la vie.
 
-— Mais pas du tout !
+— Mais pas du tout !
 On est passés par la même chose que lui et on n'est pas morts !
 On est fous, sans doute, mais pas morts.
 
-— Je ne dirais pas que nous sommes fous, intervient Faustin.
+— Je ne dirais pas que nous sommes fous, intervient Faustin.
 Je pense qu'il nous arrive quelque chose qui dépasse notre compréhension du monde.
 
-— Mon fils est fou, constate le père de Jacob, dévasté.
+— Mon fils est fou, constate le père de Jacob, dévasté.
 
-— Pas si on change de point de vue.
+— Pas si on change de point de vue.
 Michel Foucault, dans son histoire de la folie à l'âge classique, explique que la folie est apparue avec l'émergence de la raison.
 Si on abandonne la prétention à la raison, on se défait de la folie comme maladie.
 
-— Et si on suit le raisonnement de Canguilhem, on ne définit pas la maladie comme un éloignement de la norme, mais comme une souffrance.
+— Et si on suit le raisonnement de Canguilhem, on ne définit pas la maladie comme un éloignement de la norme, mais comme une souffrance.
 Que mon fils soit fou ou pas, il est en souffrance.
 
 Je me sens débile quand ils parlent comme ça, et ça m'a l'air assez inutile.
 On n'avance pas concrètement.
 J'interviens :
 
-— Ça ne nous sert à rien de blablater.
+— Ça ne nous sert à rien de blablater.
 Il faut sortir Jacob de l'HP et le mettre dans un environnement sécurisé, avec nous.
 On démêlera ça ensemble.
 Est-ce que vous pouvez le sortir de là ?
 C'est pour ça qu'on est venus.
 
-— Je peux ramener Jacob ici.
+— Je peux ramener Jacob ici.
 Les services de psychiatrie ont toujours besoin de libérer un lit.
 Mais que faites-vous du futur ?
 Il a fait une bouffée délirante aïgue.
 On pourra le stabiliser, mais il a une chance sur deux de plonger dans la schizophrénie.
 
-— Une chance sur deux, ça vaut le coup d'essayer, décide Faustin.
+— Une chance sur deux, ça vaut le coup d'essayer, décide Faustin.
 
-— Et que comptez-vous faire au juste ?
+— Et que comptez-vous faire au juste ?
 
 Le père de Jacob lève les yeux vers nous.
 Son regard est dur, puis perdu.
 Il nous dévisage, la bouche ouverte comme un bébé, ça ne lui donne pas l'air malin.
 On dirait qu'il nous voit pour la première fois.
 
-— Et qui êtes-vous ?
+— Et qui êtes-vous ?
 Et pourquoi êtes-vous venus pour Jacob ?
 Comment le connaissez-vous ?
 
@@ -122,7 +122,7 @@ Le regard de Faustin me dit la même chose.
 On reprend chacun notre tasse pour boire une gorgée avant de parler (et merde, il a trop infusé, évidemment).
 Faustin se lance.
 
-— Augustine, Jacob et moi-même, nous ne nous connaissions qu'à peine il y a deux semaines.
+— Augustine, Jacob et moi-même, nous ne nous connaissions qu'à peine il y a deux semaines.
 Un jour, ... <br /><br />
 
 La récollection prends du temps (c'est M. Mlynikowski qui appelle cela une récollection).
@@ -135,38 +135,38 @@ Sa posture froide laisse place à de l'entrain, presque de l'amusement.
 Il lance des questions qui n'ont a priori pas d'intérêt, exige des réponses immédiates, relance des questions qui n'ont rien à voir.
 Faustin comprend :
 
-— Vous nous testez !
+— Vous nous testez !
 Vos questions croisées sont là pour vérifier qu'on n'invente pas tout !
 
-— Tu as deviné, sourit-il en montrant la paume de ses mains en signe de défaite.
+— Tu as deviné, sourit-il en montrant la paume de ses mains en signe de défaite.
 
 Mais c'est qu'il est détendu !
 
-— Et alors ? s'enquiert Faustin.
+— Et alors ? s'enquiert Faustin.
 
-— Et alors, c'est tout bonnement incroyable, ce que vous dites correspond à ce que Jacob m'a raconté.
+— Et alors, c'est tout bonnement incroyable, ce que vous dites correspond à ce que Jacob m'a raconté.
 
-— Mais ça soulève une montagne de questions ! s'écrie Faustin.
+— Mais ça soulève une montagne de questions ! s'écrie Faustin.
 S'agit-il d'une expérience de télépathie spontanée ?
 Avons-nous été en contact avec un archétype de l'inconscient collectif jungien ?
 Sommes-nous sujets à une expérience religieuse ?
 
-— Je n'en sais rien, admet M. Mlynikowski.
+— Je n'en sais rien, admet M. Mlynikowski.
 Je devrais ressortir les travaux de Grof ou de Gurdjieff, on pourrait creuser.
 Ça serait passionnant.
 
-— Oui, oui, oui !
+— Oui, oui, oui !
 
 Mais qu'est-ce qu'ils racontent encore ?
 J'explose :
 
-— Mais vous êtes pas un peu tarés !
+— Mais vous êtes pas un peu tarés !
 Je vous rappelle que l'objectif, c'est de sortir Jacob de l'hosto !
 
 Ils se calment.
 Je continue :
 
-— Et puis pourquoi vous vous prenez la tête comme ça avec vos délires métaphysiques ?
+— Et puis pourquoi vous vous prenez la tête comme ça avec vos délires métaphysiques ?
 Pas besoin de chercher aussi loin.
 Dans nos cours de français, on a vu qu'il y a deux types de récits surnaturels.
 Quand le surnaturel arrive dans la vie ordinaire, comme Dracula qui suce le sang des Londoniennes, c'est du fantastique.

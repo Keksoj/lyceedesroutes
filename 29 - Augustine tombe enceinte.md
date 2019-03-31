@@ -1,6 +1,6 @@
-# Les conséquences
+# 29 - Les conséquences
 
-### Augustine
+**Augustine**
 
 Je suis la première à me souvenir que j'ai un nom.
 Jacob se réveille de la transe un peu après moi.
@@ -40,40 +40,40 @@ Une meilleure question : qu'allons-nous faire aujourd'hui ?
 On pourrait se promener dehors, faire des courses, préparer un repas digne de ce nom, jouer aux cartes.
 Parlons un peu à notre homme.
 
-— Ça va, Jacob ?
+— Ça va, Jacob ?
 
 Le garçon grogne et geigne un peu, accablé qu'il est.
 
-— Je n'arrive pas à croire qu'on ait fait ça, fait-il plaintivement.
+— Je n'arrive pas à croire qu'on ait fait ça, fait-il plaintivement.
 
 Je parcours de mes doigts ses cheveux mi-bouclés.
 
-— J'admet qu'on a un peu grillé les étapes.
+— J'admet qu'on a un peu grillé les étapes.
 J'aurais bien voulu sortir un peu avec toi d'abord.
 Mais il est toujours temps, tu sais.
 
-— Tu veux vraiment sortir avec moi ?
+— Tu veux vraiment sortir avec moi ?
 sort-il dubitativement, la voix étouffée par mon sein gauche.
 
 Je prends un ton assuré.
 
-— Ça serait bien.
+— Ça serait bien.
 Sinon je crois qu'on serait traumatisés par la brutalité de l'expérience.
 Seulement si tu veux, bien sûr.
 Tu sais que je te trouve beau gosse ?
 Évidemment, tu es légèrement  bizarre à t'habiller en noir comme ça...
 mais j'ai un peu appris à te connaître.
 
-— Moi je t'ai toujours trouvée superficielle en te croisant au lycée...
+— Moi je t'ai toujours trouvée superficielle en te croisant au lycée...
 
 Sympa le garçon. Je m'en souviendrai de celle-là.
 
-— ... et je t'ai désirée dès que je t'ai vue dans ma chambre.
+— ... et je t'ai désirée dès que je t'ai vue dans ma chambre.
 Ça fait deux jours que je me masturbe dans la douche en pensant à toi.
 
 Et ben.
 
-— Tu es la personne la plus courageuse que je connaisse, continue-t-il.
+— Tu es la personne la plus courageuse que je connaisse, continue-t-il.
 Tu as eu le cran de venir chez moi pour convaincre mon père de me sortir de l'HP.
 Tu es la première personne à m'avoir jamais demandé pardon, à me désirer comme ami.
 
@@ -82,7 +82,7 @@ Je ne sais pas ce que ça donnera, lui et moi, mais allons.
 L'heure est à faire connaissance.
 Je lui saisis le visage, amène ses yeux incertains près des miens, l'embrasse, et lui dit :
 
-— Fais-moi l'amour, beau gosse.
+— Fais-moi l'amour, beau gosse.
 
 
 Faire l'amour nous demande pas mal d'attention, à tous les deux, mais je tiens à ce qu'on redevienne maîtres de nos corps.
@@ -106,7 +106,7 @@ Il lève vers nous des yeux sereins.
 Rien ne semble le perturber, ce gars-là.
 Mon Dieu, comment aurait-on fait sans lui !
 
-— Alors ! lance-t-il joyeux. La suite du programme ?<br /><br />
+— Alors ! lance-t-il joyeux. La suite du programme ?<br /><br />
 
 Nous passons la journée à se balader dans la campagne, tous les trois.
 Le samedi arrivé, Faustin invite sa copine.
@@ -118,7 +118,7 @@ On blague beaucoup sur la sexualité, galvanisés par notre découverte.
 Le monde des adultes ne nous effraie plus.
 Nous l'avons conquis et le réclamons désormais pour nous, souverains de nos corps.
 
-### Elipse temporelle - un mois plus tard
+### Ellipse temporelle - un mois plus tard
 
 Putain de bordel de merde de saloperie d'expérience cosmique de mes deux.
 Madame Menstrue n'est pas venue me mettre son coup de latte dans l'utérus ce mois-ci.
@@ -136,31 +136,31 @@ Un mois durant, et pourtant on a couché ensemble, ça c'est sûr.
 
 J'appelle Jacob.
 C'est mon mec après tout.
-Il décroche :
+Il décroche :
 
-— Bonjour beauté ?
+— Bonjour beauté ?
 
 Il m'appelle comme ça depuis qu'on est ensemble, sur le coup ça a le don de m'énerver.
 
-— Salut beau gosse.
-Est-ce que tu t'es rendu compte qu'on n'a jamais songé au mot « contraception » depuis qu'on baise ?
+— Salut beau gosse.
+Est-ce que tu t'es rendu compte qu'on n'a jamais songé au mot « contraception » depuis qu'on baise ?
 
 Il ne réponds pas de suite.
 
-— Quoi, contraception ?
+— Quoi, contraception ?
 
-— Tu sais, contraception, comme dans pillule, stérilet, préservatif.
+— Tu sais, contraception, comme dans pillule, stérilet, préservatif.
 
 Finalement il embraye.
 
-— Contra, contra quoi... mais tu... quoi...
+— Contra, contra quoi... mais tu... quoi...
 Oh putain merde, merde, merde, merde...
 
 Il a compris.
 
-— Merde, qu'est-ce que tu vas faire ?
+— Merde, qu'est-ce que tu vas faire ?
 
-Je reçois cette réaction comme un coup de pioche dans les gencives.
+Je reçois cette réplique comme un coup de pioche dans les gencives.
 Je l'aime bien, Jacob, il est mignon et gentil comme tout avec moi, mais niveau matûrité c'est un branquignole de première.
 Je lui dis que je suis enceinte et tout ce qu'il me dit, c'est « Qu'est-ce que tu vas faire ? ».
 Il a un sérieux problème de perspective, ce garçon.
@@ -172,12 +172,12 @@ Souvent, quand je lui raconte mes histoires, par exemple que ma mère a enfin en
 Il n'a pas compris que ce divorce est la meilleure chose qui soit arrivée dans ma famille depuis des années.
 Je lui ai raconté des tonnes de fois que mes parents ne s'aiment pas, mais ça n'est toujours pas rentré dans sa petite caboche de catho privilégié.
 
-— Jacob, il est temps que tu me dises.
-Est-ce que tu es vraiment con ou est-ce que tu fais juste très bien semblant ?
+— Jacob, il est temps que tu me dises.
+Est-ce que tu es vraiment con ou est-ce que tu fais juste très bien semblant ?
 
-— Mais pourquoi tu me parles sur ce ton ?
+— Mais pourquoi tu me parles sur ce ton ?
 
-— Après tout ce qu'on a vécu et tout ce qu'on continue de vivre ensemble, tu restes un cas social, Jacob, un vrai cas social !
+— Après tout ce qu'on a vécu et tout ce qu'on continue de vivre ensemble, tu restes un cas social, Jacob, un vrai cas social !
 
 Je raccroche, et bam! je chiale.
 Un jour j'ai observé des limaces.
@@ -187,11 +187,11 @@ Je suis devenue une limace.
 Ça fait du bien de pleurer mais ça ne suffit pas encore.
 J'appelle Clémence, qui est mon amie depuis le collège et que Jacob trouve superficielle.
 Superficielle, mon cul.
-Elle au moins, elle m'écoute pleurer, et quand je mentionne le test de grossesse, je n'ai pas besoin de me reformuler, parce qu'elle n'est pas : conne.
-Elle a : compris.
+Elle au moins, elle m'écoute pleurer, et quand je mentionne le test de grossesse, je n'ai pas besoin de me reformuler, parce qu'elle n'est pas : conne.
+Elle a : compris.
 Quinze minutes plus tard elle est chez moi avec Amélie.
 Encore une fille superficielle, ouais va te faire foutre Jacob.
-Amélie s'est faite violer à quinze ans et a du se faire avorter, mais ça tu ne le savais pas, hein, crétin ?
+Amélie s'est faite violer à quinze ans et a du se faire avorter, mais ça tu ne le savais pas, hein, crétin ?
 Moi non plus, je ne le savais pas.
 Je ne m'étais jamais vraiment intéressé à Amélie.
 J'en suis désolée maintenant, je regrette tellement, je suis une personne horrible...

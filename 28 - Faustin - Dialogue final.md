@@ -1,6 +1,6 @@
-# Dialogue final
+# 28 - Le dialogue et l'extase
 
-### Faustin
+**Faustin**
 
 J'ouvre les yeux.
 
@@ -9,7 +9,7 @@ Je me tourne sur moi-même et découvre la cheminée, le matelas sur lequel Jaco
 Augustine y dort, roulée en boule sous sa couverture.
 
 Nous avons dormi là.
-Après la dispute d'hier et la rencontre avec les voyageurs temporels, nous nous sommes tous mis d'accord sur notre mission, si étrange soit-elle.
+Après la dispute d'hier et la rencontre avec les voyageurs temporels, nous nous sommes mis d'accord sur notre mission, si étrange soit-elle.
 Nous avons établi une cellule de brainstorming dans le salon, en partageant les rôles.
 
 Augustine était la force motrice.
@@ -49,14 +49,14 @@ Nous sucrons, tartinons, mastiquons, buvons, consciencieusement.
 Au moment de se resservir du thé, et à voix basse pour ne pas trop déranger Augustine,
 nous partageons quelques banalités. Puis, il demande :
 
-— Comment ça va se passer, à ton avis ?
+— Comment ça va se passer, à ton avis ?
 
-— Ça va bien se passer, réponds-je sans réfléchir.
+— Ça va bien se passer, réponds-je sans réfléchir.
 
 Augustine émerge, grogne un « salut » et va aussitôt prendre une douche, sans toucher au petit-déjeûner.
 J'ajoute :
 
-— J'ai un bon pressentiment.<br /><br />
+— J'ai un bon pressentiment.<br /><br />
 
 Nous sommes prêts.
 À genoux sur les matelas du salon.
@@ -76,47 +76,47 @@ se résume ainsi : *jamais de ma vie je n'aurais cru me confronter un jour à t
 
 Comme la dernière fois, la forme d'Abdalahad nous apparaît, brûlante, sage, ancienne.
 
-— Soyez salués !
+— Soyez salués !
 
 Un soufflet de forge.
 
-— Bonjour, Abdalahad, répondons-nous impressionnés.
+— Bonjour, Abdalahad, répondons-nous impressionnés.
 
 Nous pensons à la fois séparément et ensemble, c'est particulier.
 Nous parlons tous les trois d'une même voix, avec une retenue polie.
 
-— Nous avons réfléchi aux questions que vous nous avez posées.
+— Nous avons réfléchi aux questions que vous nous avez posées.
 C'est un sujet difficile pour nous, mais nous avons fait de notre mieux.
 
-— Je vous écoute, fait-il patiemment.
+— Je vous écoute, fait-il patiemment.
 
-— Les humains ont développé des écoles de pensées différentes et contradictoires.
+— Les humains ont développé des écoles de pensées différentes et contradictoires.
 Il n'y a pas une seule explication au sens de la vie humaine, il y en a des milliers.
 Celle qui nous convient le mieux est que chaque humain doit trouver lui-même le sens de son existence.
 
-— Quelles sont les moyens à sa disposition ?
+— Quelles sont les moyens à sa disposition ?
 
-— Ils sont imparfaits et ne fournissent aucune garantie.
+— Ils sont imparfaits et ne fournissent aucune garantie.
 De nombreux humains renoncent.
 
-— Comment un humain peut-il accepter de vivre sans avoir d'explication à son existence ?
+— Comment un humain peut-il accepter de vivre sans avoir d'explication à son existence ?
 Ça n'a aucun sens pour moi, qui ai été créé par l'Unique dans un but clair.
 
-— Et maintenant que tous les atomes de l'univers sont fabriqués et que les étoiles brûlent d'elles-mêmes...
-si nous pouvons nous permettre, quel sens a votre existence ?
+— Et maintenant que tous les atomes de l'univers sont fabriqués et que les étoiles brûlent d'elles-mêmes...
+si nous pouvons nous permettre, quel sens votre existence a-t-elle ?
 
 Ça nous a échappé, nous craignons de lui avoir manqué de respect, mais c'est logique pourtant.
 Notre interlocuteur semble réfléchir.
 Non qu'il prenne du temps à répondre (quel sens peut bien avoir le temps ici),
 mais la couleur de sa voix change, comme quelqu'un a toussé pour éclaircir sa voix.
 
-— C'est vrai.
+— C'est vrai.
 La raison pour laquelle je m'intéresse à vous est que je ne sais moi-même plus pourquoi j'existe encore.
 
-— N'avez-vous pas d'autres entités de même nature à qui parler ?
+— N'avez-vous pas d'autres entités de même nature à qui parler ?
 Ne pouvez-vous pas vous entretenir avec l'Unique ?
 
-— Les autres serviteurs ont disparu.
+— Les autres serviteurs ont disparu.
 Quant à l'Unique, il se révèle dans le multiple.
 En discutant avec vous, c'est avec l'Unique que je m'entretiens.
 Ou plutôt, c'est l'Unique qui s'entretient avec lui-même.
@@ -127,59 +127,59 @@ en même temps qu'on se découvre une certaine affinité avec Abdalahad.
 Il nous semblait un ange tout-puissant, il nous apparaît plus comme un compagnon d'infortune.
 Nous nous permettons de le tutoyer.
 
-— Tout n'est pas désespéré.
+— Tout n'est pas désespéré.
 La recherche de sens est une aventure qui se suffit à elle-même.
 Depuis que tu nous as posé tes questions, notre vie a pris du sens. Un peu.
 Nous avons été mis en lien et nous apprenons à parler.
 La parole est l'interface qui nous fait grandir.
 
-— Et cette parole, qui vous l'a donnée ?
+— Et cette parole, qui vous l'a donnée ?
 
-— Les humains appellent cela le chaos, tu appelles cela l'Unique.
+— Les humains appellent cela le chaos, tu appelles cela l'Unique.
 
-— Vers quoi vous fait grandir cette parole ?
+— Vers quoi vous fait grandir cette parole ?
 
-— Nous ne savons pas, nous découvrons à mesure du chemin.
+— Nous ne savons pas, nous découvrons à mesure du chemin.
 
 Il semble réfléchir, puis que son ton change encore.
 De gigantesque, sa forme devient modeste.
 Sans perdre de sa noblesse, elle se fait plus proche de nous.
 Nous avons affaire à un dragon jeune, presque adolescent dans sa posture.
 
-— J'ai encore une question, dit-il.
+— J'ai encore une question, dit-il.
 Qu'advient-il de votre conscience lorsque vos corps disparaissent ?
 
-— C'est une excellente question, nous l'ignorons.
+— C'est une excellente question, nous l'ignorons.
 Théories contradictoires.
 Conseil unanime des humains : pense plutôt à vivre pleinement l'instant présent.
 
 Cette fois il change vraiment.
 Sa forme s'amincit, ou plutôt l'espace dans lequel elle est inscrite s'allonge.
 
-— Je commence à comprendre.
+— Je commence à comprendre.
 Il faut se garder de comprendre.
 Je vais avoir encore besoin de votre aide.
 
-— Nous ferons ce que nous pourrons.
+— Nous ferons ce que nous pourrons.
 
-— Je vais faire quelque chose que je n'ai jamais fait et dont j'ignore les conséquences.
+— Je vais faire quelque chose que je n'ai jamais fait et dont j'ignore les conséquences.
 
-— C'est ce que nous faisons tous les jours au quotidien.
+— C'est ce que nous faisons tous les jours au quotidien.
 On ne peut pas ne pas prendre de risque.
 Pourquoi éviter les dangers ?
 Pour vivre en sécurité jusqu'à la mort ?
 Nous t'encourageons dans ton action, quelle qu'elle soit.
 
-— Je vous comprends parfaitement maintenant qu'il n'y a rien à comprendre.
+— Je vous comprends parfaitement maintenant qu'il n'y a rien à comprendre.
 
 Sa forme s'allonge de plus en plus, elle s'amincit encore, ou plutôt l'espace s'allonge encore davantage.
 Nous voilà cerné par un dragon-fil qui s'enroule autour de notre triangle de conscience.
 
-— Je parlerai.
+— Je parlerai.
 
 Le fil-dragon se serre autour du triangle, en rapproche deux segments, qui se courbent docilement et se mettent à vibrer plus fort à mesure que le fil les serre...
 
-— J'habiterai parmi vous.
+— J'habiterai parmi vous.
 Et parmi vous je me mettrai au service de l'Unique.
 
 Nous sommes parcourus d'un plaisir diffus, le fil se confond aux segments, au triangle... nous ouvrons les yeux dans le salon.
@@ -221,7 +221,7 @@ Nous voilà pris d'une terreur sans nom : nous allons mourir, ici et maintenant
 Les visages de Jacob et Augustine sont déformés par une peur qui se superpose à leur félicité.
 Ils se regardent dans l'incertitude.
 
-— Lâchez tout ! je hurle dans un ultime élan de courage.
+— Lâchez tout ! je hurle dans un ultime élan de courage.
 
 À cet instant, nous mourrons tous.
 La forme du monde n'existe plus, nous n'existons plus, il n'y a plus de frontière entre Jacob, Augustine, moi, le matelas, la théière encore tiède.

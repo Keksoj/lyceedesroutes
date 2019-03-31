@@ -1,4 +1,4 @@
-# Jacob sort de l'HP
+# 24 - Jacob sort de l'HP
 
 Les fleurs n'ont plus de couleur.
 À quel moment elles les ont perdues, je ne sais pas.
@@ -74,54 +74,54 @@ Je n'arrive pas à décrire son visage.
 Quelque chose m'échappe, mais ce n'est pas comme la couleur disparue des fleurs.
 Son visage... est-ce qu'elle sourit ?
 
-— M. Mlynikowski, voulez-vous venir avec moi s'il vous plaît ?
+— M. Mlynikowski, voulez-vous venir avec moi s'il vous plaît ?
 
 Les infirmières me vouvoient, c'est étrange mais c'est comme ça.
 Je me lève et la suis dans les couloir.
 Au bout du couloir il y a... mon père ?
 
-— Bonjour Jacob, tu vas bien ?
+— Bonjour Jacob, tu vas bien ?
 
 Son visage semble bienveillant, mais je doute de tout en ce moment.
 J'ai du mal à croire que je suis vraiment en train de ranger mes affaires dans mon sac puis de le jeter sur mon épaule.
 Quand je vois le portail de l'hôpital diminuer de taille derrière moi, je n'y crois qu'à moitié.
 Quand les portes de la voiture claquent, je me tourne vers papa, qui tient le volant d'une main et met le contact de l'autre.
 
-— Je sors vraiment ?
+— Je sors vraiment ?
 
 Il souffle d'un ton étonné et fatigué : « Ouais ! » et le moteur démarre.
 
 Le paysage défile.
 Je tente une conversation, l'exercice est très étrange mais c'est mon jour apparemment.
 
-— Tu as parlé au psychiatre ?
+— Tu as parlé au psychiatre ?
 
-— Ouais. (ton neutre)
+— Ouais. (ton neutre)
 
-— Il est d'accord ?
+— Il est d'accord ?
 
-— Ouais. (sec)
+— Ouais. (sec)
 
-— Tu sais ce que tu fais ?
+— Tu sais ce que tu fais ?
 
-— Ouais... (contemplatif)
+— Ouais... (contemplatif)
 
-— On va à la maison ?
+— On va à la maison ?
 
-— Ouais, ouais... (appréhension)
+— Ouais, ouais... (appréhension)
 
-— Pourquoi tu m'as sorti ?
+— Pourquoi tu m'as sorti ?
 
-— Ouais... (complètement ailleurs, là je le comprends parfaitement)
+— Ouais... (complètement ailleurs, là je le comprends parfaitement)
 
 Pour une fois qu'une conversation se passe bien avec papa, je ne vais pas en rester là.
 Je vais le tester.
 
-— Tu sais que je suis fou, que j'ai des visions, que j'entends des voix ?
+— Tu sais que je suis fou, que j'ai des visions, que j'entends des voix ?
 
-— Ça peut arriver à tout le monde.
+— Ça peut arriver à tout le monde.
 
-— Et qu'est-ce qu'on va faire ?
+— Et qu'est-ce qu'on va faire ?
 On va continuer à vivre comme si tout était normal ?
 Je vais retourner au lycée ?
 Et entre deux cours, je vais encore sortir de mon corps et prétendre au CPE que j'ai juste un peu trop fumé de cannabis ?
@@ -130,7 +130,7 @@ Comment je suis sensé en profiter, de ma vie ?
 Une demi-vie passée à demi-vivre, sans envie, sans couleur, sans émotion concrète ?
 C'est vers ça qu'on va ?
 
-— C'est marrant, tu mets des mots exacts sur mes pensées.<br /><br />
+— C'est marrant, tu mets des mots exacts sur mes pensées.<br /><br />
 
 On arrive à la maison.
 La porte s'ouvre brusquement, Manon court et saute dans mes bras, je sens l'odeur de son schampooing.
@@ -141,11 +141,11 @@ Papa pose mes affaires dans l'entrée.
 Je finis par convaincre Manon de remettre les pieds sur terre.
 Elle crie et saute partout.
 
-— Tu devrais monter dans ta chambre, tes amis t'attendent, me lance maman.
+— Tu devrais monter dans ta chambre, tes amis t'attendent, me lance maman.
 
 Mes amis ? Je n'ai pas d'amis.
 
-— Monte, tu verras.
+— Monte, tu verras.
 
 Dans l'incompréhension totale, je passe près de mon père, il a le visage toujours aussi impénétrable.
 Est-il désespéré ?
@@ -157,24 +157,24 @@ L'escalier est si familier !
 C'est bien la première fois que je monte dans ma chambre à la demande de mes parents.
 Dans ma chambre il y a...
 
-— Jacob ! On pensait bien que c'était toi !
+— Jacob ! On pensait bien que c'était toi !
 
 Un gars et une fille ?
 Lui, c'est Faustin, je crois, et elle...
 
-— Lui c'est Faustin et moi c'est Augustine !
+— Lui c'est Faustin et moi c'est Augustine !
 On s'est réveillé ensemble en réa, tu te souviens ?
 
 C'était il y a une éternité, je ne suis même pas sûr que ça s'est
 vraiment passé.
 
-— Tu veux pas ouvrir ta bouche un peu ? continue-t-elle.
+— Tu veux pas ouvrir ta bouche un peu ? continue-t-elle.
 
 Ah merde, ouais. J'articule :
 
-— On s'est vraiment réveillé ensemble ?
+— On s'est vraiment réveillé ensemble ?
 
-— Nous avons eu les mêmes visions que toi !
+— Nous avons eu les mêmes visions que toi !
 s'exclame Faustin.
 Nous avons vu l'univers sous toutes ses coutures, et nous avons vu le dragon rouge !
 
@@ -188,6 +188,6 @@ re.
 
 Et je m-                      -sur les genoux.
 
-— Merde il a l'air mal en point, que faisons-nous ?
+— Merde il a l'air mal en point, que faisons-nous ?
 
-— On fait comme on a dit, on se tient la main !
+— On fait comme on a dit, on se tient la main !

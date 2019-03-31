@@ -1,6 +1,6 @@
-# La mort et la naissance
+# 31 - La mort et la naissance
 
-### Faustin
+**Faustin**
 
 Samedi matin, dans le bus.
 J'observe la campagne qui défile, un matin tranquille et inhabituel.
@@ -17,21 +17,21 @@ Là-bas, où tant de choses étranges ont eu lieu.
 Augustine et Jacob m'ont invité à les rejoindre.
 Ils devaient y passer du temps à deux, mais m'ont dit que ferais un bon médiateur, ha ha.
 J'ignore en quoi je peux leur être utile, mais il est vrai que j'étais présent lors de la procréation, aussi je me sens partiellement responsable de la grossesse d'Augustine.
-Quel est le sens de cette grossesse ?
-Encore un mystère !
+Quel est le sens de cette grossesse ?
+Encore un mystère !
 Cela me trouble, bien sûr, mais quelque chose me dit que nous aurons bientôt le fin mot de l'histoire.
 
 Un jour, j'écrirai un bouquin sur cette histoire.
 Il ne racontera pas directement ce qui s'est passé, personne ne me croirait.
 Je veux qu'il contienne tout ce que j'ai appris de cette expérience.
 
-Trêves de digressions !
+Trêves de digressions !
 Le bus me dépose.
 Un charmant bourg de campagne.
 Je quitte le bourg à pied pour m'orienter vers cette fameuse maison de campagne.
 Une belle promenade entre des haies bourgeonnantes et des champs de maïs.
 Les oiseaux chantent, les chiens aboient à mon approche, tout est bien.
-Arrivé à la maison des grand-parents de Jacob, je frappe à la porte, une voix me crie de l'intérieur : « Rentre ! ». C'est Jacob.
+Arrivé à la maison des grand-parents de Jacob, je frappe à la porte, une voix me crie de l'intérieur : « Rentre ! ». C'est Jacob.
 Je les trouve dans le salon, allongés l'un contre l'autre sur le canapé.
 Augustine se love dans les bras de Jacob comme le ferait un enfant qui a besoin d'être consolé.
 Quant à lui, son regard fixé au plafond en dit plus long qu'il ne saurait dire lui-même.
@@ -47,67 +47,67 @@ Je laisse mes pensées défiler, prends note de chacune d'entre elles, fais mon 
 Mes amis font sans doute de même.
 Dans toutes ces histoires, il y a du tri à faire.
 
-— On se demandait... commence Jacob.
+— On se demandait... commence Jacob.
 
-— ... pourquoi toi non plus, tu n'as pas pensé à la contraception, finit Augustine.
+— ... pourquoi toi non plus, tu n'as pas pensé à la contraception, finit Augustine.
 
 J'avais réfléchi à cette question.
 
-— Comme vous, je n'y ai pas pensé une seule seconde.
+— Comme vous, je n'y ai pas pensé une seule seconde.
 Pourtant c'est un sujet qui m'intéresse et que nous avons abordé, Anne-Marie et moi, même si nous ne sommes pas encore intimes.
 Pourquoi n'ai-je pas mis ce sujet en lien avec votre relation, voilà qui est un mystère inexplicable.
-Peut-être était-ce la volonté d'Abdalahad ?
+Peut-être était-ce la volonté d'Abdalahad ?
 
 Soupir généralisé sur le divan.
 Augustine remue, contrariée, se cale à nouveau dans les bras d'un Jacob fatigué émotionnellement.
 On entend bien vite la voix d'Augustine, à moitié audible car étouffée par le pull de son homme, elle y a enfoncé son visage.
 
-— Il me soûle, Abdamachin.
+— Il me soûle, Abdamachin.
 Il fout la merde dans nos vies, nous envoie des hallucinations de ouf, nous pose des questions impossibles, et il joue avec nos hormones comme si on était ses marionettes.
 
-— Il nous a demandé avant, fait remarquer Jacob.
-Il nous a dit : « Je vais avoir encore besoin de votre aide ».
+— Il nous a demandé avant, fait remarquer Jacob.
+Il nous a dit : « Je vais avoir encore besoin de votre aide ».
 
-J'ajoute :
+J'ajoute :
 
-— Et nous avons répondu : « Nous ferons ce que nous pourrons ».
+— Et nous avons répondu : « Nous ferons ce que nous pourrons ».
 Et il a encore dit...
 
-— Je me souviens très bien et j'ai pas envie de l'entendre, marmonne Augustine très contrariée.
+— Je me souviens très bien et j'ai pas envie de l'entendre, marmonne Augustine très contrariée.
 
 Silence.
 On entend même le tic-tac de l'horloge de la cuisine.
 J'ai une idée, mais je le sens mal.
 Je me lève, m'approche d'eux, pose mes genoux au sol, près de leur canapé, face à un Jacob malheureux et une Augustine boudeuse qui me tourne le dos.
-J'avance la main :
+J'avance la main :
 
-— Augustine, prends ma main.
+— Augustine, prends ma main.
 
-— Non !
+— Non !
 
 Réaction violente.
 Elle se retourne, me dévisage avec colère, ou plutôt, avec peur.
 
-— Tu ne fais pas ça, Faustin.
+— Tu ne fais pas ça, Faustin.
 Je ne tiendrais plus jamais ta main.
-Jamais, tu entends ?
+Jamais, tu entends ?
 
 Je baisse mes yeux sur ma main potelée.
 C'est juste une main.
 Je relève les yeux, prends l'air innocent.
 
-— Non !
+— Non !
 
-— Il faut essayer, Augustine.
+— Il faut essayer, Augustine.
 
-C'est Jacob qui a parlé, de derrière son dos. Augustine se retourne vers lui et s'écrie :
+C'est Jacob qui a parlé, de derrière son dos. Augustine se retourne vers lui et s'écrie :
 
-— Non, non, et non !
-Chaque fois c'est pareil, des halus en pagaille, des boucles existentielles dont on ne sort jamais, et après : que des emmerdes !
+— Non, non, et non !
+Chaque fois c'est pareil, des halus en pagaille, des boucles existentielles dont on ne sort jamais, et après : que des emmerdes !
 
 La voilà qui se lève et arpente la pièce.
 
-— Non, non, non.
+— Non, non, non.
 Cette fois on va s'en sortir de façon humaine, on va faire quelque chose de raisonnable.
 Ça va être dur et chiant, mais on va y arriver.
 Je vais aller dans une clinique pour me faire avorter.
@@ -119,16 +119,16 @@ Jacob prend ma main, me relève, nous voilà debout face à elle.
 C'est lui qui tend la sienne vers elle, à présent.
 Elle regarde cette main comme si c'était un pistolet avec lequel elle devait se mettre à mort elle-même.
 
-— Non, non, non ! Putain, non, s'il vous plaît, non...
+— Non, non, non ! Putain, non, s'il vous plaît, non...
 
 Ma main libre adopte le même geste que celle de Jacob.
 Nous regardons Augustine d'un air candide, elle pleure désormais.
 
-— On va y arriver, dis Jacob.
+— On va y arriver, dis Jacob.
 
-— Tu en es capable, fais-je.
+— Tu en es capable, fais-je.
 
-— Non, je vous en prie, non...
+— Non, je vous en prie, non...
 
 Ça prend un moment, ni Jacob ni moi ne bougeons, et nous pouvons sentir la volonté d'Augustine mise à mal, plier, résister.
 La pauvre est tiraillée de l'intérieur, trépigne, mouche ses larmes dans les manches de son sweat-shirt, s'approche de nous, s'éloigne.
@@ -136,14 +136,14 @@ Finalement elle lâche, approche ses mains tremblantes et humides des nôtres, a
 Contact.
 Les mains se referment.
 Il ne se passe rien.
-Ah, je suis bête, j'avais bien vérifié, après l'extase de la dernière fois, qu'il n'y avait plus de télépathie à notre toucher.
+Mais oui, je suis bête, j'avais bien vérifié, après l'extase de la dernière fois, qu'il n'y avait plus de télépathie à notre toucher.
 
-— Ah !
+— Ah !
 
 Augustine a crié, plié les genoux.
 Nous la soutenons.
 
-— Non, non, non...
+— Non, non, non...
 
 Tout va très vite et pourtant je vois tout au ralenti.
 Augustine est prise de contractions elle se tient le ventre
@@ -185,7 +185,7 @@ Il croise mon regard, fatigué, je montre l'œuf des yeux, il est ébahi, il se 
 Je pose l'œuf, enlève mon t-shirt, m'en sers pour essuyer les jambes et le sexe d'Augustine, lui enfile son pantalon à nouveau, elle se laisse faire.
 Je m'écroule contre le fauteuil derrière moi.
 
-Augustine pleurniche, roulée en boule contre Jacob, et répète, inconsolable : « Je l'ai tué, je l'ai tué... »
+Augustine pleurniche, roulée en boule contre Jacob, et répète, inconsolable : « Je l'ai tué, je l'ai tué... »
 Jacob finit par lui dire de regarder, elle s'y refuse, il insiste, elle jette des yeux hésitant vers mes mains réunies qui lui montrent l'œuf, elle écarquille des yeux, lâche un très long soupir, se détend entièrement dans les bras de Jacob, épuisée mais rassurée.
 Le temps passe, on entend même l'horloge de la cuisine.
 

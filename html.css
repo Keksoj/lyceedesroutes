@@ -13,8 +13,19 @@ p {
   margin-left: 0;
   margin-right: 0;
 }
+
+/* Affecte le titre du livre et des chapitres */
+h1 {
+  padding-top: 5em;
+  padding-bottom: 5em;
+  padding-right: 1em;
+  padding-left: 1em;
+  font-size: 1.5em;
+  text-align: center;
+}
+
 code { font-family: monospace; }
-h1 { text-align: center; }
+
 h2 { text-align: left; }
 h3 { text-align: left; }
 h4 { text-align: left; }

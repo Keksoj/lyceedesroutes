@@ -1,4 +1,4 @@
-# Augustine
+# 1 - Augustine
 
 
 Moi, c'est Augustine. Augustine Lambert.
@@ -10,10 +10,10 @@ Et les papotages, et les histoires de mec.
 Et mes parents au bord du divorce.
 Être une fille à 17 ans, ce n'est pas une sinécure.
 
-Si on apprends à me connaître, on me découvre un certain excès de confiance en moi.
+Si on apprend à me connaître, on me découvre un certain excès de confiance en moi.
 Je compense mes incertitudes par une répartie bien sentie, j'aime donner l'impression que je ne m'en laisse pas conter.
 Et c'est en bonne partie vrai.
-J'aime savoir ce que je pense, et j'aime penser ce que je dis.
+J'aime dire ce que je pense, et j'aime penser ce que je dis.
 Beaucoup de gens m'en veulent pour ça.
 J'entends les conversations s'éteindre sur mon passage dans les couloirs, pour se rallumer une fois que je suis repartie.
 Je vois les regards.
@@ -26,7 +26,7 @@ Nous sommes en cours depuis presque une heure, livrés à nous-mêmes depuis une
 Mes collègues sont incapables d'imaginer un embryon de plan.
 Tom relit pour la énième fois la même page wikipédia, persuadé qu'il nous manque des infos, pendant que Julie ressasse la consigne encore et encore, et marmonne sans arrêt « C'est trop vague comme sujet ».
 Ces gens sont infichus de se prendre en main tout seuls.
-Il faut que je mette du papier blanc entre nous trois, que je prenne un crayon dans la main et que je leur tire les vers du nez pour faire un brainstorming digne de ce nom.
+Il faut que je mette du papier blanc entre nous trois, que je prenne un crayon, et que je leur tire les vers du nez pour faire un brainstorming digne de ce nom.
 Au bout d'une dizaine de minutes, on a enfin un schéma qui nous donnera un plan concret.
 La suite est simple : je prends l'élément de plan le plus facile à traiter pour moi, et je donne aux autres des directives claires pour qu'ils produisent des sous-parties qui valent le coup.
 Impeccable, on a réparti les tâches avant que la cloche ne sonne.
@@ -47,38 +47,39 @@ Je ne peux pas leur mentir entièrement, mais elles ne doivent jamais savoir ce 
 C'est chaque fois un exercice d'équilibriste, dont je me sors en général plutôt bien.
 Celle qui est la plus disponible m'accueille avec un sourire.
 
-— Augustine, bonjour. Que nous vaut le plaisir ?
+— Augustine, bonjour. Que nous vaut le plaisir ?
 
-— Bonjour Mme Médiane, réponds-je sagement. Je viens chercher la clé de la salle 308, on en a besoin pour le cours de M. Rabelais.
+— Bonjour Mme Médiane, réponds-je sagement. Je viens chercher la clé de la salle 308, on en a besoin pour le cours de M. Rabelais.
 
 La réponse est mécanique :
 
-— M. Rabelais ne vient pas la chercher lui-même ?
+— M. Rabelais ne vient pas la chercher lui-même ?
 
-— Non, il nous a demandé de la prendre, il n'a pas envie de descendre à chaque fois, continue-je, plantée les mains derrière le dos, comme une écolière récite sa leçon.
+— Non, il nous a demandé de la prendre, il n'a pas envie de descendre à chaque fois, continué-je, plantée les mains derrière le dos, comme une écolière récite sa leçon.
 
-— Pourquoi ai-je tellement de mal à te faire confiance, Augustine ? renvoie-t-elle avec un soupir résigné.
+— Pourquoi ai-je tellement de mal à te faire confiance, Augustine ? renvoie-t-elle avec un soupir résigné.
 
-— Je ne suis pas vraiment d'accord, fais-je avec un ton plus défiant. En général, à chaque fois que vous me faites confiance, ça se passe bien.
+— Je ne suis pas vraiment d'accord, fais-je avec un ton plus défiant. En général, à chaque fois que vous me faites confiance, ça se passe bien.
 
-J'ai gagné. Mme Médiane fouille son bureau et me tend le bras.
+J'ai gagné. Mme Médiane fouille son bureau et me tend la clé.
 
-— Bon, voici la clé. Qui me la rapporte ?
+— Bon, la voilà. Qui me la rapporte ?
 
-— M. Rabelais. Ou l'un d'entre nous. Mais on vous la rapporte, ça c'est sûr.
+— M. Rabelais. Ou l'un d'entre nous. Mais on vous la rapporte, ça c'est sûr.
 
-— Très bien très bien, roulez jeunesse, envoie-t-elle, déjà occupée à autre chose.
+— Très bien très bien, roulez jeunesse, envoie-t-elle, déjà occupée à autre chose.
 
-Au moment où je ressors de la pièce, les autres élèvent arrivent en foule, comme des moutons pressés de rentrer à l'abattoir.
+Au moment où je ressors de la pièce, les autres élèvent arrivent en foule, comme des moutons pressés d'entrer à l'abattoir.
 J'entends derrière moi la voix de Mme Médiane, blasée, qui lance à sa collègue « Il y en a qui devraient faire de la politique, ils ont réponse à tout ».
 
 Quatre à quatre, je monte les marches de l'escalier le moins fréquenté.
 Au quatrième étage, il n'y a pas grand monde.
 Quelques classes qui ne sont plus aux normes, et un grenier.
-Et le couloir, évidemment, un couloir assez désert où ne viennent que les âmes en quête de tranquilité, et les couples qui cherchent de l'intimité pour se bécoter en toute quiétude.
+Et le couloir, évidemment, un couloir assez désert où ne viennent que les âmes en quête de tranquillité, et les couples qui cherchent de l'intimité pour se bécoter en toute quiétude.
 Je me dirige vers une porte que rien ne distingue des autres, mets la clé dans la serrure, et fais deux tours.
+La même clé ouvre les deux salles : la 308, où j'ai cours, et celle-ci, la 407.
 Je n'entre pas.
-Je retourne au troisième étage, où j'ai cours et où mes collègues attendent comme moi le prof qui remonte du deuxième étage.
+Je retourne au troisième étage, où j'ai cours et où mes camarades attendent comme moi le prof qui remonte du deuxième étage.
 M. Rabelais, qui enseigne le français, a autre chose à faire que de se soucier d'une histoire de clé.
 Je lui la lui donne, il s'en saisit, il fait son cours, et à la fin, comme à chaque fois, il la rend à une autre élève qui va la rapporter à la vie scolaire.
 Le même jeu dure depuis le début de l'année.
@@ -98,7 +99,7 @@ Me cache le visage dans les mains.
 Respire à grand coups saccadés.
 
 Mon corps se contracte, ma respiration se fait difficile.
-C'est comme si mon ventre était pris dans un corset qui ne desserait pas.
+C'est comme si mon ventre était pris dans un corset qui ne desserrerait pas.
 J'ai l'impression d'étouffer.
 Je dois lâcher quelques sanglots nerveux, accepter des spasmes qui me serrent la poitrine, et doucement, doucement, je parviens à respirer normalement.
 
@@ -127,7 +128,7 @@ Et comme j'en fais partie, je me dégoûte moi-même.
 Alors, régulièrement, je viens ici, en salle 407, pour me réfugier sous une table et me consacrer en entier à cette angoisse qui me ronge.
 J'ai l'impression que c'est à moi de tout faire marcher, dans ce monde-là.
 Si je n'étais pas là, l'exposé d'allemand n'avancerait jamais.
-Il n'y aurait personne pour récupérer la clé de la salle 308, c'est moi qui le fais depuis le début de l'année.
+Il n'y aurait personne pour récupérer la clé pour le cours de français, c'est moi qui le fais depuis le début de l'année.
 Il n'y aurait personne pour maintenir le lien entre ma mère et mon père, vu qu'ils ne se parlent plus du tout l'un à l'autre.
 Ils sont à deux doigts du divorce et je suis entre les deux, dernier rempart pour que ça tienne.
 Si je n'étais pas dans le monde, plus rien de fonctionnerait, j'en ai bien peur.

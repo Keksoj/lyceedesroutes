@@ -1,6 +1,6 @@
-# Le vortex
+# 25 - Le vortex
 
-### Faustin
+**Faustin**
 
 Augustine me saisit la main (un contact chaud et quasi érotique), nous nous emparons de celles de Jacob, qui menace de s'écrouler.
 Il semble ne rien se passer, du moins de prime abord.
@@ -29,17 +29,17 @@ Finalement c'est le temps qui nous traverse.
 Ce n'est pas nous qui arrivons à la source, c'est la source qui jaillit en nous.
 Elle :
 
-— J'attendais. Bienvenue.
+— J'attendais. Bienvenue.
 
 Elle est chaude.
 *Sie glüht wie ein Sternkern.*
 Elle ne nous brûle pas, nous n'existons pas vraiment.
 
-— Êtes vous Dieu ? demande Jacob.
+— Êtes vous Dieu ? demande Jacob.
 
 L'univers entier semble rire, une pluie d'étoiles tombe en cascade autour de nous.
 
-— Je ne suis pas l'Unique.
+— Je ne suis pas l'Unique.
 Je ne suis qu'un de ses serviteurs.
 Dans l'une de vos langues, on m'appellerait Abdalahad.
 
@@ -51,20 +51,20 @@ Des yeux insondables.
 La forme du dragon est autour de nous, entre nous, partout.
 La forme parcourt les nuages d'étoiles comme un albatros plane au-dessus des mers.
 
-— Qu'est-ce qu'on fait là ? demande Augustine.
+— Qu'est-ce qu'on fait là ? demande Augustine.
 
-— Je vous ai appelé pour m'entretenir avec vous.
+— Je vous ai appelé pour m'entretenir avec vous.
 Les humains m'intéressent.
 
 Un soleil éclate en supernova éclate alors que nous le survolons.
 
-— Mais qui êtes-vous ? insiste Augustine.
+— Mais qui êtes-vous ? insiste Augustine.
 
-— Je dois vous raconter.
+— Je dois vous raconter.
 
 À mesure que les mots sont articulés par sa voix chaude, les images apparaissent, comme dans le flash-back d'un film marvel.
 
-— Au commencement il y eu Quelqu'un, l'Unique, que sur votre Terre on appelle Dieu.
+— Au commencement il y eu Quelqu'un, l'Unique, que sur votre Terre on appelle Dieu.
 Dans un cri d'amour, il créa le temps et l'espace, ainsi qu'une multitude de serviteurs pour participer à sa création.
 Par le temps et l'espace, l'Unique se révéla Multiple, il nous montra la voie à nous tous.
 Aux serviteurs, il donna la Conscience.
@@ -80,12 +80,12 @@ D'autres mariages eurent lieu, et les enfants eurent des enfants, des particules
 Pas de limite à ma fierté.
 Ce sont elles, les briques de vos corps.
 
-— Je ne suis pas sûr de suivre, hasarda Augustine.
+— Je ne suis pas sûr de suivre, hasarda Augustine.
 
-— C'est lui qui a fabriqué tous les atomes de l'univers,
+— C'est lui qui a fabriqué tous les atomes de l'univers,
 me permets-je de préciser.
 
-— Une fois mon travail accompli, j'ai pu me reposer et contempler le travail des autres serviteurs.
+— Une fois mon travail accompli, j'ai pu me reposer et contempler le travail des autres serviteurs.
 Ils continuèrent l'œuvre commandée par l'Unique.
 Ils assistèrent au grand refroidissement, marièrent les graines les unes aux autres.
 Cela ne fit pas d'explosion, mais créa de plus en plus de formes différentes, toujours plus intriquées, plus belles.
@@ -98,9 +98,9 @@ Les formes ont continué de se reproduire et de faire des enfants, sans qu'on ai
 Toujours plus diverses, toujours plus nombreuses.
 C'est alors que quelque chose d'absolument incompréhensible s'est produit.
 
-— Qu'est-ce que c'était ? dis-je naïvement.
+— Qu'est-ce que c'était ? dis-je naïvement.
 
-— L'Unique s'est manifesté.
+— L'Unique s'est manifesté.
 Jusqu'alors, nous avions tous conscience d'accomplir son intention sans faillir, et il ne manqua pas de nous féliciter.
 Mais ce qu'il avait à faire nécessitait son intervention spéciale.
 Il choisit l'une des formes vivantes et lui transmit la Conscience.
@@ -114,20 +114,20 @@ Beaucoup s'en sont désintéressés, je suis de ceux-là.
 L'Expérience Humaine est une abberation pour moi.
 À quoi sert-il d'être conscient d'exister dans un temps et dans un espace limités ?
 
-— Que voulez-vous de nous ? demanda Jacob.
+— Que voulez-vous de nous ? demanda Jacob.
 
-— Je voulais vous poser cette question.
+— Je voulais vous poser cette question.
 Pourquoi existez-vous ?
 
-— Vous questionnez les intentions de Dieu, réponds-je.
+— Vous questionnez les intentions de Dieu, réponds-je.
 S'il ne vous a pas expliqué à l'époque, pourquoi le saurions-nous aujourd'hui ?
 
 Il y a une sorte de silence.
 Non que le temps s'écoule, mais nous avons l'impression que notre interlocuteur réfléchit.
 
-— Comment pouvez-vous exister sans connaître le sens de votre existence ?
+— Comment pouvez-vous exister sans connaître le sens de votre existence ?
 
-— Il faut avouer qu'il pose de bonnes questions, renchérit Augustine.
+— Il faut avouer qu'il pose de bonnes questions, renchérit Augustine.
 
 C'est à notre tour de réfléchir.
 Par les fils qui nous relient, Jacob, Augustine et moi partageons nos pensées, aussi simplement que si nous échangions des photos sur facebook.
@@ -139,17 +139,17 @@ Nous nous consacrons à la question, juste pour se rendre compte que :
 
 Nous le formulons ensemble, à trois :
 
-— Pourquoi nous disposons de la conscience d'exister dans un temps et un espace limité, voilà qui est également un mystère pour nous.
+— Pourquoi nous disposons de la conscience d'exister dans un temps et un espace limité, voilà qui est également un mystère pour nous.
 Vivre avec cette conscience est une épreuve de tous les jours.
 Si vous obtenez de plus amples détails, merci de nous tenir informés.
 
 Hochement de tête de la part de notre dragon galactique.
 Il ajoute :
 
-— Je vous remercie d'être venus me trouver.
+— Je vous remercie d'être venus me trouver.
 Nous reparlerons, si vous l'acceptez.
 
-— Oui !
+— Oui !
 
 Il s'envole, sa forme se dissout dans le plafond d'étoiles.
 

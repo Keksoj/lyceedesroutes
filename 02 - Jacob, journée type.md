@@ -1,4 +1,4 @@
-# Jacob
+# 2 - Jacob
 
 Je m'appelle Jacob.
 Souvent, je me demande à quoi ma vie ressemblerait si l'on m'avait donné un autre prénom.
@@ -20,20 +20,20 @@ Je nage dans le grand aquarium du lycée, protégé par un nuage de je-m'en-fous
 Et ça me va très bien.
 Je médite dans ma bulle de silence.
 
-— M. Mlynikowski ! Lisez donc la question suivante.
+— M. Mlynikowski ! Lisez donc la question suivante.
 
 Merde. C'est la prof d'anglais qui m'adresse la parole.
 J'avais zappé que j'étais en cours, emporté par mes réflexions.
 
-— Heu, pardon, je ne suis pas sûr d'avoir bien suivi, on en est à quelle question ?
+— Heu, pardon, je ne suis pas sûr d'avoir bien suivi, on en est à quelle question ?
 
-— Eh bien, il semble que nous ayons encore perdu Jacob sur Mars. Redescendez un peu sur Terre pour voir.
+— Eh bien, il semble que nous ayons encore perdu Jacob sur Mars. Redescendez un peu sur Terre pour voir.
 
-Concert d'expressions amusées dans la classe.
+Concert de ricanements la classe.
 J'ai trop l'habitude pour me vexer davantage.
 Je repose ma question calmement à Mme Vallois-Guybrush, qui m'indique l'endroit, et je lis à voix haute, dans mon mauvais accent :
 
-— If one goes to the US with a valid visa on a turkish passport, what could possibly go wrong ?
+— If one goes to the US with a valid visa on a turkish passport, what could possibly go wrong ?
 
 Ah, oui, on parle d'espace et échanges, flux migratoires et caetera.
 J'esquisse une réponse dans un anglais approximatif, la prof comprend que j'ai bien lu l'article.
@@ -43,7 +43,7 @@ On parle de la barrière qui sépare États-Unis et Mexique, on esquisse même l
 La prof est très bien pour ça, elle se montre passionnée par l'échange avec les élèves curieux.
 Mais c'est à ce moment que le reste de la classe commence à s'agiter, parce qu'on s'éloigne du cours proprement dit.
 Ils ne veulent apprendre que les éléments du programme.
-Comme ils sont fatiguants !
+Comme ils sont fatigants !
 Et puis, la cloche sonne la fin de l'heure.
 
 On passe au cours suivant.
@@ -65,33 +65,11 @@ Sitôt venu, il n'est déjà plus là, et pourtant – et pourtant ! – j'ente
 Voilà, j'y suis à nouveau. Ici c'est chez moi. Une maison en pierre construite il y a longtemps, dans la campagne, entourée de deux ou trois maisons semblables, et de larges champs. Papa, maman, grand frère, petite soeur, tout le monde y est. Heureusement, j'ai mon espace à moi, mon espace privé, la chambre en bout de maison. Elle est construite en dehors des murs de pierre, complètement isolée. C'est mon refuge, personne n'y entre à moins que je ne l'y invite.
 
 Repas avec la famille.
-Heureusement, ce n'est pas trop difficile de cohabiter avec ces gens-là, vu que je vis avec eux depuis 16 ans maintenant. On se connaît, on a nos limites, on a nos fonctionnements.
+Heureusement, ce n'est pas trop difficile de cohabiter avec ces gens-là, vu que je vis avec eux depuis seize ans maintenant. On se connaît, on a nos limites, on a nos fonctionnements.
 Je sais ce que je peux faire pour eux, voilà l'un des rares endroits où je ne me sens pas vraiment inutile.
 Papa est psy, maman éduc' spé'.
 Ceux-là, ils se sont trouvés, et en général, ils nous laissent de la place et ils parlent clairement quand il le faut.
 Le reste du temps, ils racontent beaucoup de conneries, ils rient fort et ils nous laissent vivre.
-
-— Chérie, j'ai trouvé ma voie : je vais devenir capitaliste.
-
-— Ah bon ?
-
-— Mon service a décidé de réduire la quantité de lits disponibles, ils veulent passer en hôpital de jour parce que ça sera plus rentable.
-
-— C'est pas vrai, ils veulent faire ça ! Mais c'est horrible, si vous passez en hôpital de jour, où vont aller vos pensionnaires ? Et ils vont réduire tes heures si ça continue !
-
-— Voyons, chérie, tu vois le mauvais côté des choses ! Il faut penser moderne ! On gère les institutions psychiatriques selon les logiques de l'économie de marché ! Il faut suivre la tendance ! Je vais devenir capitaliste, je te dis, et vendre mes services d'écoute au plus offrant !
-
-— Chéri, tu ne devrais pas plaisanter avec ces choses-là.
-
-— Papa va devenir capitaliste ? On va être riches et aller en week-end à New York ?
-
-— Mais non, Manon. C'est ton père qui raconte n'importe quoi. Regarde, chéri, tu perturbes ta fille avec tes fantasmes.
-
-— N'écoute pas ta mère, Manon. On va devenir riches et je t'emmènerai à l'école en jet privé, ça épatera tes copines, tu vas voir.
-
-— C'est vrai ?
-
-— Jérôme ! Arrête de parler comme ça devant nos enfants !
 
 Je finis mon repas et débarrasse mon assiette.
 J'ai assisté à cette scène tellement de fois, ça me laisse blasé.
@@ -115,7 +93,7 @@ corps.
 
 La grande question bien sûr c'est : comment mon corps peut-il ne plus être mon corps ?
 Eh bien, c'est difficile à expliquer.
-Ma consciencen'est plus présente que dans ma tête.
+Ma conscience n'est plus présente que dans ma tête.
 Le corps, lui... il flotte.
 En fait, il se dédouble.
 Le corps physique, bien sûr, reste à sa place, sur mon lit.
@@ -133,57 +111,57 @@ Le corps physique et l'intelligence n'ont plus d'importance désormais, seule co
 La conscience monte, monte, dans des champs de pures vibrations, jusqu'à atteindre un lieu plein de lumière.
 C'est un lieu que j'ai déjà visité, c'est là que je rencontre cette autre présence, cette présence chaleureuse, qui salue ma conscience désincarnée.
 
-— Heureux de te sentir à nouveau, Jacob. Comment vas-tu ?
+— Heureux de te sentir à nouveau, Jacob. Comment vas-tu ?
 
-Sa voix vibre doucement, comme le son d'un synthétiseur, mais de manière beaucoup plus naturelle, chaude, spontannée.
+Sa voix vibre doucement, comme le son d'un synthétiseur, mais de manière beaucoup plus naturelle, chaude, spontanée.
 C'est lui, je le reconnais.
 
-— Bonjour, fais-je. Je vais bien, je crois. Depuis notre dernière conversation, je me suis posé beaucoup de questions.
+— Bonjour, fais-je. Je vais bien, je crois. Depuis notre dernière conversation, je me suis posé beaucoup de questions.
 
-— Tu ne serais pas toi-même si tu ne te posais pas autant de questions, n'est-ce pas ? me répond-il.
+— Tu ne serais pas toi-même si tu ne te posais pas autant de questions, n'est-ce pas ? me répond-il.
 
-— Justement, je me suis demandé ce qui fait de moi Jacob. Et si je ne m'appelais pas Jacob ? Aurais-je été un autre ? Aurait-ce été moi ?
+— Justement, je me suis demandé ce qui fait de moi Jacob. Et si je ne m'appelais pas Jacob ? Aurais-je été un autre ? Aurait-ce été moi ?
 
-— Crois-tu vraiment que ton nom soit d'une telle importance ici ? Moi-même, j'ai porté beaucoup de noms, et je n'en utilise aucun avec toi. Est-ce que j'existe moins pour autant ?
+— Crois-tu vraiment que ton nom soit d'une telle importance ici ? Moi-même, j'ai porté beaucoup de noms, et je n'en utilise aucun avec toi. Est-ce que j'existe moins pour autant ?
 
-— Bien sûr, tu existes, évidemment, et à chaque fois je te reconnais. Mais tu sembles si... sûr de toi. J'aimerais avoir une telle assurance.
+— Bien sûr, tu existes, évidemment, et à chaque fois je te reconnais. Mais tu sembles si... sûr de toi. J'aimerais avoir une telle assurance.
 
-— Une telle assurance est-elle vraiment nécessaire pour ce que tu vis au quotidien ? N'en as-tu pas déjà bien assez pour vivre ?
+— Une telle assurance est-elle vraiment nécessaire pour ce que tu vis au quotidien ? N'en as-tu pas déjà bien assez pour vivre ?
 
 Voilà les réponses qu'il me fallait mais que je ne voulais pas entendre. J'essaie de me justifier.
 
-— Pour vivre, oui. Mais il y a tellement de questions. Plus je discute avec toi, et plus les questions sont nombreuses.
+— Pour vivre, oui. Mais il y a tellement de questions. Plus je discute avec toi, et plus les questions sont nombreuses.
 
-— C'est magnifique, n'est-ce pas ?
+— C'est magnifique, n'est-ce pas ?
 
 Il y a comme un ton amusé dans sa voix.
 Je déteste ça, je me sens ridicule.
 Et pourtant, une partie de moi rit avec lui.
 
-— Je ne sais pas... je me trouve pétri de doutes. Comment acquérir la connaissance ? D'où tires-tu la tienne ?
+— Je ne sais pas... je me trouve pétri de doutes. Comment acquérir la connaissance ? D'où tires-tu la tienne ?
 
-— Tu n'es pas encore prêt à le savoir, rétorque-t-il gravement. Je peux seulement te dire qu'on n'apprend les choses qu'à nos dépens.
+— Tu n'es pas encore prêt à le savoir, rétorque-t-il gravement. Je peux seulement te dire qu'on n'apprend les choses qu'à nos dépens.
 
-— Qu'est-ce que ça veut dire ?
+— Qu'est-ce que ça veut dire ?
 
-— Cela veut dire que nos petites conversations ne sont pas si utiles tant que tu n'as pas vécu davantage de choses dignes d'être discutées. Il te faut vivre.
+— Cela veut dire que nos petites conversations ne sont pas si utiles tant que tu n'as pas vécu davantage de choses dignes d'être discutées. Il te faut vivre.
 
 Mouais. Je ne suis pas convaincu, alors j'essaie de gagner du temps.
 Mais c'est peine perdue, je le sens.
 
-— Qu'est-ce que je dois vivre pour apprendre ? essaie-je.
+— Qu'est-ce que je dois vivre pour apprendre ? essaie-je.
 
-— N'y pense pas trop. Essaie de vivre sans te poser de questions.
+— N'y pense pas trop. Essaie de vivre sans te poser de questions.
 
-— Mais c'est impossible !
+— Mais c'est impossible !
 
-— J'ai dit « Essaie » !
+— J'ai dit « Essaie » !
 
 Encore ce ton léger, mi-sérieux, mi amusé ! Je déteste ça. J'aime autant prendre congé.
 
-— Bon, très bien, je vais y aller.
+— Bon, très bien, je vais y aller.
 
-— C'est toujours un plaisir, répond-il avec un plaisir manifeste.
+— C'est toujours un plaisir, répond-il avec un plaisir manifeste.
 
 Et je redescends dans mon corps. Je le retrouve dans l'état où je l'avais quitté, juste un peu engourdi.
 Une différence notable : la vessie appelle à être vidée.

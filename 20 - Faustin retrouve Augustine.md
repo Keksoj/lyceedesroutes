@@ -1,4 +1,4 @@
-# Faustin retrouve Augustine
+# 20 - Faustin retrouve Augustine
 
 On m'a laissé partir de l'hôpital le lendemain.
 Des trois, j'ai été le plus rapide à me calmer et à me laisser faire.
@@ -49,25 +49,25 @@ Mais on est dans la même panade, alors autant mettre mes a prioris au placard.
 
 Un échange de numéro plus tard, mon téléphone sonne et je décroche pour entendre sa voix impérieuse :
 
-— Faustin, je viens de sortir de l'HP.
+— Faustin, je viens de sortir de l'HP.
 Dis-moi, qu'est-ce qu'il s'est passé l'autre jour ?
 
-— Et bien, je me pose la même question.
+— Et bien, je me pose la même question.
 Une hallucination collective, c'est le meilleur terme.
 Encore qu'on a halluciné séparément, chacun dans notre tête, c'est inhabituel pour une hallucination collective.
 
-— Tu te rends compte que ça nous avance à rien ?
+— Tu te rends compte que ça nous avance à rien ?
 
-— Oui, admis-je.
+— Oui, admis-je.
 
 Silence.
 
-— Toi aussi, tu as vu le dragon rouge ?
+— Toi aussi, tu as vu le dragon rouge ?
 sa voix est plus calme.
 
-— Le dragon rouge, et l'univers à toutes les échelles, me permets-je de préciser.
+— Le dragon rouge, et l'univers à toutes les échelles, me permets-je de préciser.
 
-— Putaiiiiiiiiiin.
+— Putaiiiiiiiiiin.
 Mais ça veut dire quoi tout ça ?
 Et pourquoi nous trois ?
 Et qu'est-ce qu'on fait maintenant ?
@@ -75,26 +75,26 @@ Est-ce qu'on est devenus fous ?
 
 Je prends le temps de démêler cet embrouillamini de questions et d'y répondre dans l'ordre.
 
-— On ne sait pas à quoi tout ça rime, malheureusement.
+— On ne sait pas à quoi tout ça rime, malheureusement.
 Pourquoi nous trois, et bien, pourquoi pas ?
 Ce qu'on fait maintenant : réfléchir à ce qu'on peut faire.
 C'est déjà pas mal de réfléchir.
 Quant à la folie, je me suis distancié de cette notion depuis l'évènement.
 Michel Foucault explique que la folie est un concept plutôt récent en occident, c'est apparu à l'âge classique...
 
-— On s'en fout de ces théories !
+— On s'en fout de ces théories !
 Jacob est encore à l'HP ?
 Il ne répond pas à mes messages.
 
-— Il y est encore.
+— Il y est encore.
 Sa sœur pleure sur facebook.
 Elle ne donne pas de détails mais c'est forcément à cause de lui.
 
-— Il a pris cher, hein ?
+— Il a pris cher, hein ?
 
 On se tait.
 Il faut admettre que Jacob en train de se faire attacher les bras et piquer la fesse était un triste spectacle.
 
-— Il faut le sortir de là, propose Augustine.
+— Il faut le sortir de là, propose Augustine.
 
-— Ouaip.
+— Ouaip.

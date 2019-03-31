@@ -1,4 +1,4 @@
-# Le père de Jacob
+# 22 - Le père de Jacob
 
 Jérôme Mlynikowski est un homme soucieux comme rarement auparavant.
 
@@ -13,7 +13,7 @@ Enfoncé dans son fauteuil à ennui (sa posture préférée pour se vider de la 
 Non pour lui-même, mais pour son fils Jacob qui n'a presque plus de contact avec la réalité.
 Jérôme Mlynikowski est en train de perdre son fils, une douleur qu'il ne pensait jamais ressentir.
 
-— Ça ne te sied pas, d'être aussi craintif.
+— Ça ne te sied pas, d'être aussi craintif.
 
 La voix est venue de son for intérieur.
 Cette voix, c'est l'autre lui-même.
@@ -23,34 +23,34 @@ L'Autre lui ressemble presque exactement, mais utilise des mots légèrement dif
 Jérôme a appris à dialoguer avec l'Autre.
 C'est confiant qu'il répond :
 
-— J'ai peur pour mon fils.
+— J'ai peur pour mon fils.
 Je l'aime comme s'il faisait partie de moi.
 
-— Et s'il devait mourir, c'est un morceau de toi qu'on arracherait, n'est-ce pas ?
+— Et s'il devait mourir, c'est un morceau de toi qu'on arracherait, n'est-ce pas ?
 
-— Oui.
+— Oui.
 
-— Et si tu te l'arrachais maintenant ?
+— Et si tu te l'arrachais maintenant ?
 
-— Je te demande pardon ?
+— Je te demande pardon ?
 
-— Prends ton fils, ton unique, que tu chéris...
+— Prends ton fils, ton unique, que tu chéris...
 
-— Ne cite pas ce texte à la légère !
+— Ne cite pas ce texte à la légère !
 
-— ... tu l'offriras en holocauste sur une montagne que je t'indiquerai.
+— ... tu l'offriras en holocauste sur une montagne que je t'indiquerai.
 
-— C'est ridicule, c'est proprement ridicule.
+— C'est ridicule, c'est proprement ridicule.
 Il est mon fils, jamais je ne l'abandonnerai.
 Je l'aime et j'ai peur qu'il meure, c'est pourtant simple.
 
 Jérôme s'est tourné pour s'appuyer sur l'acoudoir, il enfonce son visage dans la paume de sa main.
 L'Autre continue :
 
-— Est-ce à toi de décider s'il doit mourir ou non ?
+— Est-ce à toi de décider s'il doit mourir ou non ?
 Es-tu Dieu pour en décider ?
 
-— Tu m'énerves, tu m'énerves complètement.
+— Tu m'énerves, tu m'énerves complètement.
 
 La prostration est un sport qu'il connaît déjà bien.
 Cependant, fuir de soi-même est un exercice mental exténuant.
@@ -91,11 +91,11 @@ Ce Faustin, par contre, ne lui a été évoqué que de loin.
 
 La jeune fille se tourne vers lui en surmontant visiblement son appréhension.
 
-— Bonsoir M. Mlynikowski.
+— Bonsoir M. Mlynikowski.
 Heu, on venait vous voir pour Jacob.
 On aimerait avoir des nouvelles.
 
-— Et il faut qu'on vous parle !
+— Et il faut qu'on vous parle !
 hasarde Faustin d'un ton brut et aussitôt regretté.
 
-— Je vois. Entrez, on va faire du thé.
+— Je vois. Entrez, on va faire du thé.

@@ -1,6 +1,6 @@
-# Retour sur Terre
+# 14 - Retour sur Terre
 
-### Jacob
+**Jacob**
 
 Réveillé à l'infirmerie, tout va bien.
 On me laisse sortir, l'heure de la fin des cours est passée depuis une heure.
@@ -44,53 +44,53 @@ Il y est acoudé, les mains jointes, le regard dans le vide.
 Je viens m'asseoir, non en face de lui, mais un peu en diagonale, pour ne pas faire face à son regard.
 Il prends la parole :
 
-— Que s'est-il passé ?
+— Que s'est-il passé ?
 
 Sa voix est douce, un peu inquiète, déçue surtout.
 Je réponds sans grande émotion.
 
-— J'ai dit à M. Charles que j'ai fumé un joint.
+— J'ai dit à M. Charles que j'ai fumé un joint.
 
-— C'est vrai ? Tu as fumé un joint ? demande-t-il doucement.
+— C'est vrai ? Tu as fumé un joint ? demande-t-il doucement.
 
 Inutile de mentir, cette fois.
 Mécaniquement, je rétorque que non.
 
-— Que s'est-il passé, dans ce cas ?
+— Que s'est-il passé, dans ce cas ?
 
-— J'étais dans la cour, et j'ai eu... une expérience particulière.
+— J'étais dans la cour, et j'ai eu... une expérience particulière.
 J'ai ressenti une joie profonde, et j'ai eu... des visions.
 Je me suis détaché de mon corps, je voyais tout en plus intense.
 Et je me suis éloigné, j'ai commencé à me rapprocher du soleil...
 
-— Tu es sorti de ton corps ? me coupe-t-il un peu sèchement.
+— Tu es sorti de ton corps ? me coupe-t-il un peu sèchement.
 
-— Heu... je pense.
+— Heu... je pense.
 
-— Et ça t'arrive souvent ? lance-t-il d'une voix de plus en plus précipitée.
+— Et ça t'arrive souvent ? lance-t-il d'une voix de plus en plus précipitée.
 
-— J'imagine. Je sors régulièrement, sur mon lit, et je vais...
+— J'imagine. Je sors régulièrement, sur mon lit, et je vais...
 
-— Comment as-tu commencé à faire ça ?
+— Comment as-tu commencé à faire ça ?
 
 Cette fois il a perdu son calme, il s'est tourné vers moi et me lance un regard furieux, alarmé.
 Mais qu'est-ce qui lui arrive ?
 
-— Heu... j'utilise les battements binauraux que j'ai trouvé dans tes cartons.
+— Heu... j'utilise les battements binauraux que j'ai trouvé dans tes cartons.
 Il y avait un CD marqué « Brainwave » et je l'ai rippé en mp3.
 
-— Tu as fouillé dans mes affaires !
+— Tu as fouillé dans mes affaires !
 
 Maintenant il est furieux, mais qu'est-ce qui lui prend ?
 
-— Bon papa, c'est quoi le problème ?
+— Bon papa, c'est quoi le problème ?
 Tu as des cartons plein de vieux tests de QI, de bouquins de psychanalyse, et ça ne t'a jamais gêné que je fouille là-dedans.
 
-— Oui, mais ça ! Mais ça !
+— Oui, mais ça ! Mais ça !
 
 Il se prends la tête entre les mains, les repose brutalement sur la table et me regarde droit dans les yeux.
 
-— Ça c'est dangereux, tu comprends ?
+— Ça c'est dangereux, tu comprends ?
 J'en ai vu des quantités, des patients en psychiatrie qui ont fait mumuse avec l'ésotérisme, la magie, les drogues, tous ces moyens de transfomer l'esprit en puzzle.
 Ils ont joué, et ils ont perdu.
 À ce point sortis d'eux-mêmes qu'ils ont perdu le chemin du retour.
@@ -98,16 +98,16 @@ Tu devrais les voir.
 Un jour je t'emmènerai faire un tour dans mon service.
 Et toi, qu'est-ce que tu fais... ah, mon Dieu.
 
-— Non mais attends, j'ai juste écouté des mp3 sur mon lit, dis-je pour me défendre.
+— Non mais attends, j'ai juste écouté des mp3 sur mon lit, dis-je pour me défendre.
 
-— Et tu as fini complètement halluciné sur la cour du lycée !
+— Et tu as fini complètement halluciné sur la cour du lycée !
 
-— Mais putain mais on peux rien faire avec toi !
+— Mais putain mais on peux rien faire avec toi !
 
 Je m'emporte, moi aussi, je jette mes poings sur la table et hausse le ton.
 Je continue :
 
-— On a une vie de merde, on doit passer la journée sur des chaises, à apprendre à obéir à un système qui ne marche pas, pour devenir de gentils moutons, et y'a pas moyen de sortir du rang.
+— On a une vie de merde, on doit passer la journée sur des chaises, à apprendre à obéir à un système qui ne marche pas, pour devenir de gentils moutons, et y'a pas moyen de sortir du rang.
 Non mais attends, moi ça va, je fais pas de conneries si tu compares avec les autres.
 Aujourd'hui y'a une fille qu'a frappé un mec pour une histoire d'exposé !
 Il y a des terminales qui sortent en teuf, se prennent des ecstasy et s'en vantent le lundi.
@@ -118,11 +118,11 @@ J'ai avancé sur la table, lui a un peu reculé sur sa chaise.
 Il a senti mon énervement.
 Il retrouve son calme, s'avance à nouveau légèrement, et m'ordonne d'une voix mesurée :
 
-— Jacob, je ne veux pas que tu écoutes ces battements binauraux.
+— Jacob, je ne veux pas que tu écoutes ces battements binauraux.
 
-— Mais pourquoi !
+— Mais pourquoi !
 
-— Ils ont été conçus pour être utilisés dans un cadre clinique, avec un projet psychothérapique.
+— Ils ont été conçus pour être utilisés dans un cadre clinique, avec un projet psychothérapique.
 Il ne sont pas à prendre à la légère.
 Mal employés, ils peuvent morceler la psyché, comme tu l'as vécu aujourd'hui.
 
@@ -165,24 +165,24 @@ Changement de phase, résonner avec le corps physique puis s'en détacher, facil
 Tout est très facile.
 Rapidement, me voilà dans ce lieu plein de lumière, où je me sens si bien compris et accueilli.
 
-— Bonjour, Jacob !
+— Bonjour, Jacob !
 
 C'est sa voix, toujours aussi suave et amicale (sans jamais perdre ce léger ton moqueur !).
 Je suis soulagé, enfin une présence aimante !
 
-— Bonjour Gabriel. Je suis tellement content de t'entendre !
+— Bonjour Gabriel. Je suis tellement content de t'entendre !
 
-— Tant mieux ! Mais pourquoi m'appelles-tu Gabriel ?
+— Tant mieux ! Mais pourquoi m'appelles-tu Gabriel ?
 me renvoie-t-il du tac au tac.
 
-— Ah, tu m'énerves ! Comment tu t'appelles, à la fin !
+— Ah, tu m'énerves ! Comment tu t'appelles, à la fin !
 
-— Pourquoi tu me demandes comment je m'appelle ?
+— Pourquoi tu me demandes comment je m'appelle ?
 dit-il en riant manifestement cette fois-ci.
 
 J'explose, l'émotion m'emporte.
 
-— Ah, non, tu ne vas pas te mettre à me persécuter comme les autres !
+— Ah, non, tu ne vas pas te mettre à me persécuter comme les autres !
 Aujourd'hui j'ai eu une expérience magnifique et ça ne m'a valu que des problèmes.
 J'aurais voulu dire à l'entièreté de l'humanité à quel point le monde est magnifique, et on m'a traité avec méfiance, discrédit, remontrances.
 C'est insupportable !
@@ -193,7 +193,7 @@ Silence.
 Je sens la chaleur se resserer autour de moi.
 Je continue.
 
-— Chaque jour n'est qu'un mur de silence.
+— Chaque jour n'est qu'un mur de silence.
 On m'interdit ce que j'aime, on m'ordonne ce que je n'aime pas.
 Personne ne me dit ce qui vaut la peine.
 Et toi, tu me dis de vivre et de supporter tout cela !
@@ -205,7 +205,7 @@ Je ne me suis jamais senti si respecté de ma vie.
 Je pleurerais de reconnaissance si j'avais des yeux pour le faire.
 Je reprends, timidement, d'une voix presque inexistante.
 
-— Je... je ne sais pas ce que je fais sur terre...
+— Je... je ne sais pas ce que je fais sur terre...
 je... je ne sais pas qui je suis... je voudrais...
 je voudrais vivre vraiment. Vivre pleinement.
 Je voudrais savoir ce qui fait aimer la vie aux autres.
@@ -216,16 +216,16 @@ Ma voix retombe, mais le silence est toujours là, à m'écouter.
 Et puis, j'entends une sorte de brise légère, qui tourne autour de moi.
 Gabriel murmure à mon oreille droite.
 
-— C'est la dernière fois que nous parlons.
+— C'est la dernière fois que nous parlons.
 
 Il change d'oreille.
 
-— Je vais te dire mon nom, et tu retourneras vivre comme tu le fais si bien.
+— Je vais te dire mon nom, et tu retourneras vivre comme tu le fais si bien.
 
 Il tourne encore !
 Le voilà maintenant devant moi.
 
-— Aujourd'hui tu as beaucoup appris.
+— Aujourd'hui tu as beaucoup appris.
 Continue !
 N'aie pas peur de souffrir, la souffrance te purifie.
 Mais ne la recherche pas pour autant.
@@ -235,7 +235,7 @@ Il a tourné.
 Le voilà derrière moi.
 Sa voix s'efface en murmurant ces mots :
 
-— Je m'appelle Jacob.
+— Je m'appelle Jacob.
 
 Les mots résonnent dans la lumière du silence, se répètent de plus en plus fort.
 C'est tout le silence qui me hurle « Je m'appelle Jacob » dans les oreilles, encore et encore, des millions de fois, un vrai vacarme.
@@ -253,4 +253,4 @@ Les larmes coulent facilement, aussitôt absorbées par les draps.
 Je pleure ma journée, simplement, calmement.
 Je pleure tout ce qui est mort aujourd'hui : mon innocence, ma dignité.
 Le silence me console, je pleure de plus belle, honteux et heureux à la fois.
-Ça dure un bon moment, et puis, rassasié, je me couche enfin sur le ventre, et avant de dormir, parvient à lâcher un soupir de fatigue et de contentement.
+Ça dure un bon moment, et puis, rassasié, je me couche enfin sur le ventre, et avant de dormir, parviens à lâcher un soupir de fatigue et de contentement.

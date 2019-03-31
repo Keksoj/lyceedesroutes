@@ -1,6 +1,6 @@
-# Tuer le père
+# 13 - Tuer le père
 
-### Augustine
+**Augustine**
 
 Le voyage en voiture avec ma mère est silencieux.
 Il s'est mis à pleuvoir, de ce temps de chien qui n'est ni du gris ni de la pluie, mais quelque chose entre deux.
@@ -49,11 +49,11 @@ L'amour, ça existe presque.
 Toc toc. Ma mère entrouvre la porte de ma chambre.
 Je libère une oreille pour entendre.
 
-— Ton père n'est pas rentré, tu as de ses nouvelles ?
+— Ton père n'est pas rentré, tu as de ses nouvelles ?
 
-— Il m'a envoyé un SMS qui disait qu'il ne rentrera pas ce soir.
+— Il m'a envoyé un SMS qui disait qu'il ne rentrera pas ce soir.
 
-— Ah, d'accord.
+— Ah, d'accord.
 
 La porte se referme avec tous les petits bruits mécaniques entendus dix mille fois dans une vie : grincement, clic, dégrincement, des pas qui s'éloignent.
 Si je faisais attention, je pourrais sans doute entendre le placard qui s'ouvre dans la cuisine, là où ma mère range le whisky.
@@ -88,17 +88,17 @@ La porte s'ouvre sans difficulté.
 Je sais exactement où se trouve le bureau qui m'intéresse, je m'y dirige.
 Au moment où je passe à côté du guicher, la personne qui s'y trouve fait :
 
-— Mademoiselle, heu, madame, bonjour, vous avez rendez-vous ?
+— Mademoiselle, heu, madame, bonjour, vous avez rendez-vous ?
 
-— Ouais, c'est ça, j'ai rendez-vous, je rétorque.
+— Ouais, c'est ça, j'ai rendez-vous, je rétorque.
 
-— Attendez, vous ne pouvez pas vous présenter comme ça, attendez !
+— Attendez, vous ne pouvez pas vous présenter comme ça, attendez !
 
 M'en moque.
 J'ouvre la porte du bureau et la referme derrière moi.
 À l'intérieur, un bureau, un ordinateur, une imprimante, des tableaux aux murs, et sur le fauteuil, mon père.
 
-— Toi ! je m'exclame.
+— Toi ! je m'exclame.
 
 Mon père s'est levé.
 Il s'écrie : « Augustine ! »
@@ -106,20 +106,20 @@ Je suis debout devant lui.
 Il fait signe à la personne de l'accueil, qui a ouvert la porte derrière moi, de refermer la porte, qu'il me connaît, etc.
 La porte se referme.
 
-— Qu'est-ce que tu fais là, Augustine ?
+— Qu'est-ce que tu fais là, Augustine ?
 
 Son visage est étonné, profondément étonné.
 
-— Et toi, papa, qu'est-ce que tu fais ? Hein, qu'est-ce que tu fais ?
+— Et toi, papa, qu'est-ce que tu fais ? Hein, qu'est-ce que tu fais ?
 
 Je m'approche du bureau, saisit l'écran de l'ordinateur des deux mains, tire dessus (les câbles gémissent et le retiennent), et le jette par terre.
 Il ne se brise pas en mille morceaux, mais il s'éteint, et il me semble même que sa surface est fendue.
 En tout cas, il y a eu un craquement de plastique.
 Mon père s'est raproché, mes yeux ont commencé à pleurer, mais je reste maître de moi.
 
-— Augustine, tu vas te calmer tout de suite sinon ça va mal finir.
+— Augustine, tu vas te calmer tout de suite sinon ça va mal finir.
 
-— Comment tu veux que ça finisse plus mal !
+— Comment tu veux que ça finisse plus mal !
 Maman boit son whisky pour oublier que tu la trompes avec ta pétasse de responsable marketing, je me fais virer du lycée parce que je suis devenue violente, et toi t'es au courant de rien, tu m'envoies des SMS parce que t'es plus capable de parler directement à ta femme.
 Ça ne va pas, mais alors ça ne va pas du tout.
 Comment tu voudrais que ça finisse plus mal !
@@ -142,14 +142,14 @@ Je lui cale un coup de pied dans le ventre : il lâche mon bras en se tordant d
 Je suis toujours très calme.
 Sans savoir pourquoi, je prends une voix très autoritaire et le vouvoie :
 
-— Monsieur Lambert, vous allez parler à votre femme de façon directe, en laissant votre fille en dehors de tout ça.
+— Monsieur Lambert, vous allez parler à votre femme de façon directe, en laissant votre fille en dehors de tout ça.
 
 La porte se laisse ouvrir docilement.
 Dix visages héberlués me regardent sortir du bureau.
 Je repasse à côté du guichet où des clients me contemplent avec des yeux ronds.
 Je lâche :
 
-— Ne faites pas confiance aux banquiers, achetez du bitcoin.
+— Ne faites pas confiance aux banquiers, achetez du bitcoin.
 
 Dehors, la pluie continue de tomber finement.
 Elle rencontre un visage serein : c'est le mien.

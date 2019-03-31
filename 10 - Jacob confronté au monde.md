@@ -1,17 +1,17 @@
-# Jacob face au CPE
+# 10 - Jacob face au CPE
 
 Il s'installe dans son fauteuil avec violence, ce qui n'est pas pour me rassurer.
 Quant à moi, je me suis souvenu de comment on utilise une chaise, et me suis appliqué à poser mes fesses sur celle qui est disponible.
 Mon corps ne réagit pas beaucoup à ce que je lui demande de faire, j'ai l'impression d'être un mini-alien aux commandes d'un robot immense.
 
-— Bon, Jacob, dis-moi ce qui se passe, parce que tu as fait peur à tout le monde, là.
+— Bon, Jacob, dis-moi ce qui se passe, parce que tu as fait peur à tout le monde, là.
 
 Qu'est-ce que je vais lui dire ?
 Que j'ai été pris d'une extase mystique suivie de visions cosmiques ?
 
-— Heu... j'ai été pris de vertiges.
+— Heu... j'ai été pris de vertiges.
 
-— Dis-moi plutôt ce que tu as fumé.
+— Dis-moi plutôt ce que tu as fumé.
 
 Ça alors, c'est l'explication la plus simple, la plus évidente, et bien sûr, la plus éloignée de la vérité.
 Je n'ai jamais été ivre de ma vie.
@@ -21,7 +21,7 @@ On m'a déjà dit : « Mec, tu n'as pas besoin de drogues, tu es déjà perch�
 Et je dois avouer qu'il y a quelque chose de vrai là-dedans.
 Tout se passe comme si j'étais tombé dans la marmite de LSD quand j'étais petit.
 
-— Heu...
+— Heu...
 
 Le regard de mon interlocuteur est perçant.
 Il s'infiltre dans mes pensées comme de l'eau coule au travers de la montagne, détruisant seulement ce qui bloque son passage, creusant lentement ses chemins pour y passer plus facilement ensuite.
@@ -29,9 +29,9 @@ Cet homme a beaucoup trop de puissance mentale pour que je lui résiste longtemp
 Il faut que je trouve un chemin pour sortir rapidement de cette situation, sinon il saura tout de moi.
 Ses yeux sont bleus comme l'un de ses lagons insondables où l'on s'imagine couler sans pouvoir remonter à la surface.
 
-— Ça veut dire quoi, « heu » ?
+— Ça veut dire quoi, « heu » ?
 
-— Ça veut dire que, heu...
+— Ça veut dire que, heu...
 
 Vite vite vite.
 Je n'ai pas le temps, il faut absolument que je dise quelque chose avant qu'il ne trouve de piste plus concrète.
@@ -63,17 +63,17 @@ L'explication la plus acceptable pour lui sera donc que j'ai fumé quelque chose
 Facile.
 Maintenant on retourne aux manettes et on se rebranche au corps.
 
-— Dis donc, Jacob, tu m'écoutes quand je te parle ? À te voir avec un tel regard, je me demande bien ce que...
+— Dis donc, Jacob, tu m'écoutes quand je te parle ? À te voir avec un tel regard, je me demande bien ce que...
 
-— J'ai fumé un joint.
+— J'ai fumé un joint.
 
-— Pardon ?
+— Pardon ?
 
-— Avant de venir en cours. J'ai fumé un joint, à neuf heures moins le quart. Derrière l'entrepôt du Super U.
+— Avant de venir en cours. J'ai fumé un joint, à neuf heures moins le quart. Derrière l'entrepôt du Super U.
 
-— C'est donc ça ?
+— C'est donc ça ?
 
-— J'ai trop fumé.
+— J'ai trop fumé.
 Quand je me suis retrouvé dans la cour, je me suis laissé emporter par l'euphorie.
 Et maintenant encore, je suis sous influence et j'ai du mal à tenir cette conversation, c'est pour ça que j'ai le regard dans le vague.
 
@@ -81,22 +81,22 @@ Silence.
 Il est complètement en arrière sur son siège, les bras sur les acoudoirs.
 Son regard a perdu de sa dureté et exprime plutôt une certaine lassitude.
 
-— Mais qu'est-ce que je vais faire de toi...
+— Mais qu'est-ce que je vais faire de toi...
 
-— Ça ne se reproduira plus, monsieur Charles.
+— Ça ne se reproduira plus, monsieur Charles.
 Je comprends que j'ai dépassé les bornes.
 
-— C'est bien le moins que tu puisses dire.
+— C'est bien le moins que tu puisses dire.
 Tu vas avoir des problèmes, Jacob, ça c'est moi qui te le dis.
 Bon, tu fumes souvent ?
 
-— Non, pas du tout.
+— Non, pas du tout.
 Ce matin c'est l'une des rares fois où ça m'arrive.
 Je ne suis pas du tout habitué et les effets en sont d'autant plus puissants.
 
-— C'est vrai, ce que tu me racontes ? Tu n'es pas un fumeur régulier ?
+— C'est vrai, ce que tu me racontes ? Tu n'es pas un fumeur régulier ?
 
-— Je ne le suis pas.
+— Je ne le suis pas.
 C'est pour ça que je peux vous dire que ça ne se reproduira plus.
 Je suis conscient d'avoir fait une bêtise, je m'en veux beaucoup.
 
@@ -108,11 +108,11 @@ J'ai offert à l'eau un chemin satisfaisant pour traverser la montagne.
 Il se lève enfin, son fauteuil tourne dans le vide.
 Il fait les cents pas, les bras croisés, et me regarde enfin, les yeux clairs et le regard ouvert.
 
-— Tu vas aller à l'infirmerie, pour te reposer et te dégriser.
+— Tu vas aller à l'infirmerie, pour te reposer et te dégriser.
 On appelle tes parents, qui vont venir te chercher.
 On te tient au courant de la suite des évènements.
 
-— Merci, Monsieur.
+— Merci, Monsieur.
 
 Je me lève et vais à l'infirmerie.
 L'infirmière lève la tête de son bureau et me demande pour quoi je viens, j'explique que M. Charles m'a envoyé ici pour me reposer.
