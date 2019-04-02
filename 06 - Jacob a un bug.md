@@ -34,7 +34,7 @@ Des images me viennent, je me vois d'au-dessus comme si j'étais sorti de mon co
 
 — Eh, mais c'est Jacob. Il est pas en cours ?
 
-Le lycée vu du dessus, c'est dantesque, on se croirait sur google maps, seulement la résolution est tellement meilleure, et tout est en 3D.
+Le lycée vu du dessus, c'est dantesque, on se croirait sur Google Maps, seulement la résolution est tellement meilleure, et tout est en 3D.
 Je peux voir chaque voiture circuler autour du lycée, je vois chaque personne, chaque arbre, chaque fourmi.
 
 — Eh, Jacob, t'as fumé quoi ?
@@ -55,7 +55,7 @@ A-t-on jamais rien vu d'aussi beau ?
 
 La Terre entière se révèle comme une orbe parfaite.
 Le soleil se reflète sur la calotte glacière du pôle nord.
-Tout ceci m'apparaît dans la tranquilité la plus totale.
+Tout ceci m'apparaît dans la tranquillité la plus totale.
 Je vogue maintenant à travers l'espace, confiant et sûr de moi.
 Volant vers le soleil, mes ailes sont largement déployées.
 Je suis un immense dragon rouge, et je m'appelle...
@@ -63,7 +63,7 @@ Je suis un immense dragon rouge, et je m'appelle...
 — JACOB !
 
 Je n'ai jamais rien vécu d'aussi douloureux de ma vie.
-L'instant d'avant, je planais tranquillement vers le soleil, et maintenant je suis dans un endroit étrange, face à une créature singulière, bien que vaguement familière.
+L'instant d'avant, je planais paisiblement vers le soleil, et maintenant je suis dans un endroit étrange, face à une créature singulière, bien que vaguement familière.
 Elle se tient debout sur ses deux membres postérieurs, sa tête est munie de deux yeux dont elle se sert pour me regarder, avec une expression qui me semble signifier quelque chose.
 Qu'est-ce qu'elle vient de dire ?
 Jacob ? Ce mot m'est familier, lui aussi.
@@ -82,7 +82,7 @@ Apparemment, je suis attaché à un corps qui ressemble à celui de la créature
 Des membres postérieurs dont j'ai le contrôle, je peux les tenir devant mes yeux – j'ai des yeux.
 Ces membres postérieurs ont cinq ramifications plus fines – on appelle ça des doigts.
 Comment je sais qu'on appelle ça des doigts ?
-Ça m'est paru évident, d'un coup.
+Ça m'a paru évident, d'un coup.
 
 — Jacob, mais dis-moi quelque chose, nom d'un chien !
 
@@ -95,7 +95,7 @@ Un humain furieux et inquiet.
 Il s'appelle monsieur Charles, c'est le CPE.
 
 Je regarde autour de moi.
-Plusieurs visages me dévisagent.
+Des visages me dévisagent.
 D'autres humains. Des élèves.
 
 Très, très lentement, le brouillard se dissipe et je prends conscience de toute l'épaisseur de la réalité.

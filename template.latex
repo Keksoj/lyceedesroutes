@@ -1,4 +1,6 @@
-\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$babel-lang$,$endif$$if(papersize)$$papersize$paper,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+%Les fontsize possibles sont 10pt, 11 pt, 12pt, sinon utiliser {extsizes}
+
+\documentclass[10pt,$if(lang)$$babel-lang$,$endif$$if(papersize)$$papersize$paper,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
 $if(fontfamily)$
 \usepackage[$for(fontfamilyoptions)$$fontfamilyoptions$$sep$,$endfor$]{$fontfamily$}
 $else$
@@ -51,9 +53,11 @@ $endif$
 \usepackage{microtype}
 \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
-$if(geometry)$
-\usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
-$endif$
+
+% Le package geometry, pour les marges et tout
+\usepackage[margin = 4cm]{geometry}
+
+
 \usepackage{hyperref}
 $if(colorlinks)$
 \PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
@@ -139,6 +143,10 @@ $if(strikeout)$
 % avoid problems with \sout in headers with hyperref:
 \pdfstringdefDisableCommands{\renewcommand{\sout}{}}
 $endif$
+
+% Pour indenter le premier paragraphe de chaque chapitre
+\usepackage{indentfirst}
+
 $if(indent)$
 $else$
 \IfFileExists{parskip.sty}{%
@@ -148,6 +156,8 @@ $else$
 \setlength{\parskip}{12pt plus 2pt minus 1pt}
 }
 $endif$
+
+
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -215,22 +225,16 @@ $for(include-before)$
 $include-before$
 
 $endfor$
-$if(toc)$
-{
-$if(colorlinks)$
-\hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$black$endif$}
-$endif$
-\setcounter{tocdepth}{$toc-depth$}
-\tableofcontents
-}
-$endif$
-$if(lot)$
-\listoftables
-$endif$
-$if(lof)$
-\listoffigures
-$endif$
+
+% Le contenu du document est là-dedans :
 $body$
+
+% La table des matière, ici mise après "body", donc à la fin du document
+\hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$black$endif$}
+\setcounter{tocdepth}{0} %La profondeur de l'arborescence. Garder à 0
+\tableofcontents
+
+
 
 $if(natbib)$
 $if(bibliography)$

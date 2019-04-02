@@ -5,4 +5,15 @@
 # --toc-depth=1 pour ne récupérer que les titres de chapitres dans l'arborescence
 
 
-pandoc pagetitre.markdown *.md --verbose --chapters --variable=indent --template=template.latex --toc-depth=1 -V  --latex-engine=xelatex -s --output lelyceedesroutes.pdf
+pandoc pagetitre.markdown *.md \
+--verbose --chapters \
+--variable=indent \
+--template=template.latex \
+--latex-engine=xelatex \
+--variable=lang:french \
+--output lelyceedesroutes.pdf
+
+evince lelyceedesroutes.pdf &
+# --toc-depth=1 -V  \
+
+# --data-dir=. \
