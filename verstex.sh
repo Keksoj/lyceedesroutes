@@ -9,10 +9,11 @@ pandoc pagetitre.markdown *.md \
 --verbose --chapters \
 --variable=indent \
 --template=template.tex \
+--toc-depth=1 -V  \
 --latex-engine=xelatex \
---output lelyceedesroutes.pdf
+-s -o test.tex
 
-evince lelyceedesroutes.pdf &
-# --toc-depth=1 -V  \
+# less test.tex
+# --output lelyceedesroutes.pdf
 
 # --data-dir=. \

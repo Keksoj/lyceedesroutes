@@ -7,9 +7,9 @@ Il s'est mis à pleuvoir, de ce temps de chien qui n'est ni du gris ni de la plu
 L'humidité rentre même dans la voiture, le chauffage ne fonctionne vraiment qu'au moment où on est arrivées, après de longs silences.
 Je déteste ces moments, maman les déteste sans doute, on s'est mises d'accord pour se la fermer.
 
-Sitôt rentrées, je monte dans ma chambre et m'enferme sous ma couette, roulée en boule, des écouteurs sur la tête. Toujours la même chanson : John Lennon qui chante Love, l'enregistrement de 1970. Cette voix semble me parler de très loin et de très près à la fois. Les mots tombent comme des gouttes de pluie sur un jardin. J'avais peur, il me rassurent. John a vécu bien plus de choses que moi, il est la bouée à laquelle me raccrocher. Du fond des années hippies, il vient me rappeler que les choses devraient être simples.
+Sitôt rentrées, je monte dans ma chambre et m'enferme sous ma couette, roulée en boule, des écouteurs sur la tête. Toujours la même chanson : John Lennon qui chante Love, l'enregistrement de 1970. Cette voix semble me parler de très loin et de très près à la fois. Les mots tombent comme des gouttes de pluie sur un jardin. J'avais peur, ils me rassurent. John a vécu bien plus de choses que moi, il est la bouée à laquelle me raccrocher. Du fond des années hippies, il vient me rappeler que les choses devraient être simples.
 
-> L'amour c'est réel, réel est l'amour  
+> « L'amour c'est réel, réel est l'amour  
 L'amour c'est sentir, sentir l'amour  
 L'amour c'est vouloir, vouloir être aimé.
 
@@ -24,17 +24,17 @@ Qu'on peut être nous.
 
 > L'amour c'est libre, libre est l'amour,  
 L'amour c'est vivre, vivre l'amour,  
-L'amour c'est le besoin d'être aimé.
+L'amour c'est le besoin d'être aimé. »
 
 J'envoie paître toutes les conneries de la journée.
-Le prof d'histoire, ma copine Clémence, mon cahier où j'ai écris n'importe quoi, Tom l'incapable, mon accès de violence, le CPE, hop j'envoie tout ça aux chiottes et je tire la chasse.
+Le prof d'histoire, ma copine Clémence, mon cahier où j'ai écrit n'importe quoi, Tom l'incapable, mon accès de violence, le CPE, hop j'envoie tout ça aux chiottes et je tire la chasse.
 Il n'y a plus que moi sous cette couette, moi et la voix de John qui me parle d'amour.
 Mais qu'est-ce que l'amour ?
-C'est la manière qu'on mes parents de me traiter ?
+C'est la manière qu'ont mes parents de me traiter ?
 Laissez-moi rire.
 Ce qu'on échange avec les garçons ? Pfuit !
 Des regards dans les couloirs, des remarques grasses et débiles.
-L'amour c'est ce dont font preuves mes copines ?
+L'amour c'est ce dont font preuve mes copines ?
 J'ai pas de copines.
 Je n'ai que des pions que je manipule à ma guise, des adolescentes influençables par manque d'amour-propre.
 Je le sais parce que je n'ai aucun amour-propre.
@@ -135,7 +135,7 @@ Le temps semble ralentir... ou ma pensée s'accélérer... quoi qu'il en soit je
 Le stress de la situation a fait place à une sérénité que je ne m'explique pas.
 Je baisse la tête juste à temps, la gifle passe au-dessus.
 Je fais un pas vers l'avant, me voilà à côté de mon père.
-Il me tient toujours la main, je me sert de cette prise.
+Il me tient toujours la main, je me sers de cette prise.
 Je tourne sur moi-même pour faire face à la même direction que lui, et puis je fais un pas en arrière en me baissant sur mes appuis.
 La prise de mon père sur mon bras l'entraîne à tourner sur lui-même et à perdre son équilibre : il tombe sur le dos.
 Je lui cale un coup de pied dans le ventre : il lâche mon bras en se tordant de douleur.

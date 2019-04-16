@@ -86,14 +86,14 @@ Jacob a accouru près de moi, il me tient encore les épaules.
 Je ne sais pas ce qu'il a depuis cette semaine, il a pris un rôle de super mec, c'est assez exagéré et un tantinet ridicule, mais ça me plaît.
 Souverain, il déclare :
 
-— Prendez-vous le thé avec nous ?
+— Prendrez-vous le thé avec nous ?
 
 J'ai du mal à y croire, mais nous voilà tous autour de la table de la cuisine (le salon était un peu trop en vrac).
 Jacob, Faustin, Gudrun, Élisheva, le mécano (il s'appelle Shinji), et moi.
 À prendre le thé, OKLM.
 
 Je tiens le coup.
-Élisheva m'a fait un check-up médical avec ses appareils hi-tech, m'a donné quelques pillules et m'a dit « t'inquiète ».
+Élisheva m'a fait un check-up médical avec ses appareils hi-tech, m'a donné quelques pilules et m'a dit « t'inquiète ».
 Ça va beaucoup mieux, même si j'ai l'impression d'avoir du coton à la place des jambes.
 
 J'écoute d'une oreille distraite Faustin qui pose ses questions, il ne comprend pas pourquoi on a rencontré les voyageurs temporels il y a un mois dans le passé, puisqu'ils nous avaient déjà rencontré ici, enfin aujourd'hui, et n'avaient pas besoin de remonter plus loin, que tout ça c'est paradoxal, bla bla bla.

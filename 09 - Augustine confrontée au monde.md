@@ -59,7 +59,7 @@ Qu'est-ce qui se passe, Augustine ?
 Je ne supporte pas les gens, au point de m'isoler régulièrement pour tenter de canaliser mes angoisses et mes pulsions agressives.
 Mes parents sont au bord du divorce et je sers de No Man's Land entre leurs tranchées respectives.
 Ma mère est incapable d'affronter la vie, mon père est un salaud fini qui ne dit rien.
-Ce matin j'ai écris des trucs chelous dans mon cahier et je suis en train de questionner sérieusement ma santé mentale.
+Ce matin j'ai écrit des trucs chelous dans mon cahier et je suis en train de questionner sérieusement ma santé mentale.
 Tom est un abruti qui n'est pas capable de rédiger une sous-partie sans qu'on lui dicte tout à la lettre.
 Je ne comprends rien à ce qui m'arrive alors je l'ai frappé pour me défouler.
 Mais tout ça c'est mes affaires et je vous emmerde.

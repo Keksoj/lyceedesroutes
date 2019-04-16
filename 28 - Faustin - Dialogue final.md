@@ -30,7 +30,7 @@ Arrivé à minuit, de guerre lasse, nous avons laissé le feu mourir,
 jeté des matelas sur nos gribouillages métaphysiques, et cédé au sommeil.
 
 Le jour éclaire la pièce de plus en plus fort.
-Je m'extrait de mon duvet, me lève tant bien que mal et m'oriente vers la cuisine.
+Je m'extrais de mon duvet, me lève tant bien que mal et m'oriente vers la cuisine.
 Rituel du matin, du thé.
 Le bruit de la bouilloire remplit le silence de la maison.
 Toutes ces sensations me grisent.
@@ -43,7 +43,7 @@ Tout cet équipement va sur la table basse que j'installe près de mon matelas.
 Emmitouflé dans mon duvet, j'entame mon petit-déjeûner.
 Je renonce à mon joint matinal.
 
-À l'odeur et au bruit, Jacob se réveille et vient s'atabler.
+À l'odeur et au bruit, Jacob se réveille et vient s'attabler.
 Pas un mot ne s'échange.
 Nous sucrons, tartinons, mastiquons, buvons, consciencieusement.
 Au moment de se resservir du thé, et à voix basse pour ne pas trop déranger Augustine,

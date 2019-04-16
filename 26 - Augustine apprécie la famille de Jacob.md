@@ -5,9 +5,9 @@
 J'adore cette maison, j'adore cette famille.
 La mère de Jacob est super sympa, elle n'a pas eu le moindre regard désobligeant depuis qu'on est arrivé hier soir.
 Maintenant que Jacob est là, elle rayonne.
-Mais ce n'est encore que peu de chose comparé à Manon.
+Mais ce n'est encore que peu de choses comparé à Manon.
 La petite passe son temps à nous courir dans les pattes, elle veut passer tout son temps avec nous.
-Elle nous voie sans doute comme des héros de je ne sais quelle série télé, où les jeunes de 17 ans sont joués par des acteurs de cinq ans plus vieux.
+Elle nous voit sans doute comme des héros de je ne sais quelle série télé, où les jeunes de dix-sept ans sont joués par des acteurs de cinq ans plus vieux.
 Pour elle, nous sommes déjà des adultes, grands, sûrs d'eux.
 Tu parles.
 
@@ -34,7 +34,7 @@ Je viens le trouver alors qu'il se roule un joint.
 On veut le garder sur terre, le malheureux.
 C'est déjà pas simple.
 
-Il réparti des morceaux d'herbe sur son tabac et entreprend de faire rouler la mixture dans le papier à cigarette.
+Il répartit des morceaux d'herbe sur son tabac et entreprend de faire rouler la mixture dans le papier à cigarette.
 
 — Je sais pas comment tu le trouves, dit-il.
 J'ai l'impression qu'il va mieux.

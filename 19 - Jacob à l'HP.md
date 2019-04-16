@@ -21,7 +21,7 @@ Il y avait de l'eau dans ses yeux.
 ***
 
 Quand l'effet des médicaments s'en va, je sens le feu qui m'envahit, une grande paix intérieure, accompagnée d'une puissance démesurée.
-C'est magnifique, alors j'en parle aux infirmières, et elle reviennent avec plus de médicaments.
+C'est magnifique, alors j'en parle aux infirmières, et elles reviennent avec plus de médicaments.
 
 ***
 

@@ -8,7 +8,7 @@ Jacob ne tombe plus, nous nous trouvons tous sur les genoux.
 Sommes-nous complètement ridicules ?
 
 Jacob se met à serrer ma main, puis celle d'Augustine.
-Dès lors nous sommes verrouillés, une sensation de chaleur parcours mes bras, puis tout mon corps.
+Dès lors nous sommes verrouillés, une sensation de chaleur parcourt mes bras, puis tout mon corps.
 Ma vision se brouille.
 Je sens mon corps de moins en moins, mais nos mains liées me raccrochent à eux, comme une ligne de vie retient au bateau le marin tombé par-dessus bord.
 
@@ -53,7 +53,7 @@ La forme parcourt les nuages d'étoiles comme un albatros plane au-dessus des me
 
 — Qu'est-ce qu'on fait là ? demande Augustine.
 
-— Je vous ai appelé pour m'entretenir avec vous.
+— Je vous ai appelés pour m'entretenir avec vous.
 Les humains m'intéressent.
 
 Un soleil éclate en supernova éclate alors que nous le survolons.
@@ -62,7 +62,7 @@ Un soleil éclate en supernova éclate alors que nous le survolons.
 
 — Je dois vous raconter.
 
-À mesure que les mots sont articulés par sa voix chaude, les images apparaissent, comme dans le flash-back d'un film marvel.
+À mesure que les mots sont articulés par sa voix chaude, les images apparaissent, comme dans le flash-back d'un film Marvel.
 
 — Au commencement il y eu Quelqu'un, l'Unique, que sur votre Terre on appelle Dieu.
 Dans un cri d'amour, il créa le temps et l'espace, ainsi qu'une multitude de serviteurs pour participer à sa création.
@@ -111,7 +111,7 @@ Elles apprirent qu'elles étaient des parties dans le tout, et ainsi a commencé
 Plusieurs serviteurs se sont attachés aux humains.
 D'autres en sont devenus irrémédiablement jaloux.
 Beaucoup s'en sont désintéressés, je suis de ceux-là.
-L'Expérience Humaine est une abberation pour moi.
+L'Expérience Humaine est une aberration pour moi.
 À quoi sert-il d'être conscient d'exister dans un temps et dans un espace limités ?
 
 — Que voulez-vous de nous ? demanda Jacob.

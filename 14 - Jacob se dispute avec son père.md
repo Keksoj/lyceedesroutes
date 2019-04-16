@@ -9,7 +9,7 @@ Le chemin depuis le lycée achève de me remettre les idées en place.
 Décidément ça fait du bien de marcher.
 Me voilà de nouveau en pleine possession de mes moyens, simplement secoué par tant d'expériences.
 Nom d'un chien ! Que d'aventures !
-Je serai presque content de ce qui s'est passé, si le retour sur terre n'avait été si brutal, et les conséquences si embarrassantes.
+Je serais presque content de ce qui s'est passé, si le retour sur terre n'avait été si brutal, et les conséquences si embarrassantes.
 
 Mais cette extase ! Ces visions ! Cette beauté farouche !
 Je donnerais cher pour pouvoir tout revivre.
@@ -24,7 +24,7 @@ J'étais grand, puissant, sans peur.
 
 BAM !
 
-Merde, et merde, je rêve où je me suis pris un arbre dans la tronche ?
+Merde, et merde, je rêve ou je me suis pris un arbre dans la tronche ?
 Je dois être un peu trop pris dans mes pensées quand je marche.
 Ah, voilà la maison.
 
@@ -40,7 +40,7 @@ Tourner la poignée, rabattre le battant derrière soi, poser son sac par terre,
 Routine bien connue.
 Traverser le salon, jusqu'à la salle à manger (c'est une grande maison), encore quelque chose d'automatique.
 Trouver mon père assis à table, sans que le moindre objet ne fasse relief sur cette table... moins habituel.
-Il y est acoudé, les mains jointes, le regard dans le vide.
+Il y est accoudé, les mains jointes, le regard dans le vide.
 Je viens m'asseoir, non en face de lui, mais un peu en diagonale, pour ne pas faire face à son regard.
 Il prends la parole :
 
@@ -102,7 +102,7 @@ Et toi, qu'est-ce que tu fais... ah, mon Dieu.
 
 — Et tu as fini complètement halluciné sur la cour du lycée !
 
-— Mais putain mais on peux rien faire avec toi !
+— Mais putain mais on peut rien faire avec toi !
 
 Je m'emporte, moi aussi, je jette mes poings sur la table et hausse le ton.
 Je continue :

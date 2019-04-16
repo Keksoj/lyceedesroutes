@@ -17,7 +17,7 @@ L'humanité a d'abord découvert les effets du tabac et du cannabis.
 Ensuite, il a fallu créer le papier à cigarette et les allumettes : autant d'inventions parfaitement adaptées au but qu'on s'est fixé.
 Le monde est bien fait, et toute cette technologie a permis l'avènement du summum pratique : le joint est facile à tenir dans la main, à allumer et à fumer.
 Le principe actif, porté par la fumée, arrive dans les poumons et passe dans le sang à une vitesse record, puis est entraîné au cerveau tout aussi rapidement, où ses effets psychiques se font ressentir.
-Quel suite d'étapes admirables, chacune bien à sa place dans la chaîne des causes et des conséquences !
+Quelle suite d'étapes admirables, chacune bien à sa place dans la chaîne des causes et des conséquences !
 
 L'album Mezzanine du groupe Massive Attack dans mes oreilles, le chemin du retour me laisse reconnaître que chaque chose dans le monde est parfaitement à sa place.
 Les voitures roulent sur le bitume de la chaussée, brûlent leur carburant, émettent leurs gaz polluants.
@@ -26,12 +26,12 @@ Les gens rentrent de leur travail, à pied, en vélo, en voiture, choisissant le
 Le trottoir est jonché de matières organiques (crottes de chiens, feuilles mortes) et de matières inorganiques (gobelets en plastique, prospectus) qui ne seront pas assimilées par leur environnement, mais devront être traitées par des services spécialisés.
 Notre civilisation a créé un écosystème en équilibre dynamique, au bord du gouffre en permanence, et c'est très bien comme ça.
 À quoi bon se formaliser de toute cette pollution, puisqu'elle est indissociable de nos plus belles avancées ?
-Je veux bien parier qu'au moyen-âge les cours d'eau étaient davantage pollués qu'aujourd'hui, les tanneurs rejetaient leurs déchets chimiques dans les rivières.
+Je veux bien parier qu'au Moyen-Âge les cours d'eau étaient davantage pollués qu'aujourd'hui, les tanneurs rejetaient leurs déchets chimiques dans les rivières.
 Le monde est déséquilibré, tout est bien.
 
 Me voilà devant chez moi.
 La porte s'ouvre sans la clé : mon père est là.
-Il est en train d'éplucher du courier, des factures, ce genre de choses.
+Il est en train d'éplucher du courrier, des factures, ce genre de choses.
 Il ne redresse même pas son crâne rond et dégarni pour m'adresser la parole.
 
 — Faustin.
@@ -42,8 +42,7 @@ Je ne me démonte pas.
 
 — Il fallait que je prenne une douche à la maison, je n'avais pas eu le temps ce matin, réponds-je mécaniquement.
 
-— Une douche ? Ils t'ont laissé partir pour une douche ?
-il est incrédule mais continue à étudier un courrier de près.
+— Une douche ? Ils t'ont laissé partir pour une douche ? fait-il, incrédule, mais continue à étudier un courrier de près.
 
 La situation est ubuesque.
 Je ne vais pas expliquer à mon père ce qui m'est arrivé.
@@ -72,7 +71,7 @@ Cette analogie me vient en tête aussitôt que je viens de prononcer ces dernier
 Mon père ne laisse rien voir du choc éventuel qu'il a subi.
 Il reste égal à lui-même, toujours doux, toujours mou-du-genou.
 
-— Tu n'éxagères pas un peu ?
+— Tu n'exagères pas un peu ?
 
 Et merde, il recommence !
 Il faut toujours qu'il minimise ce que je ressens, et chaque fois ça augmente la hauteur du barrage, ça retient plus d'eau.
@@ -100,7 +99,7 @@ Tu crois que j'ai envie de ça ?
 Il me regarde sans s'énerver.
 J'aurais préféré qu'il s'énerve.
 Mais il reste désespérément calme, si incroyablement attentif.
-Il réfléchit à tout ce que j'ai dit comme un joueur d'échec contemple le dernier coup de son adversaire.
+Il réfléchit à tout ce que j'ai dit comme un joueur d'échecs contemple le dernier coup de son adversaire.
 Méthodiquement, il analyse, puis trouve son coup :
 
 — Mais qui t'obliges à devenir prof comme moi ?
@@ -175,7 +174,7 @@ Qu'as-tu appris aujourd'hui ?
 
 — Bien. Et qui te l'a appris, sinon toi-même ?
 
-Quand je ne sanglotte pas, je respire, et quand je ne respire pas, je sanglotte.
+Quand je ne sanglote pas, je respire, et quand je ne respire pas, je sanglote.
 Mon père s'est déjà retourné pour finir de ranger le courrier sur la table.
 Sans lever les yeux, il lance :
 

@@ -22,12 +22,12 @@ Si je m'y attendais !
 Qu'est-ce qui s'est passé dans ma vie pour en arriver là ?
 Observer le plafond ne m'éclaire pas vraiment là-dessus, mais les mots que nous avons eus pour Abdalahad me reviennent :
 
-> Pense plutôt à vivre pleinement l'instant présent.
+> « Pense plutôt à vivre pleinement l'instant présent. »
 
 Mon instant présent ressemble à ceci :
 je viens de faire l'amour pour la première fois de ma vie,
 je suis morte au passage, me voilà ressuscitée,
-allongée dans le salon d'un baraque géniale avec un garçon franchement pas moche dans mes bras,
+allongée dans le salon d'une baraque géniale avec un garçon franchement pas moche dans mes bras,
 on va pouvoir y passer encore deux ou trois jours avant de revenir à une vie plus normale.
 
 Et c'est quoi, une vie normale ?
@@ -48,7 +48,7 @@ Le garçon grogne et geigne un peu, accablé qu'il est.
 
 Je parcours de mes doigts ses cheveux mi-bouclés.
 
-— J'admet qu'on a un peu grillé les étapes.
+— J'admets qu'on a un peu grillé les étapes.
 J'aurais bien voulu sortir un peu avec toi d'abord.
 Mais il est toujours temps, tu sais.
 
@@ -90,7 +90,7 @@ Il aurait été bien trop difficile de se côtoyer normalement après l'expérie
 
 Ça n'est ni magique ni transcendantal, plutôt l'occasion de dialoguer, d'apprendre à se connaître, maintenant qu'on est nus l'un devant l'autre.
 Jacob est hésitant, je suis entreprenante.
-On prends notre temps, on discute sur tout.
+On prend notre temps, on discute sur tout.
 Par exemple, il n'aime pas l'idée que ce soit à lui de me faire l'amour, ça lui donne trop de responsabilités,
 aussi convient-on que c'était nous, ensemble, qui faisons l'amour.
 Il est précautionneux, je deviens confiante.
@@ -118,7 +118,7 @@ On blague beaucoup sur la sexualité, galvanisés par notre découverte.
 Le monde des adultes ne nous effraie plus.
 Nous l'avons conquis et le réclamons désormais pour nous, souverains de nos corps.
 
-### Ellipse temporelle - un mois plus tard
+### Un mois plus tard
 
 Putain de bordel de merde de saloperie d'expérience cosmique de mes deux.
 Madame Menstrue n'est pas venue me mettre son coup de latte dans l'utérus ce mois-ci.
@@ -127,7 +127,7 @@ Je me prends la tête dans les mains.
 
 Personne ne m'avait prévenue que ma première fois serait peut-être la meilleure de toute ma vie à cause d'une transe induite par une entité interdimensionnelle.
 Je l'avais prévue, ma première fois.
-J'attendrais qu'un beau mec s'intéresse à moi pour ce que je suis, je ferais en sorte de bien le connaître, je l'ammènerais dans ma chambre, mais surtout, surtout, je ferais gaffe à ce qu'il ait des capotes et qu'il sache s'en servir.
+J'attendrais qu'un beau mec s'intéresse à moi pour ce que je suis, je ferais en sorte de bien le connaître, je l'amènerais dans ma chambre, mais surtout, surtout, je ferais gaffe à ce qu'il ait des capotes et qu'il sache s'en servir.
 Et comme des cons, ni Jacob ni moi n'avons pensé à ça, même la première fois passée.
 Ça ne nous est pas venu à l'esprit.
 Pas une seconde.
@@ -145,11 +145,11 @@ Il m'appelle comme ça depuis qu'on est ensemble, sur le coup ça a le don de m'
 — Salut beau gosse.
 Est-ce que tu t'es rendu compte qu'on n'a jamais songé au mot « contraception » depuis qu'on baise ?
 
-Il ne réponds pas de suite.
+Il ne répond pas de suite.
 
 — Quoi, contraception ?
 
-— Tu sais, contraception, comme dans pillule, stérilet, préservatif.
+— Tu sais, contraception, comme dans pilule, stérilet, préservatif.
 
 Finalement il embraye.
 

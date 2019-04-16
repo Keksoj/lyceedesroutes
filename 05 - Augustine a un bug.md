@@ -6,7 +6,7 @@ Je suis de mauvais poil aujourd'hui.
 
 Rien que ce matin, maman s'est pointée au petit-déjeuner en robe de chambre,
 ce qui a énervé papa, il lui reproche de se laisser aller.
-Si on écoutait mon père banquier, tout le monde devrait prendre son petit-déjeûner en cravate.
+Si on écoutait mon père banquier, tout le monde devrait prendre son petit-déjeuner en cravate.
 Maman jouait à lui taper sur les nerfs, bien sûr.
 C'est le seul moyen qu'ils ont de communiquer, aujourd'hui : les petits détails du quotidien, ceux qui énervent sans avoir besoin de parler.
 Évidemment, papa va rentrer hyper tard du boulot, ce qui énervera maman tout autant.
@@ -62,7 +62,7 @@ et là tous les garçons ont rigolé, mais le prof n'a pas compris pourquoi, alo
 Qu'est-ce que c'est que cette histoire que Clémence me raconte ?
 Ça m'embrouille la tête...
 
-— Alors après le cours on a demandé au garçons ce que ça veut dire, « merci Jacquie et Michel », ils ont encore rigolé mais ils avaient aussi le regard gêné, ils regardaient à gauche et à droite, alors avec Léopoldine et Lilou, on a demandé à Google, et là...
+— Alors après le cours on a demandé aux garçons ce que ça veut dire, « merci Jacquie et Michel », ils ont encore rigolé mais ils avaient aussi le regard gêné, ils regardaient à gauche et à droite, alors avec Léopoldine et Lilou, on a demandé à Google, et là...
 
 — Attends, Clémence, attends.
 J'essaie de construire mon arbre de probabilités, et j'arrive pas à me concentrer avec ce que tu me racontes.

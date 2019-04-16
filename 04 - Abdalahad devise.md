@@ -30,7 +30,7 @@ Ah ! Des Humains ! Je réprime un sursaut de dégoût.
 Je les avais oubliés, ceux-là. Je me serais bien passé de leur souvenir, aussi.
 Pour moi, ils ont tout d'une esquisse ratée, avec leurs corps faibles, leur vie courte, leur intelligence limitée...
 Que peut-on faire avec ça ? Cela n'a aucun sens.
-Soyons sérieux, soyons sérieux. Écartons-nous de cet aberation, voilà qui est mieux.<br /><br />
+Soyons sérieux, soyons sérieux. Écartons-nous de cette aberration, voilà qui est mieux.<br /><br />
 
 Où en étais-je ?<br /><br />
 

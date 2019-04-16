@@ -82,7 +82,7 @@ En cas d'anxiété, je peux vous prescrire des calmants.
 
 **FAUSTIN**
 —	Je ne me souviens vraiment de rien.
-On étais en cours d'anglais, je suis tombé tête la première sur ma table, et... pfuit.
+On était en cours d'anglais, je suis tombé tête la première sur ma table, et... pfuit.
 
 **AUGUSTINE**
 — Pareil pour moi, j'étais en histoire-géo...

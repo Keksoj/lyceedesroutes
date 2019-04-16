@@ -54,7 +54,7 @@ A-t-on jamais rien vu d'aussi beau ?
 — Bon, qu'est-ce qui se passe, ici ? Qu'est-ce que tu fais planté là, Jacob ?
 
 La Terre entière se révèle comme une orbe parfaite.
-Le soleil se reflète sur la calotte glacière du pôle nord.
+Le soleil se reflète sur la calotte glaciaire du pôle nord.
 Tout ceci m'apparaît dans la tranquillité la plus totale.
 Je vogue maintenant à travers l'espace, confiant et sûr de moi.
 Volant vers le soleil, mes ailes sont largement déployées.

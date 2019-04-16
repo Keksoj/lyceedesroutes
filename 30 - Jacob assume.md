@@ -59,7 +59,7 @@ Il me coupe la parole :
 
 — Ben, non...
 
-— As-tu pris les neuroleptiques qu'on t'avait prescrits et que j'étais sensé te faire avaler tous les jours ?
+— As-tu pris les neuroleptiques qu'on t'avait prescrits et que j'étais censé te faire avaler tous les jours ?
 
 — Ben, non...
 

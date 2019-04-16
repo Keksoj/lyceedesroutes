@@ -2,7 +2,7 @@
 
 Jérôme Mlynikowski est un homme soucieux comme rarement auparavant.
 
-Il a été un enfant heureux, un adolescent à problème, un étudiant épanoui.
+Il a été un enfant heureux, un adolescent à problèmes, un étudiant épanoui.
 L'aube de sa vie adulte l'a vu se confronter à ses propres démons au cours de stages d'initiations encadrés par de solides thérapeutes.
 Équipé de sa culture, porté par une détermination forte, appuyé par ses amis, il a traversé les épreuves, il a regardé ses peurs en face.
 Tel le chat de Schrödinger, il en est sorti aussi mort que vivant, conscient que la vraie vie commence quand on y renonce.
@@ -68,9 +68,9 @@ Le livre dans une main, le menton sur l'autre, Jérôme va mieux.
 Plongé dans des considérations métaphysiques, il est soulagé du vide mental, du moins de façon immédiate.
 Il s'immerge dans la lecture, il relit chaque verset plusieurs fois.
 
-> Abraham répondit :  
-« C'est Dieu qui pourvoira à l'agneau pour l'holocauste, mon fils ».  
-Et il s'en allèrent tous deux ensemble.
+> « Abraham répondit :  
+— C'est Dieu qui pourvoira à l'agneau pour l'holocauste, mon fils.  
+Et il s'en allèrent tous deux ensemble. »
 
 Il relit, songeur, ces derniers mots, *« ils s'en allèrent tous deux ensemble »*, mais voilà qu'on sonne à la porte d'entrée.
 Il entend son épouse, Marion, parcourir le couloir d'un pas pressé en maugréant que ce n'est pas une heure pour sonner chez les gens.
@@ -85,7 +85,7 @@ Une fille un peu trop maquillée, peut-être d'un milieu populaire.
 Ils ont déjà expliqué à la mère de Jacob qui ils sont, Faustin et Augustine, du Lycée des Routes, presque dans la classe de Jacob.
 Jérôme se souvient.
 C'est eux qui ont fait un malaise puis une crise en même temps que son fils.
-La synchronicité des évènement avait intéressé Jérôme mais il a vite compris que leur cas était moins grave que celui de Jacob.
+La synchronicité des évènements avait intéressé Jérôme mais il a vite compris que leur cas était moins grave que celui de Jacob.
 Tout juste a-t-il appris du psychiatre qu'Augustine était resté quelques jours à l'HP, suivie pour profil anxieux et troubles du comportement.
 Ce Faustin, par contre, ne lui a été évoqué que de loin.
 

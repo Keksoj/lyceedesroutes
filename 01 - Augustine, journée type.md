@@ -3,7 +3,7 @@
 
 Moi, c'est Augustine. Augustine Lambert.
 17 ans, terminale L au Lycée des Routes.
-Plutôt grande et mince, cheveux bouclés mais pas trop, le genre de fille pas trop mal mais dont le miroir magique renvoie toujours une image pleine de boutons et de petits défauts.
+Plutôt grande et mince, cheveux bouclés mais pas trop, le genre de fille bien faite mais dont le miroir magique renvoie toujours une image pleine de boutons et de petits défauts.
 Que voulez-vous, à mon âge, pas facile de s'assumer quand on a eu trois ans chrono pour se voir pousser des hanches, des seins, et une grosse tendance à baver en pensant à Ryan Gosling.
 Sans oublier ma super copine, madame Menstrue, qui vient me donner un gros coup de latte dans le ventre tous les mois.
 Et les papotages, et les histoires de mec.

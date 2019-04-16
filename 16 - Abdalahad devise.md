@@ -1,7 +1,7 @@
 # 16 - Abdalahad devise
 
-La Terre, comme il l'appellent, est une expérience passionnante.
-Je n'aurais jamais imaginé que de la matière puisse s'agencer ainsi, selon des formes aussi complexes et qui se reproduisent elle-mêmes.
+La Terre, comme ils l'appellent, est une expérience passionnante.
+Je n'aurais jamais imaginé que de la matière puisse s'agencer ainsi, selon des formes aussi complexes et qui se reproduisent elles-mêmes.
 En regardant de près, j'ai pu constater que c'est un ingénieux système d'acides aminés organisés dans des unités très petites, qui se multiplient, et même transmettent leur code à de nouvelles versions d'elles-mêmes, à la fois semblables mais pourtant différentes.
 Il apparaît qu'avec le temps, des erreurs se sont glissés dans le code, changeant les formes et créant cette diversité incroyable.
 Qui aurait pu croire que le chaos engendre de si jolies choses ?

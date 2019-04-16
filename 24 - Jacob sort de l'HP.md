@@ -42,7 +42,7 @@ Je suis debout, autant marcher.
 
 Tout est comme ça, maintenant.
 Je n'ai aucune idée d'où viennent les gestes, à quoi ils servent.
-Le matin, je me lève, m'assois à la table du petit-déjeûner, on nous sert un café sans goût, je tends la main vers le bol, et à ce moment précis je me pose la question : qui a décidé de tendre la main vers ce bol ?
+Le matin, je me lève, m'assois à la table du petit-déjeuner, on nous sert un café sans goût, je tends la main vers le bol, et à ce moment précis je me pose la question : qui a décidé de tendre la main vers ce bol ?
 Qui a décidé de se lever du lit, de traverser le couloir, de s'asseoir ?
 Et puis, c'est trop tard, tout est fait, alors j'arrête de me poser la question et je bois mon café sans goût.
 Je ne me pose plus les questions, je deviens le spectateur de ma vie.

@@ -70,7 +70,7 @@ Les institutions ne rassurent plus personne, les politiques mentent, les fanatiq
 — Je ne comprends pas... c'était la même chose à mon époque.
 Quelle différence présentez-vous ?
 
-— Les trente glorieuses sontelles finies, la guerre des idéologies n'a plus lieu d'être puisque le capitalisme a gagné.
+— Les trente glorieuses sont finies, la guerre des idéologies n'a plus lieu d'être puisque le capitalisme a gagné.
 Nous n'avons plus d'idéal vers lequel tendre.
 
 Il me regarde avec les yeux les plus intenses que j'ai jamais vus.
@@ -91,7 +91,7 @@ Personne ne te posera de question.
 — Je ne sais pas comment vous dire merci...
 
 — Tu vois, Faustin, à la différence des autres élèves, tu es capable de parler en adulte et d'expliquer concrètement ce qui t'arrive.
-Si tu savais la matûrité des autres quand ils se trouvent confrontés à l'autorité...
+Si tu savais la maturité des autres quand ils se trouvent confrontés à l'autorité...
 Ah là là.
 Toi au moins, ça ne te viendrais pas à l'idée de fumer un joint avant de venir en cours, n'est-ce pas ?
 

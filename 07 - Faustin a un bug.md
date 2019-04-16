@@ -5,7 +5,7 @@ Celle-ci me passe les bras autour du cou.
 
 — Faustin, mon cher Faustin, comment vas-tu ?
 
-Je trouve délicieux comme elle s'emploie à utiliser les tournures les plus plus formelles pour s'adresser à moi.
+Je trouve délicieux comme elle s'emploie à utiliser les tournures les plus formelles pour s'adresser à moi.
 J'ai l'impression d'être un personnage de Molière.
 
 — Je vais bien, je vais très bien, ma toute-belle. Encore mieux depuis cinq secondes, puisque je te tiens dans mes bras.
@@ -35,7 +35,7 @@ Ses cheveux blonds ruissellent de chaque côté de son visage, raides et peu dis
 Elle porte toujours quelque chose de particulier qui la distingue des autres.
 Aujourd'hui, c'est une chemise dont le col en bataille sort de son pull tel une gerbe d'écume.
 Elle porte une jupe, aussi, et des collants épais qui disparaissent dans des souliers.
-Elle a tout d'une petite fille, mais cette expression concentrée témoigne de sa matûrité d'adulte en formation.
+Elle a tout d'une petite fille, mais cette expression concentrée témoigne de sa maturité d'adulte en formation.
 Très régulièrement, je me demande ce qu'elle fait avec un type comme moi, et je redoute la réponse :
 elle-même a des défauts que j'ignore délibérément.
 Mais cet équilibre fonctionne très bien, du moins pour le moment.

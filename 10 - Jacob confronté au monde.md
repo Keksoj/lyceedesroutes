@@ -51,10 +51,10 @@ Faisons un check-up de notre état mental.
 À travailler.
 * Les opérations formelles : deux plus deux égale quatre, quatre puissance quatre égale deux-cents-cinquante-six.
 Tout va bien.
-* Le language : « Bien mal acquis ne profite jamais ».
+* Le langage : « Bien mal acquis ne profite jamais ».
 Ça ira.
 * La prise de décision : c'est ce qui nous intéresse le plus, repassons d'abord sur la mémoire.
-* La mémoire : Je m'appelle Jacob Mlynikowski, j'ai dix-sept ans, élève de première L, mes parents sont psychologue et éducatrice, j'ai une petite soeur qui s'appelle Manon, de temps en temps je fait des voyages astraux pour discuter avec une entité dont j'ignore tout.
+* La mémoire : Je m'appelle Jacob Mlynikowski, j'ai dix-sept ans, élève de première L, mes parents sont psychologue et éducatrice, j'ai une petite soeur qui s'appelle Manon, de temps en temps je fais des voyages astraux pour discuter avec une entité dont j'ignore tout.
 
 Bien, revenons à la prise de décision.
 Le CPE m'a vu dans un état anormal et s'inquiète.

@@ -16,12 +16,12 @@ Mais on est tous dans la voiture de maman pour rejoindre la maison de mes grands
 Faustin et Augustine ne me prennent pas pour un dingue, c'est le plus beau cadeau qu'on puisse me faire.
 On a passé la soirée d'hier à quatre, à jouer aux cartes.
 Manon était ravie, et moi j'étais heureux de pouvoir vivre un moment simple.
-Quand Manon a du se coucher, aux ordres de maman, on a pu discuter de nos histoires.
+Quand Manon a dû se coucher, aux ordres de maman, on a pu discuter de nos histoires.
 Augustine a mis un sujet sur la table : la parole.
 Elle a dit que la parole, c'est ce qui donne leurs noms aux choses, ce qui construit l'univers.
 Comme chacun met des mots sur ce qu'il vit, chacun crée son propre univers.
 Faustin a rétorqué qu'on utilise tous une même langue pour désigner les objets, et par conséquent nous partageons le même univers.
-La conversation a continué comme ça jusqu'à une heure du matin, on a du se coucher.
+La conversation a continué comme ça jusqu'à une heure du matin, on a dû se coucher.
 
 Quel est le sens de la vie ?
 Je ne me pose même plus la question, tout est parfait en l'état.
@@ -32,7 +32,7 @@ On arrive à destination, maman me donne les clés avec quelques directives, pui
 fait Faustin une fois descendu de voiture.
 Tu viens souvent ici, Jacob ?
 
-— Moins souvent depuis que mes grand-parents sont morts.
+— Moins souvent depuis que mes grands-parents sont morts.
 On a un domestique qui passe entretenir la maison tous les mois.
 Mes oncles et tantes ne savent pas s'ils veulent vendre ou louer.
 En attendant, c'est vide et c'est à nous.
@@ -51,7 +51,7 @@ J'éprouve une satisfaction profonde à leur montrer les chambres, le salon, le 
 Chaque recoin fourmille d'histoire, je leur raconte les anecdotes de la famille, ils sont tout ouïe.
 Faustin veut tout savoir de l'utilité originelle de la maison (un corps de ferme depuis le début),
 Augustine pose question sur question au sujet de la vie de mes grand-parents (mariage d'amour contre l'avis de leurs parents, une épopée).
-Après avoir fait le tour du propriétaire, on fait à manger (maman nous a laissé d'amples provisions) et on s'installe à déjeûner dans la salle, sur la grande table à manger.
+Après avoir fait le tour du propriétaire, on fait à manger (maman nous a laissé d'amples provisions) et on s'installe à déjeuner dans la salle, sur la grande table à manger.
 Ça fait bizarre d'être là sans adultes.
 
 Une fois le fromage fini, on laisse tomber le dessert, on n'a plus faim.
@@ -147,7 +147,7 @@ Ton tranchant d'Augustine :
 — Qui t'a dit qu'on était amis ?
 
 Elle se fait réprimander par Faustin mais c'est trop tard, ça m'a vexé.
-Je me lève et sort par la porte du jardin.
+Je me lève et sors par la porte du jardin.
 Faustin me hèle mais je le rassure : je ne vais pas loin.
 Je les laisse derrière moi, passe la porte, trace mon chemin dans les allées gravillonnées, trouve le petit bois et son ruisseau, m'accroupis près de l'eau.
 Je viens toujours là quand je suis troublé.
