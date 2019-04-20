@@ -1,4 +1,4 @@
-# 4 -Abdalahad
+# Abdalahad
 
 J'ai beau y réfléchir, le problème demeure.
 J'ai du mal à penser, ces derniers temps.

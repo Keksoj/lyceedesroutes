@@ -1,4 +1,4 @@
-# 3 - Faustin
+# Faustin
 
 Encore un lever laborieux pour Faustin Vaultier (c'est moi).
 Le réveil sonne douloureusement, je l'éteins tout de suite, me redresse dans mon lit et m'accorde quelques instants pour décanter.

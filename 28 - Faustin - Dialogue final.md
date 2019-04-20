@@ -1,4 +1,4 @@
-# 28 - Le dialogue et l'extase
+# Le dialogue et l'extase
 
 **Faustin**
 

@@ -1,4 +1,4 @@
-# 23 - Convaincre le père de Jacob
+# Convaincre le père de Jacob
 
 **Augustine**
 

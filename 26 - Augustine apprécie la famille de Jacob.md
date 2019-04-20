@@ -1,4 +1,4 @@
-# 26 - Dans la famille de Jacob
+# Dans la famille de Jacob
 
 **Augustine**
 

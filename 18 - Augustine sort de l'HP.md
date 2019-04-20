@@ -1,4 +1,4 @@
-# 18 - Augustine hors de l'HP
+# Augustine hors de l'HP
 
 Il m'a fallu du temps pour sortir de cette saloperie d'HP.
 J'ai fini par comprendre ce qu'il fallait faire :

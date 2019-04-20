@@ -1,4 +1,4 @@
-# 22 - Le père de Jacob
+# Le père de Jacob
 
 Jérôme Mlynikowski est un homme soucieux comme rarement auparavant.
 

@@ -1,4 +1,4 @@
-# 9 - Augustine face au CPE
+# Augustine face au CPE
 
 Mon corps respire un peu mieux depuis quelques dix minutes.
 Sur ce lit d'infirmerie, c'est plus facile.

@@ -1,4 +1,4 @@
-# 17 - À l'hôpital
+# À l'hôpital
 
 <div class="theatre">
 

@@ -1,4 +1,4 @@
-# 15 - Faustin et son père
+# Faustin et son père
 
 **Faustin**
 

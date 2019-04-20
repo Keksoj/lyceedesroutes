@@ -1,4 +1,4 @@
-# 32 - Le dénouement
+# Le dénouement
 
 **Augustine**
 

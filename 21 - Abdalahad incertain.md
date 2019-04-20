@@ -1,4 +1,4 @@
-# 21 - Abdalahad incertain
+# Abdalahad incertain
 
 J'ai peut-être soufflé trop fort.
 Comment savoir avec les humains ?

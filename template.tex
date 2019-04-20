@@ -1,5 +1,6 @@
 %Les fontsize possibles sont 10pt, 11 pt, 12pt, sinon utiliser {extsizes}
 
+
 \documentclass[10pt,$if(lang)$$babel-lang$,$endif$$if(papersize)$$papersize$paper,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
 $if(fontfamily)$
 \usepackage[$for(fontfamilyoptions)$$fontfamilyoptions$$sep$,$endfor$]{$fontfamily$}
@@ -12,6 +13,9 @@ $if(linestretch)$
 $endif$
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
+
+%appeler mystyle.sty
+\usepackage{mystyle}
 
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[$if(fontenc)$$fontenc$$else$T1$endif$]{fontenc}
@@ -53,10 +57,6 @@ $endif$
 \usepackage{microtype}
 \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
-
-% Le package geometry, pour les marges et tout
-\usepackage[margin = 4cm]{geometry}
-
 
 \usepackage{hyperref}
 $if(colorlinks)$
@@ -143,9 +143,6 @@ $if(strikeout)$
 % avoid problems with \sout in headers with hyperref:
 \pdfstringdefDisableCommands{\renewcommand{\sout}{}}
 $endif$
-
-% Pour indenter le premier paragraphe de chaque chapitre
-\usepackage{indentfirst}
 
 $if(indent)$
 $else$

@@ -1,4 +1,4 @@
-# 11 - Faustin face au CPE
+# Faustin face au CPE
 
 Je suis Mme Médiane jusque dans le bureau de la vie scolaire.
 Je croise ce type de ma classe, Jacob, qui en sort quand j'y rentre.

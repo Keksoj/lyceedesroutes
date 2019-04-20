@@ -1,4 +1,4 @@
-# 13 - Tuer le père
+# Tuer le père
 
 **Augustine**
 

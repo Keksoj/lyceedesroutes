@@ -1,4 +1,4 @@
-# 31 - La mort et la naissance
+# La mort et la naissance
 
 **Faustin**
 

@@ -1,4 +1,4 @@
-# 25 - Le vortex
+# Le vortex
 
 **Faustin**
 

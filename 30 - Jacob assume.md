@@ -1,4 +1,4 @@
-# 30 - Jacob assume
+# Jacob assume
 
 C'est la panique à bord.
 Le petit alien qui se cache sous mon crâne, celui qui tire les manettes qui font bouger mon corps, n'a pas la moindre idée de quel bouton il lui faut appuyer.
