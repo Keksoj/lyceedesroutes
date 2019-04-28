@@ -66,7 +66,7 @@ Les commandes ont en général cet aspect :
 pandoc *.md --output lelyceedesroutes.format
 ```
 
-Avec `*.md`, pandoc est concatène tous les fichiers mardown, repère les titres balisés `# Titre`, en fait des chapitres, une table des matières. Rien que ça !
+Avec `*.md`, pandoc concatène tous les fichiers mardown, repère les titres balisés `# Titre`, en fait des chapitres, une table des matières. Rien que ça !
 
 ### Je veux essayer aussi !
 
@@ -136,7 +136,7 @@ Si vous n'êtes pas familier avec LaTeX, soyez prêt à vous cogner la tête con
 
 #### Sous le capot
 
-La commande vue plus haut fonctionne assez bien et vous donnera un PDF relativement élégant, mais sans page de titre, avec des marges franchement larges, et un format de papier américain ! Inacceptable.
+La commande vue plus haut fonctionne bien et vous donnera un PDF relativement élégant, mais sans page de titre, avec des marges franchement larges, et un format de papier américain ! Inacceptable.
 
 Nous avons dit plus haut que Pandoc produit d'abord un fichier LaTeX avec une extension `.tex`. Cette étape est décomposable en faisant :
 
@@ -187,4 +187,3 @@ pandoc pagetitre.markdown *.md \
 
 * `--chapters` change la classe du document en `{book}`
 * `--variable=indent` pour l'indentation des paragraphes
-* ``
