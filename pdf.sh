@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Ce script doit éditer un PDF avec tous les fichiers markdown
 
-# --chapters fait des chapitres classes
-# --toc-depth=1 pour ne récupérer que les titres de chapitres dans l'arborescence
+# --chapters change la classe du document en {book}
+# --variable=indent pour l'indentation des paragraphes
 
 
 pandoc pagetitre.markdown *.md \
@@ -13,6 +13,3 @@ pandoc pagetitre.markdown *.md \
 --output lelyceedesroutes.pdf
 
 evince lelyceedesroutes.pdf &
-# --toc-depth=1 -V  \
-
-# --data-dir=. \
