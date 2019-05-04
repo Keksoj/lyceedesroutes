@@ -110,7 +110,7 @@ Ces formes de vie héritèrent donc de la Conscience.
 Elles apprirent qu'elles étaient des parties dans le tout, et ainsi a commencé ce qu'on appelle l'Expérience Humaine.
 Plusieurs serviteurs se sont attachés aux humains.
 D'autres en sont devenus irrémédiablement jaloux.
-Beaucoup s'en sont désintéressés, je suis de ceux-là.
+Beaucoup s'en sont désintéressés, j'étais de de ceux-là jusqu'à récemment.
 L'Expérience Humaine est une aberration pour moi.
 À quoi sert-il d'être conscient d'exister dans un temps et dans un espace limités ?
 

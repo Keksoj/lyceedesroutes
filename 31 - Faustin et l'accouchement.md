@@ -60,7 +60,7 @@ Peut-être était-ce la volonté d'Abdalahad ?
 
 Soupir généralisé sur le divan.
 Augustine remue, contrariée, se cale à nouveau dans les bras d'un Jacob fatigué émotionnellement.
-On entend bien vite la voix d'Augustine, à moitié audible car étouffée par le pull de son homme, elle y a enfoncé son visage.
+On entend bien vite la voix d'Augustine, à moitié audible car elle a enfoncé son visage contre le pull de son amoureux.
 
 — Il me soûle, Abdamachin.
 Il fout la merde dans nos vies, nous envoie des hallucinations de ouf, nous pose des questions impossibles, et il joue avec nos hormones comme si on était ses marionettes.
@@ -152,7 +152,8 @@ je lui tiens la main je lui demande ce qui ne va pas elle crie plus fort
 nous la couchons sur le tapis où elle hurle en se tenant le ventre
 Jacob ne sait pas quoi faire il lui tient la main je lui tiens la main elle crie
 elle dit que c'est trop tôt qu'elle va le perdre qu'elle ne veut pas être une meurtrière
-nous ne comprenons pas ce qu'elle dit nous essayons de la raisonner elle crie
+nous disons qu'il n'y a pas de meurtre ça ne fait qu'un mois et puis ce n'est pas sa faute
+nous essayons de la raisonner elle crie
 elle est prise de convulsions elle essaie de se tenir le ventre et alors nous comprenons
 nous l'allongeons sur le dos elle crie nous lui tenons la main elle crie
 nous pleurons tous les deux parce que cette douleur nous traverse c'est l'empathie elle crie
@@ -161,7 +162,7 @@ elle dit qu'elle va mourir je vois son sexe Jacob la tient dans ses bras elle bo
 je lui tiens la main elle crie nous lui disons de respirer elle respire elle crie elle respire elle crie
 le tapis est plein d'eau elle donne des coup de pied dans le vide Jacob me dit de lui tenir les jambes
 je lui tiens les jambes je vois son sexe c'est de là que viens l'eau je commence à comprendre
-elle crie nous lui disons de respirer elle respire je lui dis de pousser elle dit qu'elle ne veut pas être une meurtrière
+elle crie nous lui disons de respirer elle respire je lui dis de pousser elle dit qu'elle ne veut pas le tuer
 Jacob lui dit de pousser elle crie elle respire elle pousse et elle crie encore
 nous lui disons de continuer elle dit qu'elle va mourir nous la voyons mourir son visage est tordu de douleur
 elle pleure son regard est vide Jacob pleure je pleure nous lui disons de continuer

@@ -102,7 +102,7 @@ Je suis conscient d'avoir fait une bêtise, je m'en veux beaucoup.
 
 Silence.
 Il mâchonne une branche de ses lunettes dans sa bouche.
-Avant, il tentait de me percer, désomais, il me jauge.
+Avant, il tentait de me percer, désormais, il me jauge.
 Je soutiens son regard.
 J'ai offert à l'eau un chemin satisfaisant pour traverser la montagne.
 Il se lève enfin, son fauteuil tourne dans le vide.

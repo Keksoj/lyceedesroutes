@@ -69,7 +69,7 @@ mais j'ai un peu appris à te connaître.
 Sympa le garçon. Je m'en souviendrai de celle-là.
 
 — ... et je t'ai désirée dès que je t'ai vue dans ma chambre.
-Ça fait deux jours que je me masturbe dans la douche en pensant à toi.
+Ça fait deux jours que je fantasme sur toi.
 
 Et ben.
 

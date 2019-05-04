@@ -6,8 +6,8 @@ Personne n'avait compris le but du jeu, à l'époque.
 Bien sûr, les organismes monocellulaires étaient une merveille d'orfèvrerie.
 Ceux qui ont suivi, plus complexes, étaient tout aussi beaux.
 Et le sont toujours.
-Mais à quoi bon donner une conscience divine à certains d'entre eux ?
-Cela reste de la poussière froide et humide, non ?
+Mais à quoi bon donner une conscience divine à certains d'entre eux ?
+Cela reste de la poussière froide et humide, non ?
 
 Personne n'a compris, tout le monde a accepté. Ce n'était pas nos affaires.
 
@@ -23,7 +23,7 @@ Il leur faut certainement du temps, puisqu'ils sont à ce point attachés à la 
 Celui qui s'est le plus facilement raproché de moi est également celui à l'avoir le moins bien supporté.
 Alors même que nous contemplions l'étoile de leur système, il est parti brutalement, sans crier gare.
 
-Tout ceci est-il vraiment une bonne idée ?
+Tout ceci est-il vraiment une bonne idée ?
 Ce ne serait vraiment pas malin de ma part si j'en abîmais un !
 J'espère qu'ils vont mûrir pour qu'on puisse parler, parce que j'ai de plus en plus de questions.
 
@@ -38,5 +38,5 @@ Sauf moi, évidemment.
 Les autres sont partis, j'imagine que c'est moi qui vais devoir m'y impliquer en entier.
 Nom d'une étoile à neutrons !
 Je m'intéressais à ce que je ne savais pas, et me voilà pris dans le disque d'accrétion de la question humaine.
-Je ne sais pas où ça me mène, et c'est déjà un progrès dans mon expérience, n'est-ce pas ?
-Voilà déjà une chose gagnée dans ma quête d'ignorance : où la question humaine m'emmènera-t-elle ?
+Je ne sais pas où ça me mène, et c'est déjà un progrès dans mon expérience, n'est-ce pas ?
+Voilà déjà une chose gagnée dans ma quête d'ignorance : où la question humaine m'emmènera-t-elle ?

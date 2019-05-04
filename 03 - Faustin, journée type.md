@@ -86,8 +86,7 @@ Une voix au loin derrière mon épaule :
 
 Je tourne la tête et aperçois des élèves qui poursuivent leur chemin après être passés près de ma table.
 Ont-ils dit ça seulement pour m'insulter, ou est-ce que je pue vraiment ? Je ne sais pas trop. Je ne peux pas savoir.
-Ce soir, je prendrai une douche dans le doute.
-Mais je n'aime pas trop me confronter à mon corps, qui ne correspond aucunement aux canons de la beauté.
+Je n'aime pas trop me confronter à mon corps, qui ne correspond aucunement aux canons de la beauté.
 Parfois, je m'en veux vraiment, je me prends à me détester moi-même, et je me demande vraiment ce qu'Anne-Marie peut bien me trouver.
 À elle, je pourrais demander si je pue ou pas.
 Et elle me répondrait avec beaucoup de tendresse.

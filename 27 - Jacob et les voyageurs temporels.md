@@ -275,10 +275,15 @@ Maintenant que vous êtes là, vous avez peut-être la réponse pour nous : à 
 La dame se retourne, assez blasée, elle tient la portière de la main.
 
 — Crois-moi, jeune, t'as pas envie de savoir, mais tu m'as l'air sympathique, alors je vais t'expliquer notre situation.
-Là d'où on vient, l'humanité est sous le contrôle de la Machine, personne ne peut ne serait-ce que lâcher un pet en liberté.
-Alors on a fabriqué une machine à voyager le temps avec une bagnole dont les batteries étaient pas trop nazes.
-La Machine n'a jamais pu ou voulu voyager dans le temps, ça doit la faire buguer, et c'est le seul moyen qu'on ait de se défendre.
-Maintenant on parcourt la grande spirale à la recherche de l'anomalie entropique qui nous permettra de détruire la Machine de l'intérieur.
+Là d'où on vient, l'humanité est sous le contrôle de la Machine, un super-ordinateur qui a développé sa propre conscience.
+Personne ne peut ne serait-ce que lâcher un pet en liberté.
+La résistance s'est organisée, mais c'est dur, c'est très dur.
+Notre seul moyen de défense, c'est de voyager dans le temps.
+La Machine n'a jamais pu ou voulu s'y hasarder, ça doit la faire buguer.
+Nos modèles post-quantiques ont prédit que la seule chose capable de détruire la machine est une Anomalie Entropique, une sorte de Truc.
+Alors on a récupéré une bagnole dont les batteries étaient pas trop nazes et on en a fait une machine temporelle,
+et on parcourt la grande spirale à la recherche de cette fameuse Anomalie dont on ignore à peu près tout, sinon qu'elle iradie de l'anti-entropie pleine balle.
+On cherche et on trouve pas.
 Au moment où je te parle, enfin façon de parler, on a un pote qui est en train de se faire torturer, tu imagines qu'on n'est pas si joyeux que ça.
 Du coup, vous nous faites bien marrer avec vos questions sur le sens de la vie.
 Allez bye, profitez de votre époque.

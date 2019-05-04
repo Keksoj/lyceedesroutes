@@ -37,7 +37,7 @@ Toutes ces choses sont gravées au fer rouge au fond de mon crâne, mais comment
 Certes, je me souviens des visions, du dragon rouge, mais comment tout cela s'est-il produit ?
 Et pourquoi à nous trois, au même moment ?
 
-Je viens de passer les derniers jours sur google et wikipedia, à lire tout ce que je pouvais sur les dragons, les hallucinations collectives, les expériences mystiques, les sectes, les hallucinogènes, les chamanes, l'alchimie, le taoisme.
+Je viens de passer les derniers jours sur Google et Wikipedia, à lire tout ce que je pouvais sur les dragons, les hallucinations collectives, les expériences mystiques, les sectes, les hallucinogènes, les chamanes, l'alchimie, le taoisme.
 C'était très intéressant mais ça ne m'explique pas vraiment ce qui s'est passé.
 
 Augustine m'a contacté.

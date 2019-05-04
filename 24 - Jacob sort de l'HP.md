@@ -188,6 +188,6 @@ re.
 
 Et je m-                      -sur les genoux.
 
-— Merde il a l'air mal en point, que faisons-nous ?
+— Merde il a l'air mal en point, qu'est-ce qu'on fait ?
 
 — On fait comme on a dit, on se tient la main !
