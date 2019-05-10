@@ -41,7 +41,7 @@ Et qu'est-ce qu'il m'arrivera ensuite ?
 
 Du calme.
 À ne pas oublier : je suis un mini-alien aux commandes d'un robot géant.
-Je n'ai qu'à me réfugier à l'intérieur de mon crâne, là où se trouvent les commandes.
+Je n'ai qu'à me réfugier à l'intérieur de mon crâne, là où se trouve la tableau de bord.
 Il suffit de lâcher les manettes... et voilà. J'y suis.
 Tout seul, en sécurité.
 Bien. Ah, ça va mieux !
@@ -109,8 +109,8 @@ Il se lève enfin, son fauteuil tourne dans le vide.
 Il fait les cents pas, les bras croisés, et me regarde enfin, les yeux clairs et le regard ouvert.
 
 — Tu vas aller à l'infirmerie, pour te reposer et te dégriser.
-On appelle tes parents, qui vont venir te chercher.
-On te tient au courant de la suite des évènements.
+Tes parents seront prévenus, tu dois le savoir.
+On te tiendra au courant de la sanction la plus appropriée.
 
 — Merci, Monsieur.
 

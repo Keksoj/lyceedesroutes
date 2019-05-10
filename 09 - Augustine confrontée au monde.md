@@ -35,7 +35,7 @@ Et puis, subitement, il arrête de cliquer, s'éloigne de l'écran, enlève ses 
 
 Et voilà, maintenant il me scrute avec la même attention que son ordi il y a une seconde.
 C'est déstabilisant, ces gens qui peuvent switcher comme ça.
-Je m'assois, et il me contemple toujours de derrière ses lunettes, le genre de lunettes déjà ringardes mais qui en plus ont les branches attachées par une ficelle qui lui passent derrière le cou.
+Je m'assois, son regard perce derrière ses lunettes, le genre de lunettes déjà ringardes mais qui en plus ont les branches attachées par une ficelle qui lui passent derrière le cou.
 C'est un type plutôt grand, avec des traits creusés, pas mal de rides, des cheveux un peu en bataille, mais surtout, cette aura de ministre qui fout les boules à tous les élèves du lycée.
 Quand il nous regarde comme ça, on se sent crétin.
 Il n'y a rien de méchant dans son regard, seulement je ne connais personne qui regarde les gens comme il fait.
@@ -43,13 +43,13 @@ C'est sûrement pour ça qu'on le paye.
 
 — Alors, Augustine, raconte-moi.
 
-Et en plus, pour lui c'est pas grave.
+Et en plus, c'est pas grave pour lui.
 Je suis un dossier parmi d'autres.
-Le fait que j'ai les boules, il s'en contrefiche.
+Il s'en contrefiche, que j'ai les boules.
 J'ai frappé un élève, mais lui, on dirait qu'il prend le café avec moi et qu'il me demande tranquillement de raconter ma journée.
 Ça m'énerve, ça m'énerve.
 
-— Heu... sous le coup de la colère, j'ai insulté et frappé Tom tout à l'heure.
+— Heu... sous le coup de la colère, j'ai insulté et frappé Tom Legoupil, tout à l'heure.
 
 — Oui, ça c'est ce que j'ai cru comprendre !
 Ce qui m'intéresse, c'est pourquoi tu as fait ça.

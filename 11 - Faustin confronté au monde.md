@@ -29,7 +29,7 @@ Il me jette un regard vide, presque implorant, et me demande avec un étonnement
 
 — Qu'est-ce qui s'est retrouvé plus important que le cours ?
 
-— De façon assez inattendue, il a absolument fallu que je m'isole dans les toilettes pour consulter l'article « savon » sur wikipédia avec mon smartphone.
+— De façon assez inattendue, il a absolument fallu que je m'isole dans les toilettes pour consulter l'article « savon » sur Wikipédia avec mon smartphone.
 
 Il ouvre les yeux encore plus grands, si c'était possible.
 
@@ -74,7 +74,7 @@ Quelle différence présentez-vous ?
 Nous n'avons plus d'idéal vers lequel tendre.
 
 Il me regarde avec les yeux les plus intenses que j'ai jamais vus.
-Quelle pensées peuvent bien tournoyer dans le crâne de cet homme si mystérieux ?
+Quelles pensées peuvent bien tournoyer dans le crâne de cet homme si mystérieux ?
 Que pense-t-il de moi ?
 Que pense-t-il de nous ?
 Qu'est-ce qu'il a bien pu vivre dans la journée pour me poser ces questions-là ?

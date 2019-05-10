@@ -71,9 +71,7 @@ Papa est psy, maman éduc' spé'.
 Ceux-là, ils se sont trouvés, et en général, ils nous laissent de la place et ils parlent clairement quand il le faut.
 Le reste du temps, ils racontent beaucoup de conneries, ils rient fort et ils nous laissent vivre.
 
-Je finis mon repas et débarrasse mon assiette.
-J'ai assisté à cette scène tellement de fois, ça me laisse blasé.
-Je retourne dans ma chambre.
+Je finis mon repas, débarrasse mon assiette, retourne dans ma chambre.
 
 Il n'est même pas vingt heures.
 Je vais m'allonger sur le lit.

@@ -100,12 +100,10 @@ D'un bout, il accroche l'eau, de l'autre, la graisse.
 Ce qui fait qu'en se lavant à l'eau savonneuse, on s'enlève la graisse du corps.
 
 Fascinant ! J'ignorais tout cela !
-Ça fait des années que je prends mes douches sans savon.
-Je croyais que c'était une sorte d'option facultative pour se parfumer.
-Depuis que maman est partie de la maison, j'ai perdu beaucoup de repères concernant l'hygiène.
-Papa ne s'occupe pas beaucoup de moi de ce point de vue.
-Il est toujours parti à la fac, ou bien je ne sais où, enfin, pas à la maison.
-
+Je n'aime pas mon corps, je n'aime pas me voir nu dans la glace.
+Je ne me douche pas souvent.
+Quand je le fais, je me passe juste de l'eau sur le corps.
+Je croyais, jusqu'à aujourd'hui, que le savon était une sorte d'option facultative pour se parfumer.
 Tout est clair désormais.
 Je repose mon smartphone sur mes genoux et me met à songer, rêveur, à cette chimie dont j'ignorais tant jusque là.
 Dans ma tête, je visualise les molécules qui s'accrochent les unes aux autres.
@@ -116,7 +114,7 @@ Ils sont eux-mêmes composés des mêmes particules : protons, neutron, électr
 Ces particules sont à leur tour issues de particules plus petites encore, et ainsi de suite jusqu'à s'apercevoir que la matière n'est que de l'énergie réduite à une faible niveau de vibration.
 À l'origine, tout est énergie, ce n'est après le *big bang* que l'univers a commencé à se dilater, à se refroidir, à former de la matière, de l'antimatière, de l'énergie noire.
 Des forces colossales se sont déployées, des batailles cosmiques ont eu lieu entre matière et antimatière...
-La plus fascinante des force en présence, c'est celle qui a conduit le coeur des étoiles à fabriquer les atomes dont notre planète et nous-mêmes sommes composés.
+La plus fascinante des forces en présence, c'est celle qui a conduit le coeur des étoiles à fabriquer les atomes dont notre planète et nous-mêmes sommes composés.
 La Terre n'est qu'une poussière d'étoile, et ce qui a contribué à la fabriquer, c'est cette énergie nucléaire démesurée, qu'on pourrait comparer au feu d'une créature mythologique aux pouvoirs immenses : un immense dragon rouge, puissant et majestueux...
 
 Bip bip.

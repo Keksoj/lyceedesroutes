@@ -57,7 +57,7 @@ Non, je vais trop vite.
 Ils n'ont sûrement pas l'habitude de dialoguer avec des individus comme moi !
 Mieux vaut éviter de les chambouler.
 Je vais en choisir trois et leur souffler dessus, juste un tout petit peu.
-Ça les fera vibrer un chouïa plus vite que le reste de leur environnement, cela devrait suffire.
+Ça les fera vibrer un chouïa plus vite que le reste de leur environnement, ce qui devrait suffire.
 
 Quant à moi, je vais m'attacher à cette portion d'espace-temps, tâcher de suivre le Temps dans le même sens et à la même vitesse qu'eux, sinon on ne pourra pas du tout se parler.
 Dans quelle aventure je m'embarque !

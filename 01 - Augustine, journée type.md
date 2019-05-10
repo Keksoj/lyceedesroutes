@@ -1,10 +1,9 @@
 # Augustine
 
-
 Moi, c'est Augustine. Augustine Lambert.
 Dix-sept ans, terminale L au Lycée des Routes.
 Plutôt grande et mince, cheveux bouclés mais pas trop, le genre de fille bien faite mais dont le miroir magique renvoie toujours une image pleine de boutons et de petits défauts.
-Que voulez-vous, à mon âge, pas facile de s'assumer quand on a eu trois ans chrono pour se voir pousser des hanches, des seins, et une grosse tendance à baver en pensant à Ryan Gosling.
+Que voulez-vous, pas facile de s'assumer à mon âge, quand on a eu trois ans chrono pour se voir pousser des hanches, des seins, et une grosse tendance à baver en pensant à Ryan Gosling.
 Sans oublier ma super copine, madame Menstrue, qui vient me donner un gros coup de latte dans le ventre tous les mois.
 Et les papotages, et les histoires de mec.
 Et mes parents au bord du divorce.
@@ -30,7 +29,7 @@ Il faut que je mette du papier blanc entre nous trois, que je prenne un crayon, 
 Au bout d'une dizaine de minutes, on a enfin un schéma qui nous donnera un plan concret.
 La suite est simple : je prends l'élément de plan le plus facile à traiter pour moi, et je donne aux autres des directives claires pour qu'ils produisent des sous-parties qui valent le coup.
 Impeccable, on a réparti les tâches avant que la cloche ne sonne.
-Mais qu'est-ce que c'est laborieux d'amener les gens à accoucher d'eux-mêmes !
+Mais qu'est-ce que c'est laborieux d'amener les gens à accoucher d'eux-mêmes !
 
 Je sors du cours juste au moment où ça sonne (le prof est tellement estomaqué qu'il ne réagit pas) et file trouver mon casier, où je fourre mon sac.
 C'est l'intercours.

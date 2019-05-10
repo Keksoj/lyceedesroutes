@@ -3,7 +3,7 @@
 Encore un lever laborieux pour Faustin Vaultier (c'est moi).
 Le réveil sonne douloureusement, je l'éteins tout de suite, me redresse dans mon lit et m'accorde quelques instants pour décanter.
 Je vais ouvrir le vélux de ma chambre, l'air froid vient lécher ma peau.
-Je n'aime pas beaucoup cette peau, je la trouve trop ronde, je lui trouve trop de plis.
+Je n'aime pas beaucoup cette peau, je la trouve trop ronde, lui trouve trop de plis.
 Je m'empresse de la recouvrir des habits de la veille : un pantalon de velours délavé et une chemise débraillée dont le col dépasse de façon anarchique d'un pull rouge un peu miteux.
 Là-dessus, j'enfile mes chaussures, qui étaient posées à côté de mon lit.
 Toute ma routine matinale consiste à me préparer à aller en cours sans sortir de ma chambre.
@@ -30,13 +30,13 @@ Me voilà plus près du centre-ville. L'occasion de méditer sur le sens de notr
 C'est vraiment particulier de voir à quel point nous sommes tributaires de notre passé, malgré ce qu'on appelle le progrès.
 Notre pays dépend toujours d'un pouvoir centralisé, héritage des Rois de France et de leur monarchie absolue.
 Deux cents ans de cafouillages politiques, entre révolutions, empires, monarchie restaurée, républiques à foison et guerres en pagaille, n'ont en rien ébranlé la toute-puissance de Paris sur la Province.
-De l'autre côté du Rhin, la politique allemande ressemble encore au Saint-Empire, complètement décentralisée.
+Outre-Rhin, la politique allemande ressemble encore au Saint-Empire, complètement décentralisée.
 De notre côté, le baccalauréat auquel je me prépare me permettra d'étudier partout en France.
 De l'autre côté, un Allemand qui passe son Abitur à Brême ne pourra pas étudier à Munich.<br /><br />
 
 Je suis élève dans un lycée qui est l'exemple même de l'héritage de Napoléon, ce qu'il a appelé les « masses de granit ».
 Des institutions fortes pour un État fort.
-Légion d'honneur, franc germinal, préfecture, baccalauréat, banque de France, et lycée bien sûr.
+Légion d'honneur, franc germinal, préfectures, baccalauréat, banque de France, et lycée bien sûr.
 Tout ça, c'est du despotisme éclairé.
 Nous sommes les fiers héritiers d'une dictature qui a écrasé ce qui fait nos valeurs nominales.
 Liberté, égalité, fraternité, ça ne nourrit pas son peuple.
@@ -67,7 +67,7 @@ L'exemple typique qui illustre ce qui ne va pas avec moi.
 Le cours me passionne, j'adore écouter le prof, un certain M. Immanuel (le prénom de Kant... qui a dit « prédestination » ?).
 Cependant, je ne relis jamais mes notes pour me les approprier, je ne me base que sur mes ressentis pour rédiger mes dissertations, ce qui fait que je n'ai jamais la moyenne.
 Le prof me rend la copie du dernier devoir surveillé, justement, et me réclame de la rigueur, toujours plus de rigueur.
-Je range ma copie avec sa mauvaise note, et j'attends que le cours se passe.
+Je range ma copie mal notée et j'attends que le cours se passe.
 
 Le midi, à la cantine, je m'assois tout seul dans mon coin (Anne-Marie et moi n'avons pas la même heure de pause ce midi), et poursuis ma lecture du Nouveau Testament.
 Je m'y suis mis il n'y a pas longtemps, c'est du bon storytelling.

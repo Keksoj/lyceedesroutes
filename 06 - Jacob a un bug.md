@@ -1,6 +1,6 @@
 # Jacob a un bug
 
-Quelle journée magnifique !
+Quelle journée magnifique !
 
 Chaque fois que je parle avec Gabriel, je passe un lendemain génial.
 Non pas que le monde soit plus beau.
@@ -30,11 +30,11 @@ Les volutes de vent s'enroulent les unes autour des autres.
 
 Et j'écarte mes bras pour mieux sentir le jeu amoureux de mes sens avec l'univers.
 Je ferme les yeux.
-Des images me viennent, je me vois d'au-dessus comme si j'étais sorti de mon corps.
+Des images me viennent, je me vois de dessus comme si j'étais sorti de mon corps.
 
 — Eh, mais c'est Jacob. Il est pas en cours ?
 
-Le lycée vu du dessus, c'est dantesque, on se croirait sur Google Maps, seulement la résolution est tellement meilleure, et tout est en 3D.
+Le lycée vu d'en haut, c'est dantesque, on se croirait sur Google Maps, seulement la résolution est tellement meilleure, et tout est en 3D.
 Je peux voir chaque voiture circuler autour du lycée, je vois chaque personne, chaque arbre, chaque fourmi.
 
 — Eh, Jacob, t'as fumé quoi ?
@@ -60,7 +60,7 @@ Je vogue maintenant à travers l'espace, confiant et sûr de moi.
 Volant vers le soleil, mes ailes sont largement déployées.
 Je suis un immense dragon rouge, et je m'appelle...
 
-— JACOB !
+— JACOB !
 
 Je n'ai jamais rien vécu d'aussi douloureux de ma vie.
 L'instant d'avant, je planais paisiblement vers le soleil, et maintenant je suis dans un endroit étrange, face à une créature singulière, bien que vaguement familière.
@@ -74,7 +74,7 @@ Tout est si étrange après l'immense simplicité des espaces immenses où je na
 
 Les mots résonnent dans mon esprit sans trouver le moindre endroit où s'accrocher.
 Leur sens m'échappe.
-Ils sont comme une musique qui se répète, qui se répète, sans rien dire.
+Ils sont comme une musique qui se répète sans rien vouloir dire.
 Jacob, mais qu'est-ce qui t'arrive, Jacob, mais qu'est-ce qui t'arrive,
 Jacob, mais qu'est-ce qui t'arrive, Jacob, mais qu'est-ce qui t'arrive...
 
@@ -84,7 +84,7 @@ Ces membres postérieurs ont cinq ramifications plus fines – on appelle ça d
 Comment je sais qu'on appelle ça des doigts ?
 Ça m'a paru évident, d'un coup.
 
-— Jacob, mais dis-moi quelque chose, nom d'un chien !
+— Jacob, mais dis-moi quelque chose, nom d'un chien !
 
 Les mots tournent dans mon crâne – j'ai un crâne – mais je suis surtout sidéré par l'importance des implications de ma récente prise de conscience.
 Si j'ai des doigts aux membres antérieurs, j'ai aussi des membres antérieurs.
@@ -100,9 +100,9 @@ D'autres humains. Des élèves.
 
 Très, très lentement, le brouillard se dissipe et je prends conscience de toute l'épaisseur de la réalité.
 Ça va de pire en pire.
-Non seulement je suis un humain, élève dans un lycée, mais qui plus est, le CPE me considère de façon inquiète et furieuse.
+Non seulement je suis un humain, élève dans un lycée, mais qui plus est, le CPE est en colère contre moi.
 
-— Je t'écoute, Jacob !
+— Je t'écoute, Jacob !
 
 Il veut que je dise quelque chose.
 Je regarde à l'extérieur de moi et je vois un monde qui ne fait que m'agresser depuis cinq minutes... ou plutôt, depuis des années et des années.
@@ -115,7 +115,7 @@ Qu'est-ce que je dois dire ?
 
 — Heu... Je suis en train de vivre un moment très désagréable.
 
-— Ça, je peux te croire ! Tu viens tout de suite avec moi, dans mon bureau !
+— Ça, je peux te croire ! Tu viens tout de suite avec moi, dans mon bureau !
 
 Alors même que M. Charles se met à marcher vers le bâtiment, et que je lui emboîte le pas (j'avais oublié ce que ça fait, de marcher), je me trouve immensément soulagé.
 Enfin je peux abandonner mes questions abstraites pour accomplir quelque chose de concret.
