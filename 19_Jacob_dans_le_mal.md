@@ -8,6 +8,8 @@ Je la connais, la vraie lumière, je l'ai vue.
 Elle éclaire les choses de l'intérieur.
 Ce tube néon est un imposteur, il n'éclaire que l'extérieur des choses.
 
+***
+
 Je suis au courant de la vérité, pas étonnant que ce monde fait d'illusion m'ait attaché à ce lit.
 S'ils savaient ce que je sais...
 

@@ -184,7 +184,7 @@ J'explose, l'émotion m'emporte.
 
 — Ah, non, tu ne vas pas te mettre à me persécuter comme les autres !
 Aujourd'hui j'ai eu une expérience magnifique et ça ne m'a valu que des problèmes.
-J'aurais voulu dire à l'entièreté de l'humanité à quel point le monde est magnifique, et on m'a traité avec méfiance, discrédit, remontrances.
+J'aurais voulu dire à l'entièreté de l'humanité à quel point le monde est beau, et on m'a traité avec méfiance, discrédit, remontrances.
 C'est insupportable !
 Ce monde est insupportable !
 La vie est-elle ainsi faite qu'elle doive détruire tout ce qu'y a de beau en nous ?
