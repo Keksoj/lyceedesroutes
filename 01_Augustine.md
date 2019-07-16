@@ -80,7 +80,7 @@ La même clé ouvre les deux salles : la 308, où j'ai cours, et celle-ci, la 4
 Je n'entre pas.
 Je retourne au troisième étage, où j'ai cours et où mes camarades attendent comme moi le prof qui remonte du deuxième étage.
 M. Rabelais, qui enseigne le français, a autre chose à faire que de se soucier d'une histoire de clé.
-Je lui la lui donne, il s'en saisit, il fait son cours, et à la fin, comme à chaque fois, il la rend à une autre élève qui va la rapporter à la vie scolaire.
+Je la lui donne, il s'en saisit, il fait son cours, et à la fin, comme à chaque fois, il la rend à une autre élève qui va la rapporter à la vie scolaire.
 Le même jeu dure depuis le début de l'année.
 Chaque lycée a ses failles. <br /><br />
 
