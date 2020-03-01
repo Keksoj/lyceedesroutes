@@ -24,7 +24,7 @@ Anne-Marie hasarde un regard en dehors de notre cocon, comme pour vérifier que 
 Cette fille est magnifique.
 Elle est capable de dévorer un Tolkien le samedi et un big mac le dimanche, sans transition.
 Je me souviens l'avoir vue mimer des duels à mort avec ses petites mains, tenant des frites pour figurer les épées, des tranches de concombre pour  les boucliers, et faire les voix par-dessus.
-« Pour le Gondor ! Númenor ! »
+« Pour le Gondor ! Númenor ! »
 J'en avais avalé mon sprite de travers et tout recraché par le nez.
 On a tellement ri ce jour-là !
 C'était notre troisième rendez-vous.
@@ -73,7 +73,7 @@ Les rouages se mettent à tourner à toute vitesse dans ma tête.
 — Diantre...
 
 Contre ma poitrine, les cheveux soigneusement shampooinés d'Anne-Marie continuent de se frotter avec lascivité.
-Je les embrasse soigneusement et fais mes adieux à cette chère tête blonde.
+Je les embrasse amoureusement et fais mes adieux à cette chère tête blonde.
 Aussitôt, je décide de manquer le cours suivant, et vais trouver les toilettes les mieux isolées, pour sortir mon smartphone et demander à Wikipédia tout ce qu'elle peut me dire sur le savon.
 
 > « Le savon est un produit liquide ou solide composé de molécules amphiphiles obtenues par réaction chimique entre une base forte, spécifiquement l'hydroxyde de sodium ou l'hydroxyde de potassium, et un ou plusieurs acides gras. »

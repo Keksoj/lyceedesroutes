@@ -32,7 +32,7 @@ Son expression est indéfinissable.*
 —	Ainsi, vous êtes réveillée, mademoiselle...
 *(il jette un œil sur ses dossiers)*
 Lambert.
-Comment vous sentez-vous ?
+Comment vous sentez-vous 
 
 **LA JEUNE FEMME**
 — Qu'est-ce qui m'est arrivé ?
@@ -60,7 +60,7 @@ Vous n'aviez pas l'air mal en point, c'est juste que vous ne vous réveilliez pa
 
 **LA JEUNE FEMME**
 , *se tourne*
-— Faustin ? Faustin Vaultier ? Qu'est-ce que tu fous là ?
+— Faustin  Faustin Vaultier ? Qu'est-ce que tu fous là ?
 
 **FAUSTIN**
 —	Augustine !? Mais où sommes-nous ?

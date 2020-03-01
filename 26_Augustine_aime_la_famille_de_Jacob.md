@@ -210,7 +210,7 @@ BAM
 Un livre est tombé de l'étagère.
 Il avait mal été rangé.
 Jacob se retourne, l'attrape de la main, l'amène devant ses yeux, jette un œil sur la page qui a été ouverte par hasard.
-Sans réfléchir, il lit à voix haute :
+Sans réfléchir, il lit à voix haute :
 
 > « Avec de la terre, le Seigneur Dieu modela toutes les bêtes des champs et tous les oiseaux du ciel, et il les amena vers l’homme pour voir quels noms il leur donnerait.
 C’étaient des êtres vivants, et l’homme donna un nom à chacun. »

@@ -59,7 +59,7 @@ Les gardes préfèrent quand il ne se passe rien.
 Les acteurs, eux, jouent leur rôle, chacun le sien.
 Il y a une pleureuse, par exemple, qui pleurniche et crie quand elle aperçoit un garde.
 Dès que le garde est hors de vue, elle arrête parce qu'elle n'a plus de public (les zombies ne font pas un bon public).
-Il y a un patron qui engueule tout le monde ; les gardes le laissent jouer son rôle tant qu'il ne touche pas aux gens ou aux objets.
+Il y a un patron qui engueule tout le monde  les gardes le laissent jouer son rôle tant qu'il ne touche pas aux gens ou aux objets.
 Mais les acteurs redeviennent eux-mêmes des zombies la plupart du temps.
 
 Cette dame assise sur la chaise au bout du couloir, je l'aime bien.
@@ -172,7 +172,7 @@ vraiment passé.
 
 Ah merde, ouais. J'articule :
 
-— On s'est vraiment réveillé ensemble ?
+— On s'est vraiment réveillés ensemble ?
 
 — Nous avons eu les mêmes visions que toi !
 s'exclame Faustin.

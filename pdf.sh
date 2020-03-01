@@ -8,8 +8,9 @@
 pandoc pagetitre.markdown *.md \
 --verbose --chapters \
 --variable=indent \
---template=template.tex \
 --latex-engine=xelatex \
 --output lelyceedesroutes.pdf
 
 evince lelyceedesroutes.pdf &
+
+# --template=template.tex \

@@ -8,9 +8,9 @@ body {
   padding: 30px; }
 
 body > *:first-child {
-  margin-top: 0 !important; }
+  margin-top: 0 !important; }
 body > *:last-child {
-  margin-bottom: 0 !important; }
+  margin-bottom: 0 !important; }
 
 a {
   color: #4183C4; }
@@ -114,10 +114,10 @@ li p.first {
 ul, ol {
   padding-left: 30px; }
 
-ul :first-child, ol :first-child {
+ul :first-child, ol :first-child {
   margin-top: 0; }
 
-ul :last-child, ol :last-child {
+ul :last-child, ol :last-child {
   margin-bottom: 0; }
 
 dl {
@@ -130,25 +130,25 @@ dl {
     margin: 15px 0 5px; }
     dl dt:first-child {
       padding: 0; }
-    dl dt > :first-child {
+    dl dt > :first-child {
       margin-top: 0; }
-    dl dt > :last-child {
+    dl dt > :last-child {
       margin-bottom: 0; }
   dl dd {
     margin: 0 0 15px;
     padding: 0 15px; }
-    dl dd > :first-child {
+    dl dd > :first-child {
       margin-top: 0; }
-    dl dd > :last-child {
+    dl dd > :last-child {
       margin-bottom: 0; }
 
 blockquote {
   border-left: 4px solid #dddddd;
   padding: 0 15px;
   color: #777777; }
-  blockquote > :first-child {
+  blockquote > :first-child {
     margin-top: 0; }
-  blockquote > :last-child {
+  blockquote > :last-child {
     margin-bottom: 0; }
 
 table {
@@ -171,9 +171,9 @@ table {
       text-align: left;
       margin: 0;
       padding: 6px 13px; }
-    table tr th :first-child, table tr td :first-child {
+    table tr th :first-child, table tr td :first-child {
       margin-top: 0; }
-    table tr th :last-child, table tr td :last-child {
+    table tr th :last-child, table tr td :last-child {
       margin-bottom: 0; }
 
 img {

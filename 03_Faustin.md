@@ -8,7 +8,7 @@ Je m'empresse de la recouvrir des habits de la veille : un pantalon de velours 
 Là-dessus, j'enfile mes chaussures, qui étaient posées à côté de mon lit.
 Toute ma routine matinale consiste à me préparer à aller en cours sans sortir de ma chambre.
 De cette manière, me voilà tout prêt à partir, assis sur mon lit.
-Je n'ai plus qu'à saisir la petite pipe en bois posée sur ma table de nuit, à la bourrer de tabac et d'herbe de cannabis, à la démarrer avec une allumette (c'est plus fiable qu'un briquet), tirer dessus avec l'art conféré par l'habitude, et j'ai plusieurs minutes de confort pour me préparer effectivement à ma journée.
+Je n'ai plus qu'à saisir la petite pipe en bois posée sur ma table de nuit, la bourrer de tabac et d'herbe de cannabis, la démarrer avec une allumette (c'est plus fiable qu'un briquet), tirer dessus avec l'art conféré par l'habitude, et j'ai plusieurs minutes de confort pour me préparer effectivement à ma journée.
 Je contemple la mosaïque de gouttes d'eau qui perlent sur mon vélux.
 J'ai l'esprit vide.
 

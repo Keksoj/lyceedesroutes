@@ -70,7 +70,7 @@ Il s'immerge dans la lecture, il relit chaque verset plusieurs fois.
 
 > « Abraham répondit :  
 — C'est Dieu qui pourvoira à l'agneau pour l'holocauste, mon fils.  
-Et il s'en allèrent tous deux ensemble. »
+Et ils s'en allèrent tous deux ensemble. »
 
 Il relit, songeur, ces derniers mots, *« ils s'en allèrent tous deux ensemble »*, mais voilà qu'on sonne à la porte d'entrée.
 Il entend son épouse, Marion, parcourir le couloir d'un pas pressé en maugréant que ce n'est pas une heure pour sonner chez les gens.
