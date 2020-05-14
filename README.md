@@ -190,6 +190,10 @@ pandoc pagetitre.markdown src/* \
 
 ### Exporter en site statique avec mdbook
 
+Prérequis :
+* machine linux
+* git installé
+
 Installer [rust](https://www.rust-lang.org/learn/get-started) :
 
 ```sh

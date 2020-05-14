@@ -32,4 +32,4 @@
 * [Jacob assume](30_Jacob_assume.md)
 * [La mort et la naissance](31_Faustin_et_l_accouchement.md)
 * [Le dénouement](32_Augustine_denouement.md)
-SUMMARY.md
+

@@ -32,7 +32,7 @@ Son expression est indéfinissable.*
 —	Ainsi, vous êtes réveillée, mademoiselle...
 *(il jette un œil sur ses dossiers)*
 Lambert.
-Comment vous sentez-vous 
+Comment vous sentez-vous ?
 
 **LA JEUNE FEMME**
 — Qu'est-ce qui m'est arrivé ?

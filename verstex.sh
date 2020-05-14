@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Ce script doit éditer un PDF avec tous les fichiers markdown
 
-pandoc pagetitre.markdown *.md \
+pandoc pagetitre.markdown src/* \
 --verbose --chapters \
 --variable=indent \
 --template=template.tex \

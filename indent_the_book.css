@@ -1,0 +1,12 @@
+.content {
+    /* added myself */
+    text-align: justify;
+    text-indent: 1.5em;
+    padding-bottom: 15px;
+    padding: 0 15px;
+
+}
+body {
+    /* à l'origine 1.6em */
+    font-size: 1.6rem; 
+}

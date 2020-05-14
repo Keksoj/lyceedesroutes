@@ -1,5 +1,11 @@
 [book]
-authors = ["Emmanuel Bosquet"]
+title = "Le Lycée des Routes"
+authors = "Emmanuel Bosquet"
+description = "une nouvelle initiatique"
 multilingual = false
 src = "src"
-title = "Le Lycée des Routes"
+language = "fr"
+
+[output.html]
+additional-css = ["indent_the_book.css"]
+git-repository-url = "https://github.com/Keksoj/lyceedesroutes"
