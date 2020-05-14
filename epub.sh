@@ -7,4 +7,4 @@
 # profondeur de 1 (évite les titres intermédiaires)
 # metadata.yaml contient les métadonnées
 
-pandoc --data-dir=. --toc-depth=1 metadata.yaml *.md --output lelyceedesroutes.epub
+pandoc --data-dir=. --toc-depth=1 metadata.yaml src/* --output lelyceedesroutes.epub

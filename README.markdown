@@ -89,7 +89,7 @@ Il suffit d'éxécuter le script `html.sh`
 qui lui-même fait :
 
 ```sh
-pandoc pagetitre.markdown *.md --css=html.css -o lelyceedesroutes.html --self-contained
+pandoc pagetitre.markdown src/* --css=html.css -o lelyceedesroutes.html --self-contained
 ```
 
 * `pagetitre.markdown` contient des métadonnées.
@@ -107,7 +107,7 @@ Il suffit d'exécuter le script `epub.sh`
 qui lui-même fait
 
 ```sh
-pandoc --data-dir=. --toc-depth=1 metadata.yaml *.md --output lelyceedesroutes.epub
+pandoc --data-dir=. --toc-depth=1 metadata.yaml src/* --output lelyceedesroutes.epub
 ```
 
 * `--data-dir=.` redirige pandoc vers `epub.css`
@@ -128,7 +128,7 @@ il se passe deux choses distinctes bien que l'utilisateur ne les percoive pas :
 2. Pandoc appelle un logiciel de mise en page (comme Xelatex par exemple) qui transforme ce fichier en joli PDF.
 
 Bievenue dans le monde magique de LaTeX !  
-Qu'est-ce qui peut égaler la satisfaction procurée par la fabrication d'un PDF à partir de quelques lignes de texte   
+Qu'est-ce qui peut égaler la satisfaction procurée par la fabrication d'un PDF à partir de quelques lignes de code ?  
 La suite du propos considère que vous connaissez un peu LaTeX, ne serait-ce que pour avoir partagé un café-clope avec lui en terrasse quand vous étiez encore à la fac.
 Une bonne initiation se trouve [ici](https://fr.wikibooks.org/wiki/LaTeX).
 Si vous n'êtes pas familier avec LaTeX, soyez prêt à vous cogner la tête contre votre clavier de nombreuses fois, et à y prendre plaisir.
@@ -177,7 +177,7 @@ Suivre ces étapes permet de créer un fichier `test.tex` largement lisible, ce 
 est présente dans `pdf.sh` et se présente ainsi :
 
 ```sh
-pandoc pagetitre.markdown *.md \
+pandoc pagetitre.markdown src/* \
 --verbose --chapters \
 --variable=indent \
 --template=template.tex \

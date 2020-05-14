@@ -11,10 +11,10 @@ Tout ceci est connu, rabâché et rebattu.
 Mais voilà que je digresse encore. À quoi pensais-je ?
 
 Ah oui ! Quelque chose me trouble l'esprit. Une sorte de manque.
-Mon esprit tourne à vide, comme une étoile qui a brûlé tout son hydrogène et qui menace de s'effondrer sur elle-même.
+Mon esprit tourne à vide, comme une étoile qui a brûlé tout son hydrogène menace de s'effondrer sur elle-même.
 L'implosion me guette. Pourquoi ?
 J'ai passé le plus clair de ces derniers temps à contempler des choses que je connaissais déjà.
-Le ballet de la matière, le ralentissement du temps, le refroidissement de l'univers.
+Le ballet de la matière, le ralentissement du temps, tout refroidit.
 Mon esprit se serait-il refroidi, lui aussi ? Ce serait un comble, vraiment !
 En attendant, mes rouages tournent à vide.
 
@@ -25,16 +25,18 @@ Où trouver cette grande question sans réponse, hormis dans les profondeurs de 
 Je regarde autour de moi, fouillant les plus intimes replis de l'univers, scrutant chaque atome et chaque boucle temporelle...
 
 Là ! Il se passe quelque chose de particulier.
-Il y a des circonvolutions de l'espace-temps qui prennent des formes particulières, autonomes, dotées de conscience...
+Des circonvolutions de l'espace-temps prennent des formes particulières, autonomes, dotées de conscience...
 Ah ! Des Humains ! Je réprime un sursaut de dégoût.
 Je les avais oubliés, ceux-là. Je me serais bien passé de leur souvenir, aussi.
-Pour moi, ils ont tout d'une esquisse ratée, avec leurs corps faibles, leur vie courte, leur intelligence limitée...
+Ils ont tout d'une esquisse ratée, avec leurs corps faibles, leur vie courte, leur intelligence limitée...
 Que peut-on faire avec ça ? Cela n'a aucun sens.
-Soyons sérieux, soyons sérieux. Écartons-nous de cette aberration, voilà qui est mieux.<br /><br />
+Soyons sérieux, soyons sérieux. Écartons-nous de cette aberration, voilà qui est mieux.
 
-Où en étais-je ?<br /><br />
+----
 
-Ah, oui. Le manque que je ressens, et qui serait un excès de science.
+Où en étais-je ?
+
+Ah, oui. Le manque que je ressens et qui serait un excès de science.
 C'est quand même terrible d'en être arrivé là, mais puisque c'est ainsi... trop de science tue la science.
 Bien. Nom d'un quark, je n'ai jamais réfléchi comme ça !
 
@@ -51,7 +53,7 @@ Je vais seulement choisir une portion infinitésimale d'espace-temps où vivent 
 Ils semblent jeunes et se réunissent tous les jours dans un lieu où ils apprennent à vivre.
 Au moment même où leur corps s'est transformé, prêt à se reproduire, ils doivent assimiler des choses qui les préparent à un futur dont ils ignorent tout.
 Plongés dans le présent ! Les pauvres !
-Enfin, idéal pour mon expérience, voilà chose certaine.
+Enfin, idéal pour mon expérience, c'est chose certaine.
 Que pourrais-je leur poser comme question ?
 Non, je vais trop vite.
 Ils n'ont sûrement pas l'habitude de dialoguer avec des individus comme moi !

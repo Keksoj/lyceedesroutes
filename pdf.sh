@@ -5,7 +5,7 @@
 # --variable=indent pour l'indentation des paragraphes
 
 
-pandoc pagetitre.markdown *.md \
+pandoc pagetitre.markdown src/* \
 --verbose --chapters \
 --variable=indent \
 --latex-engine=xelatex \
