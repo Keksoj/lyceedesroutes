@@ -1,0 +1,5 @@
+[book]
+authors = ["Emmanuel Bosquet"]
+multilingual = false
+src = "src"
+title = "Le Lycée des Routes"
