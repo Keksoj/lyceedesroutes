@@ -12,6 +12,6 @@ pandoc pagetitre.md ../src/* \
 --latex-engine=xelatex \
 --output lelyceedesroutes.pdf
 
-evince lelyceedesroutes.pdf &
+# evince lelyceedesroutes.pdf &
 
 # --template=template.tex \

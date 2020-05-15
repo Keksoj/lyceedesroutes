@@ -14,11 +14,11 @@ mais il faut refaire la mise en page entièrement selon qu'on veut par exemple 
 Afin d'éviter ce genre de manipulations, j'ai opté pour une solution modulaire.
 D'un côté, la rédaction du texte, de l'autre, son édition.
 
-| | rédaction | exportation |
-| :---: | :-------: | :-----: |
+| hi | rédaction | exportation |
+| :--- | :-------: | :-----: |
 | **se concentre sur...** |  le fond | la forme |
 | **doit être...** | la plus simple possible | la plus performante possible |
-| **outil utilisé :** | mardown | pandoc |
+| **outil utilisé :** | mardown | pandoc, mdbook |
 
 ***
 
@@ -77,7 +77,7 @@ git clone https://github.com/Keksoj/lyceedesroutes.git
 cd lelyceedesroutes
 ```
 
-
+Des instructions détaillées sont présentes dans les dossiers respectifs.
 
 
 
