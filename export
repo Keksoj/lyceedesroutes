@@ -45,7 +45,7 @@ check_cmd() {
 }
 
 web() {
-    if ! check_cmd mdboor; then
+    if ! check_cmd mdbook; then
         echo "Veuillez installer rust et mdbook" && exit 1
     fi
 

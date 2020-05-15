@@ -7,5 +7,5 @@ src = "src"
 language = "fr"
 
 [output.html]
-additional-css = ["mdbook/cursom.css"]
+additional-css = ["mdbook/custom.css"]
 git-repository-url = "https://github.com/Keksoj/lyceedesroutes"

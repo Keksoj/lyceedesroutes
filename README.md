@@ -77,7 +77,7 @@ git clone https://github.com/Keksoj/lyceedesroutes.git
 cd lelyceedesroutes
 ```
 
-Exécuter le script `export` :
+Exécuter le script `export`, par exemple `./export web`
 
 ```
 USAGE:
