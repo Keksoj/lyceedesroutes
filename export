@@ -41,22 +41,21 @@ main() {
 }
 
 check_cmd() {
-    command -v "$1" >/dev/null 2>&1
+    if ! command -v "$1" >/dev/null 2>&1; then
+        echo "Veuillez installer $1"
+        exit 1
+    fi
 }
 
 web() {
-    if ! check_cmd mdbook; then
-        echo "Veuillez installer rust et mdbook" && exit 1
-    fi
+    check_cmd mdbook
 
     git pull
     mdbook build
 }
 
 epub() {
-    if ! check_cmd pandoc; then
-        echo "Veuillez installer pandoc" && exit 1
-    fi
+    check_cmd pandoc
 
     pandoc --data-dir=epub \
         --toc-depth=1 \
@@ -66,14 +65,8 @@ epub() {
 }
 
 pdf() {
-    if ! check_cmd pandoc ; then
-        echo "Veuillez installer pandoc"
-    fi
-
-    if ! check_cmd pdflatex; then
-        echo "Veuillez installer xelatex"
-        exit 1
-    fi
+    check_cmd pandoc
+    check_cmd pdflatex
 
     pandoc latex/pagetitre.md \
         src/* \
@@ -84,14 +77,7 @@ pdf() {
 }
 
 latex() {
-    if ! check_cmd pandoc ; then
-        echo "Veuillez installer pandoc"
-    fi
-
-    if ! check_cmd pdflatex; then
-        echo "Veuillez installer xelatex"
-        exit 1
-    fi
+    check_cmd pandoc
     
     pandoc pagetitre.md ../src/* \
         --verbose --top-level-division=chapter \
