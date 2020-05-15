@@ -1,0 +1,104 @@
+#!/usr/bin/env bash
+
+usage() {
+    cat 1>&2 <<EOF
+exporter le Lycée des Routes
+
+USAGE:
+    export [COMMANDE]
+
+COMMANDES
+    web             (ré)exporte la version web du livre avec mdbook
+    epub            (ré)exporte l'epub
+    pdf             (ré)exporte le PDF
+    latex           (ré)exporte le fichier latex (débugage)
+    help            Affiche ce message
+EOF
+}
+
+main() {
+    case "$1" in
+    mdbook)
+        mdbook
+        ;;
+    epub)
+        epub
+        ;;
+    pdf)
+        pdf
+        ;;
+    latex)
+        latex
+        ;;
+    help)
+        usage
+        ;;
+    *)
+        echo "Besoin d'un argument valide"
+        usage
+        ;;
+    esac
+}
+
+check_cmd() {
+    command -v "$1" >/dev/null 2>&1
+}
+
+web() {
+    if ! check_cmd mdboor; then
+        echo "Veuillez installer rust et mdbook" && exit 1
+    fi
+
+    git pull
+    mdbook build
+}
+
+epub() {
+    if ! check_cmd pandoc; then
+        echo "Veuillez installer pandoc" && exit 1
+    fi
+
+    pandoc --data-dir=epub \
+        --toc-depth=1 \
+        epub/metadata.yaml \
+        src/* \
+        --output exports/lelyceedesroutes.epub
+}
+
+pdf() {
+    if ! check_cmd pandoc ; then
+        echo "Veuillez installer pandoc"
+    fi
+
+    if ! check_cmd pdflatex; then
+        echo "Veuillez installer xelatex"
+        exit 1
+    fi
+
+    pandoc latex/pagetitre.md \
+        src/* \
+        --verbose --top-level-division=chapter \
+        --variable=indent \
+        --pdf-engine=xelatex \
+        --output exports/lelyceedesroutes.pdf
+}
+
+latex() {
+    if ! check_cmd pandoc ; then
+        echo "Veuillez installer pandoc"
+    fi
+
+    if ! check_cmd pdflatex; then
+        echo "Veuillez installer xelatex"
+        exit 1
+    fi
+    
+    pandoc pagetitre.md ../src/* \
+        --verbose --top-level-division=chapter \
+        --variable=indent \
+        --template=template.tex \
+        --standalone --output exports/test.tex
+}
+
+
+main "$1" || exit 1

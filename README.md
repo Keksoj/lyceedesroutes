@@ -77,7 +77,19 @@ git clone https://github.com/Keksoj/lyceedesroutes.git
 cd lelyceedesroutes
 ```
 
-Des instructions détaillées sont présentes dans les dossiers respectifs.
+Exécuter le script `export` :
+
+```
+USAGE:
+    export [COMMANDE]
+
+COMMANDES
+    web             (ré)exporte la version web du livre avec mdbook
+    epub            (ré)exporte l'epub
+    pdf             (ré)exporte le PDF
+    latex           (ré)exporte le fichier latex (débugage)
+    help            Affiche ce message
+```
 
 
 
