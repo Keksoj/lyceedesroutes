@@ -9,4 +9,4 @@ Le sommaire est accessible par le bouton situé tout en haut à gauche.
 N'hésitez pas à changer la décoration du texte grâce au bouton pinceau juste à côté.  
 Pour commencer la lecture, cliquez sur la grande flèche située à droite.
 
-Le code source de ce site est consultable [ici](https://github.com/Keksoj/keksoj.github.io) et le voici au [format epub pour liseuse](https://github.com/Keksoj/lyceedesroutes/raw/master/lelyceedesroutes.epub).
+Le code source de ce site est consultable [ici](https://github.com/Keksoj/lyceedesroutes) et le voici au [format epub pour liseuse](https://github.com/Keksoj/lyceedesroutes/raw/master/lelyceedesroutes.epub).

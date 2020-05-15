@@ -7,5 +7,5 @@ src = "src"
 language = "fr"
 
 [output.html]
-additional-css = ["indent_the_book.css"]
+additional-css = ["epub/indent_the_book.css"]
 git-repository-url = "https://github.com/Keksoj/lyceedesroutes"

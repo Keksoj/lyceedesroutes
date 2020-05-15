@@ -4,8 +4,9 @@
 # --chapters change la classe du document en {book}
 # --variable=indent pour l'indentation des paragraphes
 
+cd latex
 
-pandoc pagetitre.markdown src/* \
+pandoc pagetitre.md ../src/* \
 --verbose --chapters \
 --variable=indent \
 --latex-engine=xelatex \

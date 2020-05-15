@@ -78,23 +78,6 @@ cd lelyceedesroutes
 ```
 
 
-### Exporter en HTML
-
-Il suffit d'éxécuter le script `html.sh`
-
-```sh
-./html.sh
-```
-
-qui lui-même fait :
-
-```sh
-pandoc pagetitre.markdown src/* --css=html.css -o lelyceedesroutes.html --self-contained
-```
-
-* `pagetitre.markdown` contient des métadonnées.
-* La décoration, définie dans `html.css`, est incluse dans la page HTML produite, grâce à l'option `--self-contained`
-
 ### Exporter en EPUB
 
 Pandoc est assez agile pour créer un epub largement présentable avec seulement les fichiers markdown, des métadonnées, et de la décoration en CSS.
