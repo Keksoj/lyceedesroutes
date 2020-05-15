@@ -18,8 +18,8 @@ EOF
 
 main() {
     case "$1" in
-    mdbook)
-        mdbook
+    web)
+        web
         ;;
     epub)
         epub
