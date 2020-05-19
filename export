@@ -51,7 +51,9 @@ web() {
     check_cmd mdbook
 
     git pull
-    mdbook build
+
+    cp -v src/* mdbook/src/
+    mdbook build mdbook
 }
 
 epub() {
@@ -68,23 +70,28 @@ pdf() {
     check_cmd pandoc
     check_cmd pdflatex
 
-    pandoc latex/pagetitre.md \
-        src/* \
+    cd latex/
+
+    pandoc pagetitre.md \
+        ../src/* \
         --verbose --top-level-division=chapter \
         --variable=indent \
+        --template=template.tex \
         --pdf-engine=xelatex \
-        --output exports/lelyceedesroutes.pdf
+        --output ../exports/lelyceedesroutes.pdf
 }
 
 latex() {
     check_cmd pandoc
-    
-    pandoc pagetitre.md ../src/* \
+
+    cd latex/
+
+    pandoc pagetitre.md \
+        ../src/* \
         --verbose --top-level-division=chapter \
         --variable=indent \
         --template=template.tex \
         --standalone --output exports/test.tex
 }
-
 
 main "$1" || exit 1

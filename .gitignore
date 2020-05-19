@@ -1,4 +1,13 @@
 journal
-book
+web-book
 exports
 epub/couverture.png
+
+mdbook/src/*
+!mdbook/src/introduction.md
+!mdbook/src/SUMMARY.md
+
+latex/template.*
+!latex/template.tex
+latex/_*
+
