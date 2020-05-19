@@ -9,5 +9,7 @@ mdbook/src/*
 
 latex/template.*
 !latex/template.tex
+latex/lelyceedesroutes.*
 latex/_*
+
 

@@ -27,9 +27,6 @@ main() {
     pdf)
         pdf
         ;;
-    latex)
-        latex
-        ;;
     help)
         usage
         ;;
@@ -68,30 +65,21 @@ epub() {
 
 pdf() {
     check_cmd pandoc
+
+    echo "Pandoc calls for aid!"
+
+    pandoc latex/pagetitre.md \
+        src/* \
+        --verbose --top-level-division=chapter \
+        --variable=indent \
+        --template=latex/template.tex \
+        --standalone --output exports/lelyceedesroutes.tex
+
     check_cmd pdflatex
-
-    cd latex/
-
-    pandoc pagetitre.md \
-        ../src/* \
-        --verbose --top-level-division=chapter \
-        --variable=indent \
-        --template=template.tex \
-        --pdf-engine=xelatex \
-        --output ../exports/lelyceedesroutes.pdf
+    echo "pdflatex will respond!"
+    cd exports
+    pdflatex lelyceedesroutes.tex
 }
 
-latex() {
-    check_cmd pandoc
-
-    cd latex/
-
-    pandoc pagetitre.md \
-        ../src/* \
-        --verbose --top-level-division=chapter \
-        --variable=indent \
-        --template=template.tex \
-        --standalone --output exports/test.tex
-}
 
 main "$1" || exit 1

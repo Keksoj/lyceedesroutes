@@ -44,7 +44,7 @@ pandoc -D latex >> template.tex
 puis le modifier, et une fois customisé, l'utiliser de la sorte :
 
 ```sh
-pandoc document.md --template=template.tex -s -o test.tex
+pandoc document.md --template=template.tex -s -o document.tex
 ```
 
 Le plus simple est d'ajouter à `template.tex` la ligne suivante :
@@ -55,20 +55,12 @@ Le plus simple est d'ajouter à `template.tex` la ligne suivante :
 
 qui appelle le fichier `mystyle.sty`, créé par votre serviteur, endroit privilégié pour appeler des packages et faire des réglages fins.
 
-Suivre ces étapes permet de créer un fichier `test.tex` largement lisible, ce qui est plutôt rassurant. Le script `debug.sh` est dédié à cette phase de débugage.
+Suivre ces étapes permet de créer un fichier `test.tex` largement lisible, ce qui est plutôt rassurant.
 
-#### La commande complète
+On peut ensuite demander à `pdflatex` de convertir en PDF :
 
-est présente dans `pdf.sh` et se présente ainsi :
-
-```sh
-pandoc pagetitre.md ../src/* \
---verbose --chapters \
---variable=indent \
---template=template.tex \
---latex-engine=xelatex \
---output lelyceedesroutes.pdf
+```   
+pdflatex document.tex
 ```
 
-* `--chapters` change la classe du document en `{book}`
-* `--variable=indent` pour l'indentation des paragraphes
+Le script `export pdf` effectue ces deux étapes séparément pour faciliter le débugage.

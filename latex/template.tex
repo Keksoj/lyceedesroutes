@@ -11,11 +11,11 @@ $if(linestretch)$
 \usepackage{setspace}
 \setstretch{$linestretch$}
 $endif$
-\usepackage{amssymb,amsmath}
+\usepackage{amssymb}
 \usepackage{ifxetex,ifluatex}
 
-%appeler mystyle.sty
-\usepackage{mystyle}
+% appeler mystyle.sty, mais pour le moment ça fait tout foirer
+% \usepackage{mystyle}
 
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[$if(fontenc)$$fontenc$$else$T1$endif$]{fontenc}
