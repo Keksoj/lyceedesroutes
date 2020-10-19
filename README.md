@@ -18,7 +18,7 @@ D'un côté, la rédaction du texte, de l'autre, son édition.
 | :---- | :----: | :---: |
 | **se concentre sur...** |  le fond | la forme |
 | **doit être...** | la plus simple possible | la plus performante possible |
-| **outil utilisé :** | mardown | pandoc, mdbook |
+| **outil utilisé :** | mardown | pandoc, latex, mdbook |
 
 ***
 
@@ -86,8 +86,7 @@ USAGE:
 COMMANDES
     web             (ré)exporte la version web du livre avec mdbook
     epub            (ré)exporte l'epub
-    pdf             (ré)exporte le PDF
-    latex           (ré)exporte le fichier latex (débugage)
+    pdf             (ré)exporte le PDF (et le fichier .tex au passage)
     help            Affiche ce message
 ```
 

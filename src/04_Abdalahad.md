@@ -40,8 +40,8 @@ Ah, oui. Le manque que je ressens et qui serait un excès de science.
 C'est quand même terrible d'en être arrivé là, mais puisque c'est ainsi... trop de science tue la science.
 Bien. Nom d'un quark, je n'ai jamais réfléchi comme ça !
 
-Voyons. Il me faut en savoir plus sur l'ignorance. Voilà la clé. Bien. Donc, où...
-... ah, oui. Les Humains.
+Voyons. Il me faut en savoir plus sur l'ignorance. Voilà la clé. Bien. Donc, où…
+…ah, oui. Les Humains.
 Gogol de neutrons ! Mais c'est bien sûr ! Ces Humains baignent dans l'ignorance !
 C'était la réponse à mes questionnements.
 En toute logique (tu parles de logique), c'est auprès d'eux que je comprendrai ce qui me voile l'esprit.
@@ -49,7 +49,7 @@ Me faudrait-il donc apprendre l'ignorance des Humains ?
 C'est le comble ! Un ignorant donne-t-il des cours ?
 
 Allons ! Rien de tel que l'expérience, rien de tel que l'observation.
-Je vais seulement choisir une portion infinitésimale d'espace-temps où vivent des Humains... en voilà !
+Je vais seulement choisir une portion infinitésimale d'espace-temps où vivent des Humains… en voilà !
 Ils semblent jeunes et se réunissent tous les jours dans un lieu où ils apprennent à vivre.
 Au moment même où leur corps s'est transformé, prêt à se reproduire, ils doivent assimiler des choses qui les préparent à un futur dont ils ignorent tout.
 Plongés dans le présent ! Les pauvres !

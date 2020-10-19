@@ -55,12 +55,12 @@ Le plus simple est d'ajouter à `template.tex` la ligne suivante :
 
 qui appelle le fichier `mystyle.sty`, créé par votre serviteur, endroit privilégié pour appeler des packages et faire des réglages fins.
 
-Suivre ces étapes permet de créer un fichier `test.tex` largement lisible, ce qui est plutôt rassurant.
+Suivre ces étapes permet de créer un fichier `lelyceedesroutes.tex` largement lisible, ce qui est plutôt rassurant.
 
 On peut ensuite demander à `pdflatex` de convertir en PDF :
 
 ```   
-pdflatex document.tex
+pdflatex lelyceedesroutes.tex
 ```
 
 Le script `export pdf` effectue ces deux étapes séparément pour faciliter le débugage.

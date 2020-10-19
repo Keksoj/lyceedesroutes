@@ -1,6 +1,6 @@
 # Le Lycée des Routes
 
-Une nouvelle initiatique de 40 000 mots rédigée en [markdown](https://fr.wikipedia.org/wiki/Markdown) et [publiée sur Github](https://github.com/Keksoj/lyceedesroutes).
+Une nouvelle de 40 000 mots rédigée en [markdown](https://fr.wikipedia.org/wiki/Markdown) et [publiée sur Github](https://github.com/Keksoj/lyceedesroutes).
 
 Ce livre en ligne a été créé grâce à [mdbook](https://rust-lang-nursery.github.io/mdBook/index.html),
 un outil en ligne de commande de l'écosystème [Rust](https://www.rust-lang.org/).

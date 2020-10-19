@@ -29,6 +29,5 @@ Cloner ce dépôt sur votre machine, lancer le script (le rendre exécutable au 
 ```sh
 git clone https://github.com/Keksoj/lyceedesroutes.git
 cd lyceedesroutes
-chmod +x mdbook.sh
-./mdbook.sh
+./export web
 ```

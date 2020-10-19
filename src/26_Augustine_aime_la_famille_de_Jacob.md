@@ -138,7 +138,7 @@ Il est temps de m'éclipser.
 Là-dessus, je vais m'installer dans le salon, où, posée dans le fauteuil de M. Mlynikowski, je contemple Manon qui dessine dans un cahier de coloriage My Little Pony, pendant que Jacob fait courir son stylo-plume dans un carnet Paperblanks.
 Saloperie de famille heureuse, pourquoi n'y ai-je pas eu droit ?
 
-Je pourrais leur parler, je pourrais rester à les regarder.
+Je pourrais leur parler, je pourrais rester sans rien dire.
 Va pour la deuxième option.
 Il est temps pour un tour de manège philosophique.
 
@@ -157,7 +157,7 @@ Or, la prof de philo nous a fait bosser sur l'importance de bien décortiquer un
 
 Ça me prends la tête, tout ça.
 Je n'ai jamais compris où la prof voulait en venir.
-Je ferais mieux d'en venir à une question plus simple, comme celle qui s'était déjà imposée à moi.
+Je ferais mieux de m'en tenir à une question plus simple, comme celle qui s'était déjà imposée à moi.
 Qu'est-ce qu'un humain ?
 
 Un humain est un être biologique, un primate avec des pouces opposables (pratiques pour dessiner) et un gros cerveau (pratique pour inventer l'écriture).
@@ -177,7 +177,7 @@ Heureusement que j'écoute en classe, parfois.
 
 — Donc, un humain est un discours sur la vie ?
 
-Je dois m'arrêter là.
+Je m'arrête là.
 Suis-je vraiment en train de parler avec moi-même ?
 Est-ce le cannabis qui me fait vriller, ou le fauteuil du père de Jacob qui m'entraîne dans ces pensées bizarroïdes ?
 Pourtant, tout va bien.

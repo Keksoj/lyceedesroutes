@@ -2,22 +2,22 @@
 
 Je m'appelle Jacob.
 Souvent, je me demande à quoi ma vie ressemblerait si l'on m'avait donné un autre prénom.
-Le prénom, j'en ai l'impression, nous définit plus qu'on ne l'imagine.
-Si l'on m'avait donné un autre prénom, serait-ce encore moi ? Improbable.
+Le prénom, nous définit plus qu'on ne s'en doute.
+Si l'on m'avait donné un autre prénom, serait-je encore moi ? Improbable.
 Je n'aurais pas pu m'appeler Sébastien ou Jean.
-Dans ce cas, je n'aurais pas été moi-même.
-Sébastien, ou Jean, aurait grandi, appris la vie, mais n'aurait pas été moi, n'est-ce pas ?
+Je n'aurais pas été moi-même.
+Sébastien ou Jean auraient grandi, appris la vie, mais n'auraient pas été moi, n'est-ce pas ?
 Je n'en suis pas très sûr cependant.
 Ce que je sais, c'est que je me pose souvent la question.
 
 Je m'appelle Jacob, donc.
-Ma vie officielle est terriblement ennuyeuse.
+Ma vie publique est terriblement ennuyeuse.
 Je traîne ma carcasse maigre et habillée de noir dans les couloirs du lycée des Routes, de salle en salle, avec l'impression d'être parfaitement inutile à la société.
 De cours en cours, rien ne m'intéresse vraiment, ni le sujet d'études, ni les camarades de classe.
 Au collège, on m'embêtait beaucoup à cause de mon isolement, on me martyrisait.
-Aujourd'hui, c'est l'indifférence qui prévaut.
+Aujourd'hui, l'indifférence prévaut.
 Je nage dans le grand aquarium du lycée, protégé par un nuage de je-m'en-fous-de-toi.
-Et ça me va très bien.
+Ça me va très bien.
 Je médite dans ma bulle de silence.
 
 — M. Mlynikowski ! Lisez donc la question suivante.
@@ -29,16 +29,16 @@ J'avais zappé que j'étais en cours, emporté par mes réflexions.
 
 — Eh bien, il semble que nous ayons encore perdu Jacob sur Mars. Redescendez un peu sur Terre pour voir.
 
-Concert de ricanements la classe.
-J'ai trop l'habitude pour me vexer davantage.
-Je repose ma question calmement à Mme Vallois-Guybrush, qui m'indique l'endroit, et je lis à voix haute, dans mon mauvais accent :
+Concert de ricanements dans la classe.
+J'ai trop l'habitude pour me vexer.
+Je repose ma question calmement à Mme Vallois-Guybrush, qui m'indique l'endroit, et lis à voix haute, dans mon mauvais accent :
 
 — If one goes to the US with a valid visa on a turkish passport, what could possibly go wrong ?
 
 Ah, oui, on parle d'espace et échanges, flux migratoires et caetera.
 J'esquisse une réponse dans un anglais approximatif, la prof comprend que j'ai bien lu l'article.
-Seulement, il m'a paru tellement ennuyeux !
-Heureusement, on peut ensuite discuter à propos de la politique américaine d'accueil des travailleurs étrangers.
+Mais il est tellement ennuyeux !
+Heureusement, on peut ensuite discuter de la politique américaine d'accueil des travailleurs étrangers.
 On parle de la barrière qui sépare États-Unis et Mexique, on esquisse même la problématique du Mur de Palestine.
 La prof est très bien pour ça, elle se montre passionnée par l'échange avec les élèves curieux.
 Mais c'est à ce moment que le reste de la classe commence à s'agiter, parce qu'on s'éloigne du cours proprement dit.
@@ -52,7 +52,7 @@ Et au cours suivant.
 
 D'ennui en torpeur, de torpeur en léthargie. Quelques instants d'éveil affleurent pourtant, comme des écueils de lucidité au milieu d'une mer soporifique.
 
-C'est finalement terminé pour la journée de cours.
+La journée de cours se termine enfin.
 Les autres s'activent, je range doucement mes affaires, m'oriente vers la sortie quelques minutes après tout le monde.
 J'ai l'impression d'être un vaisseau spatial qui explore une planète inconnue : des couloirs déserts.
 Je sors du lycée, enveloppé de vent.
@@ -60,16 +60,21 @@ La bise est exquise, elle s'engouffre sous mon manteau et me donne l'impression 
 Le vent, c'est un ami pour moi.
 Il me dit bonjour à l'oreille quand je sors le matin, il me salue à la sortie du lycée, il me raconte des histoires.
 Le vent souffle sur les braises d'une sorte d'inspiration romantique qui ne se réalise jamais complètement.
-Sitôt venu, il n'est déjà plus là, et pourtant – et pourtant ! – j'entends sa voix.<br /><br />
 
-Voilà, j'y suis à nouveau. Ici c'est chez moi. Une maison en pierre construite il y a longtemps, dans la campagne, entourée de deux ou trois maisons semblables, et de larges champs. Papa, maman, grand frère, petite soeur, tout le monde y est. Heureusement, j'ai mon espace à moi, mon espace privé, la chambre en bout de maison. Elle est construite en dehors des murs de pierre, complètement isolée. C'est mon refuge, personne n'y entre à moins que je ne l'y invite.
+Voilà, j'y suis à nouveau. 
+Ici c'est chez moi. 
+Une maison en pierre construite il y a longtemps, dans la campagne, entourée de deux ou trois maisons semblables, et de larges champs. 
+Papa, maman, grand frère, petite soeur, tout le monde y est. 
+J'ai mon espace à moi, mon espace privé, la chambre en bout de maison. 
+Elle est construite en dehors des murs de pierre, complètement isolée. 
+C'est mon refuge, personne n'y entre à moins que je ne l'y invite.
 
-Repas avec la famille.
-Heureusement, ce n'est pas trop difficile de cohabiter avec ces gens-là, vu que je vis avec eux depuis seize ans maintenant. On se connaît, on a nos limites, on a nos fonctionnements.
-Je sais ce que je peux faire pour eux, voilà l'un des rares endroits où je ne me sens pas vraiment inutile.
+Repas en famille.
+Par bonheur, ce n'est pas trop difficile de cohabiter avec ces gens-là, je vis avec eux depuis seize ans maintenant. 
+On se connaît, avec nos fonctionnements, avec nos limites.
 Papa est psy, maman éduc' spé'.
-Ceux-là, ils se sont trouvés, et en général, ils nous laissent de la place et ils parlent clairement quand il le faut.
-Le reste du temps, ils racontent beaucoup de conneries, ils rient fort et ils nous laissent vivre.
+Ceux-là, ils se sont trouvés. Ils parlent clairement quand il le faut.
+Le reste du temps, ils racontent beaucoup de conneries, ils rient fort et nous laissent vivre.
 
 Je finis mon repas, débarrasse mon assiette, retourne dans ma chambre.
 
@@ -77,7 +82,8 @@ Il n'est même pas vingt heures.
 Je vais m'allonger sur le lit.
 Ma main trouve d'elle-même le casque stéréo, que je place sur mes oreilles, ainsi que le lecteur mp3.
 
-Ce que j'écoute, ce soir, ce sont des battements binauraux, ces sons qui diffèrent entre l'oreille gauche et l'oreille droite, différence qui induit une fréquence résiduelle, très basse, qui modifie le rythme cérébral.
+Ce que j'écoute, ce soir, ce sont des battements binauraux, ces sons qui diffèrent entre l'oreille gauche et droite, 
+différence qui induit une fréquence résiduelle, très basse, qui modifie le rythme cérébral.
 J'ai trouvé ça dans les affaires de papa.
 Je crois qu'il ne sait pas que je m'en sers.
 
@@ -106,12 +112,12 @@ Il n'y a plus que du vide, un vide qui appelle tout à s'effondrer sur lui-même
 L'intelligence résiste un peu, prise par des réflexions sur le processus, mais la conscience, le sentiment d'être moi, se détache de tout.
 Le corps physique et l'intelligence n'ont plus d'importance désormais, seule compte cette conscience, sortie du corps et du mental.
 
-La conscience monte, monte, dans des champs de pures vibrations, jusqu'à atteindre un lieu plein de lumière.
-C'est un lieu que j'ai déjà visité, c'est là que je rencontre cette autre présence, cette présence chaleureuse, qui salue ma conscience désincarnée.
+La conscience monte, monte, dans des champs de pures vibrations, jusqu'à atteindre un lieu de pleine lumière.
+C'est un lieu que j'ai déjà visité, c'est là que je rencontre cette autre présence chaleureuse, qui salue ma conscience désincarnée.
 
 — Heureux de te sentir à nouveau, Jacob. Comment vas-tu ?
 
-Sa voix vibre doucement, comme le son d'un synthétiseur, mais de manière beaucoup plus naturelle, chaude, spontanée.
+Sa voix vibre doucement, comme le son d'un synthétiseur, mais de manière naturelle, chaude, spontanée.
 C'est lui, je le reconnais.
 
 — Bonjour, fais-je. Je vais bien, je crois. Depuis notre dernière conversation, je me suis posé beaucoup de questions.
@@ -149,7 +155,7 @@ Mais c'est peine perdue, je le sens.
 
 — Qu'est-ce que je dois vivre pour apprendre ? essaie-je.
 
-— N'y pense pas trop. Essaie de vivre sans te poser de questions.
+— Essaie de vivre sans te poser de questions.
 
 — Mais c'est impossible !
 
@@ -159,13 +165,13 @@ Encore ce ton léger, mi-sérieux, mi amusé ! Je déteste ça. J'aime autant p
 
 — Bon, très bien, je vais y aller.
 
-— C'est toujours un plaisir, répond-il avec un plaisir manifeste.
+— C'est toujours un plaisir, répond-il, et son plaisir est manifeste.
 
 Et je redescends dans mon corps. Je le retrouve dans l'état où je l'avais quitté, juste un peu engourdi.
 Une différence notable : la vessie appelle à être vidée.
 
 Assis sur les toilettes, je songe à ma conversation avec Gabriel.
-Oui, je l'ai appellé Gabriel, depuis que je le connais, par manque d'imagination.
+Oui, je l'appelle Gabriel, depuis que je le connais, par manque d'inspiration.
 Bien sûr, je ne suis pas assez taré pour croire que je parle avec Dieu par l'intermédiaire d'un ange.
 Mais je n'ai aucune idée de qui est Gabriel, de l'endroit où je le rencontre, ou de quoi que ce soit de concret à propos de lui.
 Tout ce que je sais, c'est que je m'accroche à lui pour essayer d'apprendre des choses valables sur le monde et sur moi-même, et que lui, il ne fait que me poser plus de questions.
@@ -173,6 +179,6 @@ J'ai chaque fois l'impression distincte qu'il se moque gentiment de moi, comme s
 Pourtant, il n'y a que quelques mois que j'ai trouvé ces sons binauraux et que je sors régulièrement de mon corps.
 
 Gabriel est un maître patient mais bien mystérieux.
-J'aimerais bien devenir comme lui, mais pour ça, il faudrait que je sache ce qu'il est.
+J'aimerais devenir comme lui, mais pour ça, il faudrait que je sache ce qu'il est.
 
 Bon, allez, assez de questions pour aujourd'hui. Je tire la chasse d'eau et vais me coucher.

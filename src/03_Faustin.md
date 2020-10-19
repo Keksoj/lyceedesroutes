@@ -8,17 +8,17 @@ Je m'empresse de la recouvrir des habits de la veille : un pantalon de velours 
 Là-dessus, j'enfile mes chaussures, qui étaient posées à côté de mon lit.
 Toute ma routine matinale consiste à me préparer à aller en cours sans sortir de ma chambre.
 De cette manière, me voilà tout prêt à partir, assis sur mon lit.
-Je n'ai plus qu'à saisir la petite pipe en bois posée sur ma table de nuit, la bourrer de tabac et d'herbe de cannabis, la démarrer avec une allumette (c'est plus fiable qu'un briquet), tirer dessus avec l'art conféré par l'habitude, et j'ai plusieurs minutes de confort pour me préparer effectivement à ma journée.
+Je n'ai plus qu'à saisir la petite pipe en bois posée sur ma table de nuit, la bourrer de tabac et d'herbe de cannabis, la démarrer avec une allumette (c'est plus fiable qu'un briquet), tirer dessus avec l'art conféré par l'habitude, et j'ai plusieurs minutes de confort pour me préparer effectivement à ma journée.S
 Je contemple la mosaïque de gouttes d'eau qui perlent sur mon vélux.
 J'ai l'esprit vide.
 
 
-Ensuite, je n'ai qu'à me lever de mon lit, saisir mon sac criblé de badges de groupes de rock, sortir de ma chambre, descendre l'escalier, traverser le salon et la cuisine vides, sortir dehors.
+Ensuite, je n'ai qu'à me lever de mon lit, saisir mon sac criblé de badges de groupes de rock, sortir de ma chambre, descendre l'escalier, traverser le salon et la cuisine vides, sortir.
 Les effluves de cannabis s'échapperont par mon vélux pendant la journée.
 De toutes façons, mon père est prof de fac (il enseigne l'histoire mérovingienne), il n'est jamais là, et puis, il ne fait pas trop gaffe.
 
 
-Parvenu dehors et lancé sur le chemin du lycée (j'ai quinze minutes de marche), je fourre des écouteurs dans mes oreilles et je les connecte à mon smartphone.
+Parvenu dehors et lancé sur le chemin du lycée (j'ai quinze minutes de marche), je fourre mes écouteurs dans les oreilles et les connecte à mon smartphone.
 Pétroushka, de Stravinski, par le Cleveland Orchestra dirigé par Pierre Boulez.
 Les flûtes et les cordes chantent un hymne à la nature qui se réveille.
 C'est parfait pour commencer la journée.
