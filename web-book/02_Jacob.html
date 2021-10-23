@@ -1,0 +1,373 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Jacob</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        
+        <link rel="stylesheet" href="css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="custom.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="introduction.html">Introduction</a></li><li class="chapter-item expanded "><a href="01_Augustine.html"><strong aria-hidden="true">1.</strong> Augustine</a></li><li class="chapter-item expanded "><a href="02_Jacob.html" class="active"><strong aria-hidden="true">2.</strong> Jacob</a></li><li class="chapter-item expanded "><a href="03_Faustin.html"><strong aria-hidden="true">3.</strong> Faustin</a></li><li class="chapter-item expanded "><a href="04_Abdalahad.html"><strong aria-hidden="true">4.</strong> Abdalahad</a></li><li class="chapter-item expanded "><a href="05_Augustin_bugue.html"><strong aria-hidden="true">5.</strong> Il y a un bug</a></li><li class="chapter-item expanded "><a href="06_Jacob_bugue.html"><strong aria-hidden="true">6.</strong> Jacob a un bug</a></li><li class="chapter-item expanded "><a href="07_Faustin_bugue.html"><strong aria-hidden="true">7.</strong> Faustin a un bug</a></li><li class="chapter-item expanded "><a href="08_Abdalahad_encore.html"><strong aria-hidden="true">8.</strong> Abdalahad devise encore</a></li><li class="chapter-item expanded "><a href="09_Augustine_CPE.html"><strong aria-hidden="true">9.</strong> Augustine face au CPE</a></li><li class="chapter-item expanded "><a href="10_Jacob_CPE.html"><strong aria-hidden="true">10.</strong> Jacob face au CPE</a></li><li class="chapter-item expanded "><a href="11_Faustin_CPE.html"><strong aria-hidden="true">11.</strong> Faustin face au CPE</a></li><li class="chapter-item expanded "><a href="12_Abdalahad_se_questionne.html"><strong aria-hidden="true">12.</strong> Abdalahad réfléchit</a></li><li class="chapter-item expanded "><a href="13_Augustine_pere.html"><strong aria-hidden="true">13.</strong> Tuer le père</a></li><li class="chapter-item expanded "><a href="14_Jacob_pere.html"><strong aria-hidden="true">14.</strong> Retour sur Terre</a></li><li class="chapter-item expanded "><a href="15_Faustin_pere.html"><strong aria-hidden="true">15.</strong> Faustin et son père</a></li><li class="chapter-item expanded "><a href="16_Abdalahad_souffle_plus_fort.html"><strong aria-hidden="true">16.</strong> Abdalahad devise</a></li><li class="chapter-item expanded "><a href="17_Aux_urgences.html"><strong aria-hidden="true">17.</strong> À l'hôpital</a></li><li class="chapter-item expanded "><a href="18_Augustine_sortie.html"><strong aria-hidden="true">18.</strong> Augustine hors de l'HP</a></li><li class="chapter-item expanded "><a href="19_Jacob_dans_le_mal.html"><strong aria-hidden="true">19.</strong> Dans le mal</a></li><li class="chapter-item expanded "><a href="20_Faustin_retrouve_Augustine.html"><strong aria-hidden="true">20.</strong> Faustin retrouve Augustine</a></li><li class="chapter-item expanded "><a href="21_Abdalahad_incertain.html"><strong aria-hidden="true">21.</strong> Abdalahad incertain</a></li><li class="chapter-item expanded "><a href="22_Le_pere_de_Jacob.html"><strong aria-hidden="true">22.</strong> Le père de Jacob broie du noir</a></li><li class="chapter-item expanded "><a href="23_Convaincre_le_pere_de_Jacob.html"><strong aria-hidden="true">23.</strong> Convaincre le père de Jacob</a></li><li class="chapter-item expanded "><a href="24_Jacob_sort.html"><strong aria-hidden="true">24.</strong> Jacob sort de l'HP</a></li><li class="chapter-item expanded "><a href="25_Faustin_et_le_vortex.html"><strong aria-hidden="true">25.</strong> Le vortex</a></li><li class="chapter-item expanded "><a href="26_Augustine_aime_la_famille_de_Jacob.html"><strong aria-hidden="true">26.</strong> Dans la famille de Jacob</a></li><li class="chapter-item expanded "><a href="27_Jacob_et_les_voyageurs_temporels.html"><strong aria-hidden="true">27.</strong> Les voyageurs temporels</a></li><li class="chapter-item expanded "><a href="28_Faustin_dialogue_final.html"><strong aria-hidden="true">28.</strong> Le dialogue et l'extase</a></li><li class="chapter-item expanded "><a href="29_Augustine_tombe_enceinte.html"><strong aria-hidden="true">29.</strong> Les conséquences</a></li><li class="chapter-item expanded "><a href="30_Jacob_assume.html"><strong aria-hidden="true">30.</strong> Jacob assume</a></li><li class="chapter-item expanded "><a href="31_Faustin_et_l_accouchement.html"><strong aria-hidden="true">31.</strong> La mort et la naissance</a></li><li class="chapter-item expanded "><a href="32_Augustine_denouement.html"><strong aria-hidden="true">32.</strong> Le dénouement</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title"></h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        
+                        <a href="https://github.com/Keksoj/lyceedesroutes" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="jacob"><a class="header" href="#jacob">Jacob</a></h1>
+<p>Je m'appelle Jacob.
+Souvent, je me demande à quoi ma vie ressemblerait si l'on m'avait donné un autre prénom.
+Le prénom, nous définit plus qu'on ne s'en doute.
+Si l'on m'avait donné un autre prénom, serait-je encore moi ? Improbable.
+Je n'aurais pas pu m'appeler Sébastien ou Jean.
+Je n'aurais pas été moi-même.
+Sébastien ou Jean auraient grandi, appris la vie, mais n'auraient pas été moi, n'est-ce pas ?
+Je n'en suis pas très sûr cependant.
+Ce que je sais, c'est que je me pose souvent la question.</p>
+<p>Je m'appelle Jacob, donc.
+Ma vie publique est terriblement ennuyeuse.
+Je traîne ma carcasse maigre et habillée de noir dans les couloirs du lycée des Routes, de salle en salle, avec l'impression d'être parfaitement inutile à la société.
+De cours en cours, rien ne m'intéresse vraiment, ni le sujet d'études, ni les camarades de classe.
+Au collège, on m'embêtait beaucoup à cause de mon isolement, on me martyrisait.
+Aujourd'hui, l'indifférence prévaut.
+Je nage dans le grand aquarium du lycée, protégé par un nuage de je-m'en-fous-de-toi.
+Ça me va très bien.
+Je médite dans ma bulle de silence.</p>
+<p>— M. Mlynikowski ! Lisez donc la question suivante.</p>
+<p>Merde. C'est la prof d'anglais qui m'adresse la parole.
+J'avais zappé que j'étais en cours, emporté par mes réflexions.</p>
+<p>— Heu, pardon, je ne suis pas sûr d'avoir bien suivi, on en est à quelle question ?</p>
+<p>— Eh bien, il semble que nous ayons encore perdu Jacob sur Mars. Redescendez un peu sur Terre pour voir.</p>
+<p>Concert de ricanements dans la classe.
+J'ai trop l'habitude pour me vexer.
+Je repose ma question calmement à Mme Vallois-Guybrush, qui m'indique l'endroit, et lis à voix haute, dans mon mauvais accent :</p>
+<p>— If one goes to the US with a valid visa on a turkish passport, what could possibly go wrong ?</p>
+<p>Ah, oui, on parle d'espace et échanges, flux migratoires et caetera.
+J'esquisse une réponse dans un anglais approximatif, la prof comprend que j'ai bien lu l'article.
+Mais il est tellement ennuyeux !
+Heureusement, on peut ensuite discuter de la politique américaine d'accueil des travailleurs étrangers.
+On parle de la barrière qui sépare États-Unis et Mexique, on esquisse même la problématique du Mur de Palestine.
+La prof est très bien pour ça, elle se montre passionnée par l'échange avec les élèves curieux.
+Mais c'est à ce moment que le reste de la classe commence à s'agiter, parce qu'on s'éloigne du cours proprement dit.
+Ils ne veulent apprendre que les éléments du programme.
+Comme ils sont fatigants !
+Et puis, la cloche sonne la fin de l'heure.</p>
+<p>On passe au cours suivant.</p>
+<p>Et au cours suivant.</p>
+<p>D'ennui en torpeur, de torpeur en léthargie. Quelques instants d'éveil affleurent pourtant, comme des écueils de lucidité au milieu d'une mer soporifique.</p>
+<p>La journée de cours se termine enfin.
+Les autres s'activent, je range doucement mes affaires, m'oriente vers la sortie quelques minutes après tout le monde.
+J'ai l'impression d'être un vaisseau spatial qui explore une planète inconnue : des couloirs déserts.
+Je sors du lycée, enveloppé de vent.
+La bise est exquise, elle s'engouffre sous mon manteau et me donne l'impression d'être un deltaplane, léger comme l'air.
+Le vent, c'est un ami pour moi.
+Il me dit bonjour à l'oreille quand je sors le matin, il me salue à la sortie du lycée, il me raconte des histoires.
+Le vent souffle sur les braises d'une sorte d'inspiration romantique qui ne se réalise jamais complètement.</p>
+<p>Voilà, j'y suis à nouveau. 
+Ici c'est chez moi. 
+Une maison en pierre construite il y a longtemps, dans la campagne, entourée de deux ou trois maisons semblables, et de larges champs. 
+Papa, maman, grand frère, petite soeur, tout le monde y est. 
+J'ai mon espace à moi, mon espace privé, la chambre en bout de maison. 
+Elle est construite en dehors des murs de pierre, complètement isolée. 
+C'est mon refuge, personne n'y entre à moins que je ne l'y invite.</p>
+<p>Repas en famille.
+Par bonheur, ce n'est pas trop difficile de cohabiter avec ces gens-là, je vis avec eux depuis seize ans maintenant. 
+On se connaît, avec nos fonctionnements, avec nos limites.
+Papa est psy, maman éduc' spé'.
+Ceux-là, ils se sont trouvés. Ils parlent clairement quand il le faut.
+Le reste du temps, ils racontent beaucoup de conneries, ils rient fort et nous laissent vivre.</p>
+<p>Je finis mon repas, débarrasse mon assiette, retourne dans ma chambre.</p>
+<p>Il n'est même pas vingt heures.
+Je vais m'allonger sur le lit.
+Ma main trouve d'elle-même le casque stéréo, que je place sur mes oreilles, ainsi que le lecteur mp3.</p>
+<p>Ce que j'écoute, ce soir, ce sont des battements binauraux, ces sons qui diffèrent entre l'oreille gauche et droite, 
+différence qui induit une fréquence résiduelle, très basse, qui modifie le rythme cérébral.
+J'ai trouvé ça dans les affaires de papa.
+Je crois qu'il ne sait pas que je m'en sers.</p>
+<p>Allongé sur mon lit, les oreilles bercées par des sons qui ne sont pas de ce monde, j'adopte une respiration calme et régulière.</p>
+<p>Je me détends, de plus en plus, jusqu'à sentir<br />
+que mon corps<br />
+n'est plus<br />
+mon<br />
+corps.</p>
+<p>La grande question bien sûr c'est : comment mon corps peut-il ne plus être mon corps ?
+Eh bien, c'est difficile à expliquer.
+Ma conscience n'est plus présente que dans ma tête.
+Le corps, lui... il flotte.
+En fait, il se dédouble.
+Le corps physique, bien sûr, reste à sa place, sur mon lit.
+Mais le corps que je ressens, celui qui est investi par ma conscience en temps normal, celui-là ne tient pas en place.
+Il se lève, il tourne sur lui-même.
+Ou plutôt, je me lève, je tourne sur moi-même.
+Me voilà comme un fantôme raide comme un i majuscule, et je flotte au-dessus de mon lit, seulement attaché à ma tête.
+Parce que toutes ces réflexions sur le dédoublement du corps, je les fais avec la tête, bien sûr.
+Cela aussi doit cesser.</p>
+<p>Il n'y a plus que du vide, un vide qui appelle tout à s'effondrer sur lui-même.
+L'intelligence résiste un peu, prise par des réflexions sur le processus, mais la conscience, le sentiment d'être moi, se détache de tout.
+Le corps physique et l'intelligence n'ont plus d'importance désormais, seule compte cette conscience, sortie du corps et du mental.</p>
+<p>La conscience monte, monte, dans des champs de pures vibrations, jusqu'à atteindre un lieu de pleine lumière.
+C'est un lieu que j'ai déjà visité, c'est là que je rencontre cette autre présence chaleureuse, qui salue ma conscience désincarnée.</p>
+<p>— Heureux de te sentir à nouveau, Jacob. Comment vas-tu ?</p>
+<p>Sa voix vibre doucement, comme le son d'un synthétiseur, mais de manière naturelle, chaude, spontanée.
+C'est lui, je le reconnais.</p>
+<p>— Bonjour, fais-je. Je vais bien, je crois. Depuis notre dernière conversation, je me suis posé beaucoup de questions.</p>
+<p>— Tu ne serais pas toi-même si tu ne te posais pas autant de questions, n'est-ce pas ? me répond-il.</p>
+<p>— Justement, je me suis demandé ce qui fait de moi Jacob. Et si je ne m'appelais pas Jacob ? Aurais-je été un autre ? Aurait-ce été moi ?</p>
+<p>— Crois-tu vraiment que ton nom soit d'une telle importance ici ? Moi-même, j'ai porté beaucoup de noms, et je n'en utilise aucun avec toi. Est-ce que j'existe moins pour autant ?</p>
+<p>— Bien sûr, tu existes, évidemment, et à chaque fois je te reconnais. Mais tu sembles si... sûr de toi. J'aimerais avoir une telle assurance.</p>
+<p>— Une telle assurance est-elle vraiment nécessaire pour ce que tu vis au quotidien ? N'en as-tu pas déjà bien assez pour vivre ?</p>
+<p>Voilà les réponses qu'il me fallait mais que je ne voulais pas entendre. J'essaie de me justifier.</p>
+<p>— Pour vivre, oui. Mais il y a tellement de questions. Plus je discute avec toi, et plus les questions sont nombreuses.</p>
+<p>— C'est magnifique, n'est-ce pas ?</p>
+<p>Il y a comme un ton amusé dans sa voix.
+Je déteste ça, je me sens ridicule.
+Et pourtant, une partie de moi rit avec lui.</p>
+<p>— Je ne sais pas... je me trouve pétri de doutes. Comment acquérir la connaissance ? D'où tires-tu la tienne ?</p>
+<p>— Tu n'es pas encore prêt à le savoir, rétorque-t-il gravement. Je peux seulement te dire qu'on n'apprend les choses qu'à nos dépens.</p>
+<p>— Qu'est-ce que ça veut dire ?</p>
+<p>— Cela veut dire que nos petites conversations ne sont pas si utiles tant que tu n'as pas vécu davantage de choses dignes d'être discutées. Il te faut vivre.</p>
+<p>Mouais. Je ne suis pas convaincu, alors j'essaie de gagner du temps.
+Mais c'est peine perdue, je le sens.</p>
+<p>— Qu'est-ce que je dois vivre pour apprendre ? essaie-je.</p>
+<p>— Essaie de vivre sans te poser de questions.</p>
+<p>— Mais c'est impossible !</p>
+<p>— J'ai dit « Essaie » !</p>
+<p>Encore ce ton léger, mi-sérieux, mi amusé ! Je déteste ça. J'aime autant prendre congé.</p>
+<p>— Bon, très bien, je vais y aller.</p>
+<p>— C'est toujours un plaisir, répond-il, et son plaisir est manifeste.</p>
+<p>Et je redescends dans mon corps. Je le retrouve dans l'état où je l'avais quitté, juste un peu engourdi.
+Une différence notable : la vessie appelle à être vidée.</p>
+<p>Assis sur les toilettes, je songe à ma conversation avec Gabriel.
+Oui, je l'appelle Gabriel, depuis que je le connais, par manque d'inspiration.
+Bien sûr, je ne suis pas assez taré pour croire que je parle avec Dieu par l'intermédiaire d'un ange.
+Mais je n'ai aucune idée de qui est Gabriel, de l'endroit où je le rencontre, ou de quoi que ce soit de concret à propos de lui.
+Tout ce que je sais, c'est que je m'accroche à lui pour essayer d'apprendre des choses valables sur le monde et sur moi-même, et que lui, il ne fait que me poser plus de questions.
+J'ai chaque fois l'impression distincte qu'il se moque gentiment de moi, comme si on se connaissait depuis longtemps.
+Pourtant, il n'y a que quelques mois que j'ai trouvé ces sons binauraux et que je sors régulièrement de mon corps.</p>
+<p>Gabriel est un maître patient mais bien mystérieux.
+J'aimerais devenir comme lui, mais pour ça, il faudrait que je sache ce qu'il est.</p>
+<p>Bon, allez, assez de questions pour aujourd'hui. Je tire la chasse d'eau et vais me coucher.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="01_Augustine.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="03_Faustin.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="01_Augustine.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="03_Faustin.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

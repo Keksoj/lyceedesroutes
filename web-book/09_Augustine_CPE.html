@@ -1,0 +1,354 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Augustine face au CPE</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        
+        <link rel="stylesheet" href="css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="custom.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="introduction.html">Introduction</a></li><li class="chapter-item expanded "><a href="01_Augustine.html"><strong aria-hidden="true">1.</strong> Augustine</a></li><li class="chapter-item expanded "><a href="02_Jacob.html"><strong aria-hidden="true">2.</strong> Jacob</a></li><li class="chapter-item expanded "><a href="03_Faustin.html"><strong aria-hidden="true">3.</strong> Faustin</a></li><li class="chapter-item expanded "><a href="04_Abdalahad.html"><strong aria-hidden="true">4.</strong> Abdalahad</a></li><li class="chapter-item expanded "><a href="05_Augustin_bugue.html"><strong aria-hidden="true">5.</strong> Il y a un bug</a></li><li class="chapter-item expanded "><a href="06_Jacob_bugue.html"><strong aria-hidden="true">6.</strong> Jacob a un bug</a></li><li class="chapter-item expanded "><a href="07_Faustin_bugue.html"><strong aria-hidden="true">7.</strong> Faustin a un bug</a></li><li class="chapter-item expanded "><a href="08_Abdalahad_encore.html"><strong aria-hidden="true">8.</strong> Abdalahad devise encore</a></li><li class="chapter-item expanded "><a href="09_Augustine_CPE.html" class="active"><strong aria-hidden="true">9.</strong> Augustine face au CPE</a></li><li class="chapter-item expanded "><a href="10_Jacob_CPE.html"><strong aria-hidden="true">10.</strong> Jacob face au CPE</a></li><li class="chapter-item expanded "><a href="11_Faustin_CPE.html"><strong aria-hidden="true">11.</strong> Faustin face au CPE</a></li><li class="chapter-item expanded "><a href="12_Abdalahad_se_questionne.html"><strong aria-hidden="true">12.</strong> Abdalahad réfléchit</a></li><li class="chapter-item expanded "><a href="13_Augustine_pere.html"><strong aria-hidden="true">13.</strong> Tuer le père</a></li><li class="chapter-item expanded "><a href="14_Jacob_pere.html"><strong aria-hidden="true">14.</strong> Retour sur Terre</a></li><li class="chapter-item expanded "><a href="15_Faustin_pere.html"><strong aria-hidden="true">15.</strong> Faustin et son père</a></li><li class="chapter-item expanded "><a href="16_Abdalahad_souffle_plus_fort.html"><strong aria-hidden="true">16.</strong> Abdalahad devise</a></li><li class="chapter-item expanded "><a href="17_Aux_urgences.html"><strong aria-hidden="true">17.</strong> À l'hôpital</a></li><li class="chapter-item expanded "><a href="18_Augustine_sortie.html"><strong aria-hidden="true">18.</strong> Augustine hors de l'HP</a></li><li class="chapter-item expanded "><a href="19_Jacob_dans_le_mal.html"><strong aria-hidden="true">19.</strong> Dans le mal</a></li><li class="chapter-item expanded "><a href="20_Faustin_retrouve_Augustine.html"><strong aria-hidden="true">20.</strong> Faustin retrouve Augustine</a></li><li class="chapter-item expanded "><a href="21_Abdalahad_incertain.html"><strong aria-hidden="true">21.</strong> Abdalahad incertain</a></li><li class="chapter-item expanded "><a href="22_Le_pere_de_Jacob.html"><strong aria-hidden="true">22.</strong> Le père de Jacob broie du noir</a></li><li class="chapter-item expanded "><a href="23_Convaincre_le_pere_de_Jacob.html"><strong aria-hidden="true">23.</strong> Convaincre le père de Jacob</a></li><li class="chapter-item expanded "><a href="24_Jacob_sort.html"><strong aria-hidden="true">24.</strong> Jacob sort de l'HP</a></li><li class="chapter-item expanded "><a href="25_Faustin_et_le_vortex.html"><strong aria-hidden="true">25.</strong> Le vortex</a></li><li class="chapter-item expanded "><a href="26_Augustine_aime_la_famille_de_Jacob.html"><strong aria-hidden="true">26.</strong> Dans la famille de Jacob</a></li><li class="chapter-item expanded "><a href="27_Jacob_et_les_voyageurs_temporels.html"><strong aria-hidden="true">27.</strong> Les voyageurs temporels</a></li><li class="chapter-item expanded "><a href="28_Faustin_dialogue_final.html"><strong aria-hidden="true">28.</strong> Le dialogue et l'extase</a></li><li class="chapter-item expanded "><a href="29_Augustine_tombe_enceinte.html"><strong aria-hidden="true">29.</strong> Les conséquences</a></li><li class="chapter-item expanded "><a href="30_Jacob_assume.html"><strong aria-hidden="true">30.</strong> Jacob assume</a></li><li class="chapter-item expanded "><a href="31_Faustin_et_l_accouchement.html"><strong aria-hidden="true">31.</strong> La mort et la naissance</a></li><li class="chapter-item expanded "><a href="32_Augustine_denouement.html"><strong aria-hidden="true">32.</strong> Le dénouement</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title"></h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        
+                        <a href="https://github.com/Keksoj/lyceedesroutes" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="augustine-face-au-cpe"><a class="header" href="#augustine-face-au-cpe">Augustine face au CPE</a></h1>
+<p>Mon corps respire un peu mieux depuis quelques dix minutes.
+Sur ce lit d'infirmerie, c'est plus facile.
+On m'a laissé tranquille pendant un moment, de quoi pleurer un coup, prendre un spasfon, et me reposer dans un minimum de silence et de sollitude.</p>
+<p>J'entends la porte qui s'ouvre.</p>
+<p>— Ça va mieux, Augustine ?</p>
+<p>Je grogne une réponse affirmative.</p>
+<p>— Bon, et bien, monsieur Charles t'attend dans son bureau.
+Ta mère devrait bientôt arriver.</p>
+<p>Ma mère. C'est le bouquet.
+La situation était déjà assez moisie comme ça, maintenant ma mère va s'en mêler.
+Ou plutôt, la situation va se mêler de ma mère, et ma mère va encore prendre cher.
+Crotte et crotte.</p>
+<p>Je me lève, remets mes chaussures.
+D'un pas chancelant, je traverse l'infirmerie, en sors, et engage mes pas dans le couloir.
+Heureusement, il n'y a pas trop de monde.
+Le bureau de M. Charles est situé juste à côté de celui de la vie scolaire, qui sert d'antichambre...
+Je traverse cette première pièce, en évitant de croiser le regard des dames qui y siègent, silencieuses comme des statues.
+Elles savent que je suis en mauvaise posture et n'en rajouteront pas.
+J'entre dans le bureau du CPE, qui est penché sur son ordinateur sans me regarder.
+Je fais un pas de plus et ne bouge pas.</p>
+<p>Il concentre toute son attention sur son ordi, comme si je n'existais pas.
+C'est très énervant, j'ai l'impression d'être un élément du décor, au même titre que le masque africain accroché au mur derrière son bureau.
+Et puis, subitement, il arrête de cliquer, s'éloigne de l'écran, enlève ses lunettes, se pose au fond de son siège, se tourne vers moi.</p>
+<p>— Augustine. Assieds-toi, s'il te plaît.</p>
+<p>Et voilà, maintenant il me scrute avec la même attention que son ordi il y a une seconde.
+C'est déstabilisant, ces gens qui peuvent switcher comme ça.
+Je m'assois, son regard perce derrière ses lunettes, le genre de lunettes déjà ringardes mais qui en plus ont les branches attachées par une ficelle qui lui passent derrière le cou.
+C'est un type plutôt grand, avec des traits creusés, pas mal de rides, des cheveux un peu en bataille, mais surtout, cette aura de ministre qui fout les boules à tous les élèves du lycée.
+Quand il nous regarde comme ça, on se sent crétin.
+Il n'y a rien de méchant dans son regard, seulement je ne connais personne qui regarde les gens comme il fait.
+C'est sûrement pour ça qu'on le paye.</p>
+<p>— Alors, Augustine, raconte-moi.</p>
+<p>Et en plus, c'est pas grave pour lui.
+Je suis un dossier parmi d'autres.
+Il s'en contrefiche, que j'ai les boules.
+J'ai frappé un élève, mais lui, on dirait qu'il prend le café avec moi et qu'il me demande tranquillement de raconter ma journée.
+Ça m'énerve, ça m'énerve.</p>
+<p>— Heu... sous le coup de la colère, j'ai insulté et frappé Tom Legoupil, tout à l'heure.</p>
+<p>— Oui, ça c'est ce que j'ai cru comprendre !
+Ce qui m'intéresse, c'est pourquoi tu as fait ça.
+Qu'est-ce qui t'arrive en ce moment ?
+Qu'est-ce qui se passe, Augustine ?</p>
+<p>Je ne supporte pas les gens, au point de m'isoler régulièrement pour tenter de canaliser mes angoisses et mes pulsions agressives.
+Mes parents sont au bord du divorce et je sers de No Man's Land entre leurs tranchées respectives.
+Ma mère est incapable d'affronter la vie, mon père est un salaud fini qui ne dit rien.
+Ce matin j'ai écrit des trucs chelous dans mon cahier et je suis en train de questionner sérieusement ma santé mentale.
+Tom est un abruti qui n'est pas capable de rédiger une sous-partie sans qu'on lui dicte tout à la lettre.
+Je ne comprends rien à ce qui m'arrive alors je l'ai frappé pour me défouler.
+Mais tout ça c'est mes affaires et je vous emmerde.</p>
+<p>— Heu... je n'ai pas d'excuse.</p>
+<p>— Ah, mais je ne te demande pas d'excuses !</p>
+<p>— Je présenterai mes excuses à Tom.</p>
+<p>— Mais, Augustine, tu ne veux pas me dire ce qui se passe ?
+On ne frappe pas les gens comme ça !
+Il doit bien y avoir une raison !</p>
+<p>Tu sauras rien, mon bonhomme.
+J'ai bien compris ce que tu veux faire.
+Je vois clair dans ton jeu.
+Mais tu m'auras pas comme ça.
+Allez, pose encore tes questions.
+Et voilà, encore des réponses standards et vides.
+L'entretien n'a plus aucun sens désormais.
+J'ai gagné la bataille et il le sait.
+Il ne saura rien.
+J'ai frappé quelqu'un, je serai punie pour ça, j'assume, fin de l'histoire.
+Je le vois tourner sur sa chaise, à droite, à gauche, en mordant une branche de ses lunettes, l'air perplexe.</p>
+<p>On frappe à la porte.</p>
+<p>— Entrez ! lance-t-il.</p>
+<p>Ma mère entre. Ah oui, c'est vrai, manquait plus que ça.
+Elle me fait une bise sur le haut du front, doucement, et s'installe sur la chaise.</p>
+<p>— Mme Lambert, commence le CPE. Ce matin, Augustine a eu un comportement qui a perturbé le vivre-ensemble de l'établissement, et je vous ai contacté pour...</p>
+<p>— Qu'est-ce que tu as encore fait ?</p>
+<p>— ... pour qu'on en parle ensemble, et....</p>
+<p>— Mon Dieu, Augustine, qu'est-ce que tu as fait ?</p>
+<p>— J'ai frappé un camarade.</p>
+<p>— Mon Dieu ! Mais pourquoi !</p>
+<p>— ... attendez, Mme Lambert, il me semble que...</p>
+<p>— C'est un crétin, j'étais énervée, j'ai mal au ventre, j'ai bientôt mes règles, ça te va ?</p>
+<p>— Mon Dieu mais qu'est-ce qu'on va faire de toi ?</p>
+<p>— Mme Lambert ! Je vous prie de m'accorder un peu d'attention, s'il vous plaît !</p>
+<p>Voilà.
+Et bla bla bla, et gna gna gna, le dialogue de sourd continue pendant dix minutes.
+Exclusion pendant une journée, excuses à présenter à Tom, etc.
+Mais moi je sais que cette conversation est parfaitement inutile.
+M. Charles espérait démêler les fils avec ma mère, il s'est rendu compte que l'affaire ne fait que se compliquer.
+Ma pauvre mère est absolument hors d'atteinte, désespérément loin.
+Elle ne sait pas gérer sa propre vie, comment pourrait-elle s'occuper de sa fille qui pète un câble ?
+On peut parler tant qu'on veut, dans ce bureau, ça ne changera rien à l'état de fait : je suis la seule, absolument la seule personne à pouvoir s'occuper de moi.
+Et pour le moment ce n'est pas compliqué : j'accepte ma punition, je dis que je ne recommencerai pas, rien de plus.</p>
+<p>L'entretien se met à patiner, les phrases se répètent.
+Les mots de M. Charles glissent sur moi comme sur ma mère, pour des raisons différentes, mais ils glissent tout de même.
+On est sur le point de clore la situation, quand soudain, on frappe à la porte.</p>
+<p>— Oui ! lance le CPE de sa voix de stentor à la porte qui s'entreouvre.</p>
+<p>— M. Charles, on a une situation, dehors, avec Jacob Mlynikowski.</p>
+<p>— Ça ne peut pas attendre ?</p>
+<p>— Là on a besoin de vous.</p>
+<p>Il gromelle, nous fait ses adieux en résumant ce qu'on a déjà dit, et prend congé.</p>
+<p>Ma mère est toujours sur sa chaise, les yeux dans le vague.
+Sans me regarder, elle me lance :</p>
+<p>— Bon, je te ramène à la maison ?</p>
+<p>— D'accord.</p>
+<p>On se lève et on laisse le silence nous entourer sur le chemin qui mène à la voiture.
+On croise M. Charles, avec Jacob qui le suit, vers son bureau.
+Finalement, M. Charles est un type courageux, si l'on considère tous les gens bizarres qu'il doit gérer.
+Le Jacob, là, il est vraiment chelou.
+Il est mignon mais ne s'habille qu'en noir, ne parle avec presque personne, et aujourd'hui il a vraiment l'air perché.
+Je sais pas ce qu'il fait de sa vie mais il a l'air atteint.</p>
+<p>On monte dans la voiture, on boucle nos ceintures, le moteur s'allume, le reste c'est du silence.
+Hormis le linge sale, le carnet de notes et mon père, on n'a plus de vrai sujet de conversation depuis des années.
+La route défile, silencieuse, de rond point en feux rouges, où l'on s'arrête.</p>
+<p>— Au fait, tu as des nouvelles de ton père ?</p>
+<p>Je maugrée, répond oui, sors mon portable, et me souviens du dernier message de mon père.</p>
+<p>Merde et merde.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="08_Abdalahad_encore.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="10_Jacob_CPE.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="08_Abdalahad_encore.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="10_Jacob_CPE.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

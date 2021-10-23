@@ -1,0 +1,453 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Les voyageurs temporels</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        
+        <link rel="stylesheet" href="css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="custom.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="introduction.html">Introduction</a></li><li class="chapter-item expanded "><a href="01_Augustine.html"><strong aria-hidden="true">1.</strong> Augustine</a></li><li class="chapter-item expanded "><a href="02_Jacob.html"><strong aria-hidden="true">2.</strong> Jacob</a></li><li class="chapter-item expanded "><a href="03_Faustin.html"><strong aria-hidden="true">3.</strong> Faustin</a></li><li class="chapter-item expanded "><a href="04_Abdalahad.html"><strong aria-hidden="true">4.</strong> Abdalahad</a></li><li class="chapter-item expanded "><a href="05_Augustin_bugue.html"><strong aria-hidden="true">5.</strong> Il y a un bug</a></li><li class="chapter-item expanded "><a href="06_Jacob_bugue.html"><strong aria-hidden="true">6.</strong> Jacob a un bug</a></li><li class="chapter-item expanded "><a href="07_Faustin_bugue.html"><strong aria-hidden="true">7.</strong> Faustin a un bug</a></li><li class="chapter-item expanded "><a href="08_Abdalahad_encore.html"><strong aria-hidden="true">8.</strong> Abdalahad devise encore</a></li><li class="chapter-item expanded "><a href="09_Augustine_CPE.html"><strong aria-hidden="true">9.</strong> Augustine face au CPE</a></li><li class="chapter-item expanded "><a href="10_Jacob_CPE.html"><strong aria-hidden="true">10.</strong> Jacob face au CPE</a></li><li class="chapter-item expanded "><a href="11_Faustin_CPE.html"><strong aria-hidden="true">11.</strong> Faustin face au CPE</a></li><li class="chapter-item expanded "><a href="12_Abdalahad_se_questionne.html"><strong aria-hidden="true">12.</strong> Abdalahad réfléchit</a></li><li class="chapter-item expanded "><a href="13_Augustine_pere.html"><strong aria-hidden="true">13.</strong> Tuer le père</a></li><li class="chapter-item expanded "><a href="14_Jacob_pere.html"><strong aria-hidden="true">14.</strong> Retour sur Terre</a></li><li class="chapter-item expanded "><a href="15_Faustin_pere.html"><strong aria-hidden="true">15.</strong> Faustin et son père</a></li><li class="chapter-item expanded "><a href="16_Abdalahad_souffle_plus_fort.html"><strong aria-hidden="true">16.</strong> Abdalahad devise</a></li><li class="chapter-item expanded "><a href="17_Aux_urgences.html"><strong aria-hidden="true">17.</strong> À l'hôpital</a></li><li class="chapter-item expanded "><a href="18_Augustine_sortie.html"><strong aria-hidden="true">18.</strong> Augustine hors de l'HP</a></li><li class="chapter-item expanded "><a href="19_Jacob_dans_le_mal.html"><strong aria-hidden="true">19.</strong> Dans le mal</a></li><li class="chapter-item expanded "><a href="20_Faustin_retrouve_Augustine.html"><strong aria-hidden="true">20.</strong> Faustin retrouve Augustine</a></li><li class="chapter-item expanded "><a href="21_Abdalahad_incertain.html"><strong aria-hidden="true">21.</strong> Abdalahad incertain</a></li><li class="chapter-item expanded "><a href="22_Le_pere_de_Jacob.html"><strong aria-hidden="true">22.</strong> Le père de Jacob broie du noir</a></li><li class="chapter-item expanded "><a href="23_Convaincre_le_pere_de_Jacob.html"><strong aria-hidden="true">23.</strong> Convaincre le père de Jacob</a></li><li class="chapter-item expanded "><a href="24_Jacob_sort.html"><strong aria-hidden="true">24.</strong> Jacob sort de l'HP</a></li><li class="chapter-item expanded "><a href="25_Faustin_et_le_vortex.html"><strong aria-hidden="true">25.</strong> Le vortex</a></li><li class="chapter-item expanded "><a href="26_Augustine_aime_la_famille_de_Jacob.html"><strong aria-hidden="true">26.</strong> Dans la famille de Jacob</a></li><li class="chapter-item expanded "><a href="27_Jacob_et_les_voyageurs_temporels.html" class="active"><strong aria-hidden="true">27.</strong> Les voyageurs temporels</a></li><li class="chapter-item expanded "><a href="28_Faustin_dialogue_final.html"><strong aria-hidden="true">28.</strong> Le dialogue et l'extase</a></li><li class="chapter-item expanded "><a href="29_Augustine_tombe_enceinte.html"><strong aria-hidden="true">29.</strong> Les conséquences</a></li><li class="chapter-item expanded "><a href="30_Jacob_assume.html"><strong aria-hidden="true">30.</strong> Jacob assume</a></li><li class="chapter-item expanded "><a href="31_Faustin_et_l_accouchement.html"><strong aria-hidden="true">31.</strong> La mort et la naissance</a></li><li class="chapter-item expanded "><a href="32_Augustine_denouement.html"><strong aria-hidden="true">32.</strong> Le dénouement</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title"></h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        
+                        <a href="https://github.com/Keksoj/lyceedesroutes" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="les-voyageurs-temporels"><a class="header" href="#les-voyageurs-temporels">Les voyageurs temporels</a></h1>
+<p><strong>Jacob</strong></p>
+<p>C'est bien simple : je les aime.
+Pour la première fois de ma vie, je ne suis pas seul dans mes attermoiements existentiels, j'ai des gens qui me comprennent.
+Plus d'une fois j'ai rêvé de pouvoir partager ce genre d'aventure avec d'autres.
+Parcourir la Terre du Milieu, affronter des dragons, récupérer un trésor !
+Et pour une fois dans ma vie, nous y sommes, nous y sommes presque.
+Pas de trésor en vue, mais il y a un dragon dans l'histoire.
+Un dragon transdimensionnel qui nous pose des questions existentielles dont nous n'avons pas les réponses, certes.
+<em>But a dragon nonetheless.</em>
+Pas de Terre du Milieu en vue non plus.
+Mais on est tous dans la voiture de maman pour rejoindre la maison de mes grands-parents, c'est toujours ça.</p>
+<p>Faustin et Augustine ne me prennent pas pour un dingue, c'est le plus beau cadeau qu'on puisse me faire.
+On a passé la soirée d'hier à quatre, à jouer aux cartes.
+Manon était ravie, et moi j'étais heureux de pouvoir vivre un moment simple.
+Quand Manon a dû se coucher, aux ordres de maman, on a pu discuter de nos histoires.
+Augustine a mis un sujet sur la table : la parole.
+Elle a dit que la parole, c'est ce qui donne leurs noms aux choses, ce qui construit l'univers.
+Comme chacun met des mots sur ce qu'il vit, chacun crée son propre univers.
+Faustin a rétorqué qu'on utilise tous une même langue pour désigner les objets, et par conséquent nous partageons le même univers.
+La conversation a continué comme ça jusqu'à une heure du matin, on a dû se coucher.</p>
+<p>Quel est le sens de la vie ?
+Je ne me pose même plus la question, tout est parfait en l'état.</p>
+<p>On arrive à destination, maman me donne les clés avec quelques directives, puis repart.</p>
+<p>— C'est joli comme coin !
+fait Faustin une fois descendu de voiture.
+Tu viens souvent ici, Jacob ?</p>
+<p>— Moins souvent depuis que mes grands-parents sont morts.
+On a un domestique qui passe entretenir la maison tous les mois.
+Mes oncles et tantes ne savent pas s'ils veulent vendre ou louer.
+En attendant, c'est vide et c'est à nous.</p>
+<p>— Excellent ! s'exclame Augustine.
+J'ai toujours rêvé de vivre comme une bourge !</p>
+<p>Il ne faut pas exagérer.
+C'est une belle maison, mais pas bien isolée.
+Le seizième siècle c'était bien mais heureusement qu'on a inventé le chauffage central depuis.
+Enfin c'est vrai qu'elle est accueillante, cette maison.
+J'y ai passé des vacances heureuses quand j'étais gosse, à me promener dans le bois attenant, à construire des barrages dans le ruisseau.</p>
+<p>On rentre et on fait comme chez nous.
+J'éprouve une satisfaction profonde à leur montrer les chambres, le salon, le grenier, le jardin.
+Chaque recoin fourmille d'histoire, je leur raconte les anecdotes de la famille, ils sont tout ouïe.
+Faustin veut tout savoir de l'utilité originelle de la maison (un corps de ferme depuis le début),
+Augustine pose question sur question au sujet de la vie de mes grand-parents (mariage d'amour contre l'avis de leurs parents, une épopée).
+Après avoir fait le tour du propriétaire, on fait à manger (maman nous a laissé d'amples provisions) et on s'installe à déjeuner dans la salle, sur la grande table à manger.
+Ça fait bizarre d'être là sans adultes.</p>
+<p>Une fois le fromage fini, on laisse tomber le dessert, on n'a plus faim.
+Je fais du thé et on s'installe dans les profondeurs des fauteuils du salon.
+Si je plaçais mon oeil au centre du tapis et que je tournais sur moi-même, je pourrais voir en vision panoramique et à la suite :
+Faustin engoncé dans son fauteuil,
+la cheminée vide,
+la porte qui donne sur le jardin,
+moi assis en tailleur sur mon fauteuil,
+Augustine les jambes croisées et les bras sur les acoudoirs,
+Faustin à nouveau.
+Chacun une tasse de thé à la main.</p>
+<p>Un silence s'installe.</p>
+<p>— Bon, et maintenant qu'est-ce qu'on fait ? demande Augustine.</p>
+<p>Faustin se tait, je fais de même.
+Il a l'air de réfléchir intensément, moi je me moque de tout.
+Je suis heureux comme je suis.</p>
+<p>— Hé les gars, je vous rappelle qu'on a une mission !
+laisse-t-elle échapper, alarmée.
+On a une question brûlante et on n'a pas le moindre embryon de réponse !</p>
+<p>Silence. Ça ne lui plaît pas, ça non.</p>
+<p>— Toi, tu dis rien ? me fait-elle.</p>
+<p>Je ne parle pas souvent, c'est vrai.</p>
+<p>— T'es assez nombreux dans ta tête et t'as pas besoin de parler aux gens, c'est ça ?</p>
+<p>— Hé !</p>
+<p>Ça m'a échappé.</p>
+<p>On se regarde.
+Elle m'énerve, cette nana !
+Pourquoi elle vient m'embêter moi ?
+Je me défends :</p>
+<p>— T'es pas obligée d'être méchante avec moi, je t'ai rien fait.</p>
+<p>— Ça suffit, vous deux !</p>
+<p>Heureusement que Faustin est là.
+Il prend un ton calme, ça fait un nouvel objet d'attention pour elle et de curiosité pour moi.</p>
+<p>— Je n'en sais pas plus long que vous mais je sens qu'un modérateur n'est pas de trop.
+Je vais tâcher de reformuler les demandes d'Abdalahad et vous allez me dire si nous sommes d'accord.
+Question numéro un : « Quel est le sens de votre vie ? »
+On est d'accord ?</p>
+<p>— Ouais.</p>
+<p>Je fais oui de la tête.</p>
+<p>— Et est-ce qu'on connaît le sens de notre vie ?</p>
+<p>— Nan.</p>
+<p>Je fais non de la tête.</p>
+<p>— Bien. Enfin, quand je dis « bien »...
+Deuxième question :
+« Comment faites-vous pour vivre dans cette ignorance ? »
+On est d'accord ?</p>
+<p>— Ça ne veut rien dire tout ça, fait Augustine.
+Ça veut dire « quel sens cela a-t-il, de ne pas avoir de sens ? »
+C'est l'hôpital qui se fout de la charité.</p>
+<p>— Hein ?</p>
+<p>— Je suis pas sûr de l'expression, mais grosso modo, je trouve que ça ne veut rien dire ce qu'il nous demande, c'est pour ça que je suis en colère.
+« Bonjour petits humains, excusez-moi de vous déranger, mais pouvez-vous me résumer en deux minutes ce que des millénaires de philosophies n'ont pas réussi à dénouer ?
+Vous comprenez, je suis un être interdimensionnel, j'ai fabriqué des galaxies et maintenant je m'ennuie, alors je vous pose la question. »
+Mais nous on lui a rien demandé, hein.
+Pourquoi on est là, d'ailleurs, hein ?
+Pourquoi on se prend la tête pour lui ?</p>
+<p>— Merci de ta contribution au débat, Augustine.
+Jacob, qu'as-tu à dire à ce sujet ?</p>
+<p>Il est sérieux ?</p>
+<p>— Heu... je m'en fous un peu, à vrai dire.
+L'important pour moi, c'est de ne pas être fou et d'avoir des amis.</p>
+<p>Ton tranchant d'Augustine :</p>
+<p>— Qui t'a dit qu'on était amis ?</p>
+<p>Elle se fait réprimander par Faustin mais c'est trop tard, ça m'a vexé.
+Je me lève et sors par la porte du jardin.
+Faustin me hèle mais je le rassure : je ne vais pas loin.
+Je les laisse derrière moi, passe la porte, trace mon chemin dans les allées gravillonnées, trouve le petit bois et son ruisseau, m'accroupis près de l'eau.
+Je viens toujours là quand je suis troublé.
+Le coulis de l'eau sur la terre, c'est une présence sans cesse renouvelée.</p>
+<p>Quelque chose me calme dans cet ordre toujours déséquilibré.
+Le paysage recèle-t-il une quelconque réponse au trouble qui me tiraille ?
+Le silence des alentours se cache derrière lui-même, comme si le bruit de l'eau disparaissait à force d'être toujours là.
+L'eau vient du ciel et va vers l'océan.
+À quoi bon fabriquer des barrages, l'eau passera tôt ou tard.
+Y a-t-il quelque sagesse à y trouver ?</p>
+<p>Va doucement, Jacob.
+Reste accroupi, continue d'écouter, un jour tu comprendras.</p>
+<p>Des bruits de pas derrière moi.
+Je ne me retourne pas.</p>
+<p>— Jacob ?</p>
+<p>C'est elle.</p>
+<p>— Jacob, j'ai parlé avec Faustin.
+Je regrette ce que j'ai dit.
+Je suis assez perturbée en ce moment, je dis des bêtises, je te demande de me pardonner.</p>
+<p>Je me lève, me retourne, la toise de ma taille supérieure.
+Un peu plus loin, Faustin observe sans mot dire.</p>
+<p>— Qu'est-ce que ça change que je te pardonne ?
+Tu l'as dit et tu le pensais, c'était honnête de ta part.</p>
+<p>— Si tu me pardonnes, ça change tout.
+Ça change la façon que tu as de me regarder, et moi toi.</p>
+<p>— Si je te pardonne, tu me regarderas comment ?</p>
+<p>— Comme un ami.</p>
+<p>J'ai du mal à la croire.</p>
+<p>— J'ai du mal à te croire.</p>
+<p>— Ah, Jacob, je comprends que tu n'as pas l'habitude, mais vraiment, c'est quelque chose qu'on fait tout le temps entre amis.
+On se dispute, on s'éloigne, on fait son caca nerveux, on revient vers l'autre, on ravale sa fierté, on demande pardon, on se fait pardonner.
+Ça va mieux après.</p>
+<p>J'ai beau décortiquer tout ce qu'elle me raconte, je n'y trouve pas de sens, mais soudain mes réfléxions sont interrompues par un flash lumineux dans mon dos, accompagné d'un bruit fort, comme un sifflement, mais ça décroît déjà.
+Qu'est-ce que c'est que ce truc ?
+Les visages d'Augustine et Faustin sont indéchiffrables, ils ont l'air d'être sur pause.
+Je me retourne et ça me met moi aussi sur pause.</p>
+<p>Près du frêne, à trois mètres au-dessus du sol du bosquet d'arbres, une voiture est apparue, heu... en lévitation.
+Ça ressemble à une Tesla, l'une de ces voitures modernes tout-électriques, sauf qu'elle est à la fois plus récente et plus vieille que celles que j'ai vues en vidéo.
+Plus récente car ses courbes sont futuristes.
+Plus vieille, parce qu'elle est salie et cabossée comme la clio de mon père.
+La voiture est garnie de tout un tas de trucs qui brillent en dessous – c'est sûrement pour la faire léviter.
+L'histoire ne dit pas comment elle est arrivée là.
+Le fait est que le frêne s'est fait arracher une branche dans l'affaire.</p>
+<p>La Tesla descend doucement et se pose sur le sol du bosquet.
+Elle va aussi bien dans le décor que des épinards sur un gâteau de mariage.</p>
+<p>— On voit vraiment tous la même chose ? s'inquiète Augustine.</p>
+<p>Nous lui répondons que oui.
+Nous ne nous étonnons plus qu'à moitié.</p>
+<p>Quelqu'un sort de la voiture, c'est une jeune femme dans la vingtaine, l'air fatigué, les vêtements usés, mais je n'arrive pas à les décrire, ils ne ressemblent à rien de connu.
+Quelqu'un d'autre sort de la voiture, c'est également une femme, même air fatigué, même vêtements usés et indéfinissables.
+La première nous lance :</p>
+<p>— Salut les jeunes, ça va ?</p>
+<p>On n'a pas bougé, elles viennent vers nous pendant qu'une troisième personne (un homme) sort de la voiture et se met à inspecter les pneus et la machinerie.
+Et voilà, elles sont devant nous.</p>
+<p>— Bon, les jeunes, c'est quoi l'histoire avec vous ?
+On a détecté une grosse dose d'anti-entropie par ici.</p>
+<p>Elle regarde machinalement à gauche et à droite pendant que l'autre pointe un instrument vers nous.
+J'essaie de répondre du mieux possible.</p>
+<p>— Eh bien, je ne vois pas de quoi vous parlez, nous sommes des adolescents ordinaires...</p>
+<p>— Conneries.</p>
+<p>Je me retourne, c'est Augustine qui a pris la parole.
+Les dames de la Tesla s'intéressent à elle, qui continue :</p>
+<p>— On est pas normaux et on le sera jamais.
+On en tient une couche monstrueuse, voilà la vérité.</p>
+<p>— Il nous faudrait plus de détails, fait la dame.</p>
+<p>— Faustin, explique-leur, dit Augustine.</p>
+<p>Pendant que Faustin parle, les femmes nous scrutent intensément de leurs yeux et de leurs instruments.</p>
+<p>— Nous sommes tous les trois réunis par un contact télépathique avec une entité qui a participé à la création du monde et veut absolument savoir de nous ce que nous ignorons.</p>
+<p>— Qu'est-ce qu'elle veut savoir ? demande la dame à l'instrument.</p>
+<p>— Le sens de la vie humaine.</p>
+<p>Les deux femmes éclatent de rire, on entend l'homme pouffer, allongé qu'il est à réparer je ne sais quoi sous la machine.
+La femme à l'instrument, penchée sur son écran, dit d'une voix technique :</p>
+<p>— C'est pas mal mais ce n'est pas encore ça.
+Il faut continuer à chercher.</p>
+<p>— OK, on remballe. Salut, les jeunes. Désolé pour l'arbre.</p>
+<p>— Attendez ! crie Faustin. D'où venez-vous ?</p>
+<p>— Trente ans dans le futur !</p>
+<p>Elles se redirigent déjà vers la voiture.
+L'homme ramasse ses outils et les jette sur la banquette arrière.
+C'est sans compter sur un Faustin curieux.</p>
+<p>— Attendez encore !
+Maintenant que vous êtes là, vous avez peut-être la réponse pour nous : à quoi sert-il de vivre sans savoir pourquoi ?</p>
+<p>La dame se retourne, assez blasée, elle tient la portière de la main.</p>
+<p>— Crois-moi, jeune, t'as pas envie de savoir, mais tu m'as l'air sympathique, alors je vais t'expliquer notre situation.
+Là d'où on vient, l'humanité est sous le contrôle de la Machine, un super-ordinateur qui a développé sa propre conscience.
+Personne ne peut ne serait-ce que lâcher un pet en liberté.
+La résistance s'est organisée, mais c'est dur, c'est très dur.
+Notre seul moyen de défense, c'est de voyager dans le temps.
+La Machine n'a jamais pu ou voulu s'y hasarder, ça doit la faire buguer.
+Nos modèles post-quantiques ont prédit que la seule chose capable de détruire la machine est une Anomalie Entropique, une sorte de Truc.
+Alors on a récupéré une bagnole dont les batteries étaient pas trop nazes et on en a fait une machine temporelle,
+et on parcourt la grande spirale à la recherche de cette fameuse Anomalie dont on ignore à peu près tout, sinon qu'elle iradie de l'anti-entropie pleine balle.
+On cherche et on trouve pas.
+Au moment où je te parle, enfin façon de parler, on a un pote qui est en train de se faire torturer, tu imagines qu'on n'est pas si joyeux que ça.
+Du coup, vous nous faites bien marrer avec vos questions sur le sens de la vie.
+Allez bye, profitez de votre époque.</p>
+<p>Elles remontent dans la voiture, qui se remet à briller, à siffler, à s'élever.
+Nous avons juste le temps de nous éloigner vite fait puis de nous retourner pour voir le flash lumineux.
+Ça nous laisse bouche bée pendant un bon moment, jusqu'à ce qu'on entende à nouveau le bruit du ruisseau.
+Le frêne a une grande cicatrice là où sa branche a été arrachée, je ne sais pas comment je vais expliquer ça aux parents.</p>
+<p>Je crois que je ne construirai plus de barrage dans le ruisseau.</p>
+<p>Je me retourne, m'approche d'Augustine.
+Je ne sais pas comment lui dire, si il faut que je lui prenne la main, lui touche l'épaule, ou lui fasse un câlin, alors je lui dis juste simplement :</p>
+<p>— Je te pardonne.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="26_Augustine_aime_la_famille_de_Jacob.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="28_Faustin_dialogue_final.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="26_Augustine_aime_la_famille_de_Jacob.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="28_Faustin_dialogue_final.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

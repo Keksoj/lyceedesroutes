@@ -1,0 +1,385 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Jacob assume</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        
+        <link rel="stylesheet" href="css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="custom.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="introduction.html">Introduction</a></li><li class="chapter-item expanded "><a href="01_Augustine.html"><strong aria-hidden="true">1.</strong> Augustine</a></li><li class="chapter-item expanded "><a href="02_Jacob.html"><strong aria-hidden="true">2.</strong> Jacob</a></li><li class="chapter-item expanded "><a href="03_Faustin.html"><strong aria-hidden="true">3.</strong> Faustin</a></li><li class="chapter-item expanded "><a href="04_Abdalahad.html"><strong aria-hidden="true">4.</strong> Abdalahad</a></li><li class="chapter-item expanded "><a href="05_Augustin_bugue.html"><strong aria-hidden="true">5.</strong> Il y a un bug</a></li><li class="chapter-item expanded "><a href="06_Jacob_bugue.html"><strong aria-hidden="true">6.</strong> Jacob a un bug</a></li><li class="chapter-item expanded "><a href="07_Faustin_bugue.html"><strong aria-hidden="true">7.</strong> Faustin a un bug</a></li><li class="chapter-item expanded "><a href="08_Abdalahad_encore.html"><strong aria-hidden="true">8.</strong> Abdalahad devise encore</a></li><li class="chapter-item expanded "><a href="09_Augustine_CPE.html"><strong aria-hidden="true">9.</strong> Augustine face au CPE</a></li><li class="chapter-item expanded "><a href="10_Jacob_CPE.html"><strong aria-hidden="true">10.</strong> Jacob face au CPE</a></li><li class="chapter-item expanded "><a href="11_Faustin_CPE.html"><strong aria-hidden="true">11.</strong> Faustin face au CPE</a></li><li class="chapter-item expanded "><a href="12_Abdalahad_se_questionne.html"><strong aria-hidden="true">12.</strong> Abdalahad réfléchit</a></li><li class="chapter-item expanded "><a href="13_Augustine_pere.html"><strong aria-hidden="true">13.</strong> Tuer le père</a></li><li class="chapter-item expanded "><a href="14_Jacob_pere.html"><strong aria-hidden="true">14.</strong> Retour sur Terre</a></li><li class="chapter-item expanded "><a href="15_Faustin_pere.html"><strong aria-hidden="true">15.</strong> Faustin et son père</a></li><li class="chapter-item expanded "><a href="16_Abdalahad_souffle_plus_fort.html"><strong aria-hidden="true">16.</strong> Abdalahad devise</a></li><li class="chapter-item expanded "><a href="17_Aux_urgences.html"><strong aria-hidden="true">17.</strong> À l'hôpital</a></li><li class="chapter-item expanded "><a href="18_Augustine_sortie.html"><strong aria-hidden="true">18.</strong> Augustine hors de l'HP</a></li><li class="chapter-item expanded "><a href="19_Jacob_dans_le_mal.html"><strong aria-hidden="true">19.</strong> Dans le mal</a></li><li class="chapter-item expanded "><a href="20_Faustin_retrouve_Augustine.html"><strong aria-hidden="true">20.</strong> Faustin retrouve Augustine</a></li><li class="chapter-item expanded "><a href="21_Abdalahad_incertain.html"><strong aria-hidden="true">21.</strong> Abdalahad incertain</a></li><li class="chapter-item expanded "><a href="22_Le_pere_de_Jacob.html"><strong aria-hidden="true">22.</strong> Le père de Jacob broie du noir</a></li><li class="chapter-item expanded "><a href="23_Convaincre_le_pere_de_Jacob.html"><strong aria-hidden="true">23.</strong> Convaincre le père de Jacob</a></li><li class="chapter-item expanded "><a href="24_Jacob_sort.html"><strong aria-hidden="true">24.</strong> Jacob sort de l'HP</a></li><li class="chapter-item expanded "><a href="25_Faustin_et_le_vortex.html"><strong aria-hidden="true">25.</strong> Le vortex</a></li><li class="chapter-item expanded "><a href="26_Augustine_aime_la_famille_de_Jacob.html"><strong aria-hidden="true">26.</strong> Dans la famille de Jacob</a></li><li class="chapter-item expanded "><a href="27_Jacob_et_les_voyageurs_temporels.html"><strong aria-hidden="true">27.</strong> Les voyageurs temporels</a></li><li class="chapter-item expanded "><a href="28_Faustin_dialogue_final.html"><strong aria-hidden="true">28.</strong> Le dialogue et l'extase</a></li><li class="chapter-item expanded "><a href="29_Augustine_tombe_enceinte.html"><strong aria-hidden="true">29.</strong> Les conséquences</a></li><li class="chapter-item expanded "><a href="30_Jacob_assume.html" class="active"><strong aria-hidden="true">30.</strong> Jacob assume</a></li><li class="chapter-item expanded "><a href="31_Faustin_et_l_accouchement.html"><strong aria-hidden="true">31.</strong> La mort et la naissance</a></li><li class="chapter-item expanded "><a href="32_Augustine_denouement.html"><strong aria-hidden="true">32.</strong> Le dénouement</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title"></h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        
+                        <a href="https://github.com/Keksoj/lyceedesroutes" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="jacob-assume"><a class="header" href="#jacob-assume">Jacob assume</a></h1>
+<p>C'est la panique à bord.
+Le petit alien qui se cache sous mon crâne, celui qui tire les manettes qui font bouger mon corps, n'a pas la moindre idée de quel bouton il lui faut appuyer.
+Tout se passe comme si le grand jeu vidéo dans lequel j'évolue avait subi un <em>glitch</em> et que je me retrouvais d'un coup dans un autre niveau, avec un gameplay différent, des ennemis différents, des objectifs non précisés, et pas le moindre tutoriel pour m'expliquer par où aller.</p>
+<p>Augustine est enceinte.
+Enceinte !
+Mais c'est un truc d'adultes, ça, tomber enceinte !
+C'est une histoire réservée à papa et maman !
+Il faut croire qu'Augustine et moi, nous avons joué au papa et à la maman au sens littéral.
+Augustine continue de jouer ce rôle, elle se comporte avec moi comme sa maman se comporte avec son papa : elle m'engueule et coupe le contact.
+Voyons, comment mon père se comporterait avec ma mère dans une telle situation ?
+Je vais lui demander.
+Il est dans son bureau.</p>
+<p><em>Toc toc</em></p>
+<p>— Entre !</p>
+<p>— Salut papa, fais-je timidement.
+Je voudrais te poser une question.</p>
+<p>Il lève les yeux de son bureau, où dossiers, livres et ordinateur se battent en duel.
+Papa est plongé dans la rédaction d'un de ces rapports qui ne semblent jamais être lus mais dont l'importance est malgré tout capitale.
+Quand on lui demande de parler de son métier, il évoque la place « impossible et nécessaire » du psychologue en institution.</p>
+<p>— Je t'écoute, Jacob.</p>
+<p>Je sens que ce n'est pas le meilleur moment pour lui parler, mais allons.</p>
+<p>— Voilà, si maman était tombée enceinte quand vous étiez encore étudiants, tu aurais réagi comment ?</p>
+<p>Ses yeux m'observent tout d'abord de la même façon indéchiffrable.
+Non pas pour scruter mes intentions, comme le fait M. Charles.
+Papa, quand il regarde les gens, semble plutôt s'imprégner d'eux, comme une serviette qui viendrait éponger un nageur qui sort de la piscine.
+Ça ne plaît pas à tout le monde, mais j'y suis habitué.</p>
+<p>Je crois que je n'oublierai jamais sa réaction.
+Après un moment passé à me regarder comme ça, apparemment pris dans une réflexion intense, il pouffe. Sans déconner, il pouffe de rire, <em>Co do kurwy?</em>
+Le voilà qui pose ses lunettes et se recule sur son fauteuil avec un soupir de contentement.</p>
+<p>— Ah, Jacob, Jacob, Jacob.
+Je t'aime beaucoup, mais pour une fois je vais te laisser gérer tes histoires toi-même.</p>
+<p>— Mais papa, tu peux pas faire ça, je suis dans le mal là...</p>
+<p>— Tu es dans le mal ? Allez dis-moi : quand es-tu sorti de ton corps pour la dernière fois ?</p>
+<p>— Ben, c'était il y a plus d'un mois.</p>
+<p>— Quand as-tu entendu des voix pour la dernière fois ?</p>
+<p>— Pareil. Mais ça n'a rien à voir, je -</p>
+<p>Il me coupe la parole :</p>
+<p>— As-tu eu des hallucinations depuis ?</p>
+<p>— Ben, non...</p>
+<p>— As-tu pris les neuroleptiques qu'on t'avait prescrits et que j'étais censé te faire avaler tous les jours ?</p>
+<p>— Ben, non...</p>
+<p>— Vis-tu, comme tu le disais, une demi-vie ?</p>
+<p>— Mais papa -</p>
+<p>— Bienvenue dans la réalité, mon fils ! me coupe-t-il.
+Je veux bien que tu me laisses, j'ai du travail.</p>
+<p>Vaguement en colère mais surtout sonné, je redescends l'escalier et traverse la maison pour retourner à ma chambre.
+Ça ne va pas du tout.</p>
+<p>J'appelle Faustin.</p>
+<p>Depuis les évènements, c'est devenu un ami.
+Nous mangeons régulièrement à la cantine ensemble, nous nous retrouvons dans la cour, traînons ensemble.
+Faustin et Anne-Marie sont devenus le pendant de notre couple, à Augustine et moi.
+Un soir, tout ce monde a mangé à la maison, ambiance excellente.
+Pour la première fois j'ai eu alors l'impression d'avoir une vraie place dans la société.
+Une société faite de couples papa-maman : les papa-maman qui ont des enfants, et ceux qui en auront peut-être un jour.
+Ce jour risque d'arriver plus vite que je n'aurais imaginé.</p>
+<p>Faustin ne répond pas.
+Reste à recontacter Augustine.</p>
+<p>Elle est une fille parfaite pour moi, puisqu'elle m'est opposée en tout.
+Quand je suis timide, elle est déterminée.
+Quand elle est en colère, je suis calme.
+Quand c'est moi qui suis en colère... ah, non, ça n'est jamais arrivé.
+C'est en train d'arriver, je crois bien.
+Elle ne m'a pas laissé m'expliquer, elle m'a raccroché au nez, pour une maladresse que je lui disais.
+C'est un peu fort de café, quand même.
+Il faut qu'on discute.
+Tiens, il est tard mais je lui écris cela : <code>« Il faut qu'on discute. »</code>
+Une minute plus tard mon téléphone vibre : <code>« Rendez-vous demain avant les cours, à 7:45. »</code></p>
+<h3 id="le-lendemain"><a class="header" href="#le-lendemain">Le lendemain</a></h3>
+<p>La voilà, habillée de son manteau en cuir brun, coupé court, qui laisse paraître l'entièreté de son pantalon, un jean taille haute dans lequel elle a engoncé son sweat-shirt rouge, auquel sont assorties ses <em>Converse</em>.
+Depuis que nous sommes intimes, je la regarde.
+Elle est belle comme le jour.
+Nous nous saluons brièvement, du léger baiser sur la bouche qui indique entre lycéens : nous formons un couple.
+Mais son expression ne dit rien qui vaille.
+Nous nous écartons de l'entrée du lycée pour plus de discrétion.
+Nous y voilà.</p>
+<p>— Je me suis mal exprimé, fais-je.</p>
+<p>— J'ai eu tort de raccrocher brutalement, répond-elle du tac au tac.</p>
+<p>Nous avons manifestement répété nos répliques à l'avance.
+Maintenant, place à l'improvisation.
+J'essaie :</p>
+<p>— Comment tu te sens ?</p>
+<p>— Ma vie est un bordel sans nom.</p>
+<p>Pas terrible. Tentons autre chose.</p>
+<p>— Est-ce que tu as des choses nouvelles à me dire ?</p>
+<p>— Je suis définitivement enceinte au cas où tu ne l'aurais pas compris.</p>
+<p>Factuel. C'est déjà plus prometteur.</p>
+<p>— Est-ce qu'il y a quelque chose que je puisse faire ?</p>
+<p>— Oui. Tu pourrais récupérer la machine temporelle des autres cinglés, remonter d'un mois dans le temps, et dire à ton moi antérieur de penser à mettre des capotes.</p>
+<p>On n'avance pas, là, on perd du temps. Allons droit au but.</p>
+<p>— Tu veux le garder, ou est-ce que tu préfères...</p>
+<p>— Jacob. J'ai 17 ans. Je n'ai pas de travail, je n'ai même pas mon bac.
+Ma famille est en vrac.
+Comment pourrais-je seulement envisager d'avoir un enfant ?
+Et toi, regarde-toi. Tu te vois être père ?</p>
+<p>— J'avoue que mon père est un peu dingue, tu parles d'un modèle...
+(regard assassin d'Augustine) heu, je veux dire : non. Bien sûr que non.</p>
+<p>Le silence s'installe, lourd de sens. Je hasarde :</p>
+<p>— Je serai auprès de toi pour toutes les démarches...</p>
+<p>— Jacob ! s'exclame-telle. Tu ne comprends vraiment rien aux femmes, n'est-ce pas ?
+Tes hésitations et ta gentillesse me portent sur les nerfs.
+Quand je suis en colère, ça veut dire que j'ai peur.
+Quand j'ai peur, je veux juste être rassurée, que tu me prennes dans tes bras, que tu me dises que tu m'aimes et que tout va bien se passer.</p>
+<p>Je ne lui ai jamais dit « Je t'aime ».
+Augustine se tient plantée devant moi, une main sur la hanche, l'air défiant, à la fois colérique et balbutiante.
+Il n'y a pas le choix, je crois.</p>
+<p>Je me vois prendre Augustine dans mes bras, maladroitement.
+Je m'entends lui dire que je l'aime et que tout va bien se passer.
+Elle ne dit plus rien, les bras accrochés autour de ma poitrine, ça fait un peu mal, mais ce n'est pas désagréable.
+Une sensation humide sur mon épaule.
+Des larmes de fille.
+Augustine renifle, me laisse un bisou humide dans le cou, me souhaite bon courage pour mes cours, et s'en va son chemin, poursuivie par mes yeux fixés rêveusement sur son jean taille haute et ses cheveux ondulant dans la brise matinale.<br /><br /></p>
+<p>Faustin me retrouve à la cantine, je lui narre toute l'histoire, il est effaré.
+Il me raconte qu'il a aperçu Augustine très entourée de ses amies.
+Il dit que je me débrouille pas trop mal vu les circonstances.
+<br /><br /></p>
+<p>Assis sur un banc de la cour de récréation où les lycéens vont et viennent.
+Autrefois, je pensais être le seul à vivre une vie intérieure, à questionner le monde, à avoir des problèmes.
+Maintenant, je regarde chacun d'entre eux et me perds en conjectures.
+Celui-ci a peut-être des parents morts.
+Celle-là est-elle heureuse ou tourmentée ?
+Ces deux-là sont-ils réellement amis, et pour quelle raison ?
+Cette fille est-elle enceinte secrètement ?
+Ce garçon est-il amoureux au-delà de tout espoir ?
+Qui est encore puceau, qui a perdu son innocence ?
+Qui d'autre entend des voix et parle aux dragons ?
+Peut-être l'un d'entre eux, ou l'une d'entre elles, traverse une expérience encore plus démesurément complexe que la nôtre ?
+Ou bien c'est une règle : tout le monde a une vie intriquée, indémêlable, et s'imagine être le seul dans son cas.
+Il y a un mot anglais pour cette prise de conscience : <em>sonder</em>. Je l'ai lu dans une liste de mots qui n'existent pas mais qui devraient.
+<br /><br /></p>
+<h3 id="le-soir"><a class="header" href="#le-soir">Le soir.</a></h3>
+<p>Papa toque à la porte de ma chambre, et rentre.</p>
+<p>— Dis-moi, Jacob. Comment ça se passe ?</p>
+<p>Assis à lire sur mon lit, je lève des yeux étonnés vers un homme que je connais somme toute assez peu.
+J'articule :</p>
+<p>— Je l'ai prise dans mes bras, je lui ai dit que je l'aime et que tout allait bien se passer.</p>
+<p>Ah, le regard de mon père.</p>
+<p>— Si tu veux, Jacob, je peux t'emmener à la maison de campagne ce week-end, avec elle, pour que vous puissiez passer ensemble un temps de tranquillité et de discernement.
+Ta mère est d'un autre avis que moi, elle pense que c'est en vous envoyant là-bas qu'on vous a laissé faire les idiots.
+Je ne suis pas d'accord sur ce bilan.
+Depuis que vous êtes rentrés, tu vas mieux.
+Veux-tu y aller ?</p>
+<p>— Ça serait super, merci beaucoup.</p>
+<p>Il sort.
+Suis-je en train de devenir comme lui ?</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="29_Augustine_tombe_enceinte.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="31_Faustin_et_l_accouchement.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="29_Augustine_tombe_enceinte.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="31_Faustin_et_l_accouchement.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
