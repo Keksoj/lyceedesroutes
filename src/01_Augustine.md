@@ -68,7 +68,7 @@ J'ai gagné. Mme Médiane fouille son bureau et me tend la clé.
 
 — Très bien très bien, roulez jeunesse, envoie-t-elle, déjà occupée à autre chose.
 
-Au moment où je ressors de la pièce, les autres élèvent arrivent en foule, comme des moutons pressés d'entrer à l'abattoir.
+Au moment où je ressors de la pièce, les autres élèves arrivent en foule, comme des moutons pressés d'entrer à l'abattoir.
 J'entends derrière moi la voix de Mme Médiane, blasée, qui lance à sa collègue « Il y en a qui devraient faire de la politique, ils ont réponse à tout ».
 
 Quatre à quatre, je monte les marches de l'escalier le moins fréquenté.
