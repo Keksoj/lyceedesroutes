@@ -47,7 +47,8 @@ check_cmd() {
 web() {
     check_cmd mdbook
 
-    git pull
+    # usefull only when deploying on another machine
+    # git pull
 
     cp -v src/* mdbook/src/
     mdbook build mdbook
