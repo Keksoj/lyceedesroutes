@@ -1,6 +1,7 @@
 journal
 # web-book
-exports
+exports/*
+!exports/README.md
 epub/couverture.png
 
 mdbook/src/*
