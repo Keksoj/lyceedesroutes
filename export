@@ -27,6 +27,9 @@ main() {
     pdf)
         pdf
         ;;
+    latex)
+        latex
+        ;;
     help)
         usage
         ;;
@@ -82,5 +85,19 @@ pdf() {
     pdflatex lelyceedesroutes.tex
 }
 
+latex() {
+    check_cmd pandoc
+
+    echo "Pandoc is installed."
+    echo "Generetaing exports/lelyceedesroutes.tex ..."
+
+    pandoc latex/pagetitre.md \
+        src/* \
+        --verbose --top-level-division=chapter \
+        --variable=indent \
+        --template=latex/template.tex \
+        --standalone --output exports/lelyceedesroutes.tex
+    echo "We should be done here."
+}
 
 main "$1" || exit 1
