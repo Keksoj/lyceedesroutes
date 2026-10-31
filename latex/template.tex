@@ -1,7 +1,6 @@
 %Les fontsize possibles sont 10pt, 11 pt, 12pt, sinon utiliser {extsizes}
 
-
-\documentclass[10pt,$if(lang)$$babel-lang$,$endif$$if(papersize)$$papersize$paper,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+\documentclass[10pt]{book}
 $if(fontfamily)$
 \usepackage[$for(fontfamilyoptions)$$fontfamilyoptions$$sep$,$endfor$]{$fontfamily$}
 $else$
@@ -215,11 +214,7 @@ $endif$
 $if(title)$
 \maketitle
 $endif$
-$if(abstract)$
-\begin{abstract}
-$abstract$
-\end{abstract}
-$endif$
+
 
 $for(include-before)$
 $include-before$
