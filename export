@@ -82,7 +82,7 @@ pdf() {
     check_cmd pdflatex
     echo "pdflatex will respond!"
     cd exports
-    pdflatex lelyceedesroutes.tex
+    lualatex lelyceedesroutes.tex
 }
 
 latex() {
