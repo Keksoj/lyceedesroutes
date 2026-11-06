@@ -153,7 +153,7 @@ Et pourtant, une partie de moi rit avec lui.
 Mouais. Je ne suis pas convaincu, alors j’essaie de gagner du temps.
 Mais c’est peine perdue, je le sens.
 
-— Qu’est-ce que je dois vivre pour apprendre ? essaie-je.
+— Qu’est-ce que je dois vivre pour apprendre ? j'essaie.
 
 — Essaie de vivre sans te poser de questions.
 

@@ -25,10 +25,39 @@ $endif$
   includehead
 }
 
+%   __             _
+%  / _| ___  _ __ | |_ ___
+% | |_ / _ \| '_ \| __/ __|
+% |  _| (_) | | | | |_\__ \
+% |_|  \___/|_| |_|\__|___/
+
 \usepackage{polyglossia}
 \setmainlanguage[autospacing=false]{french}
 \usepackage{fontspec}
-\setmainfont{Plantin MT Pro}
+\setmainfont{STIX Two Text}
+
+\newfontfamily\chapterfont{Adobe Jenson Pro}
+
+%      _         _
+%  ___| |_ _   _| | ___  ___
+% / __| __| | | | |/ _ \/ __|
+% \__ \ |_| |_| | |  __/\__ \
+% |___/\__|\__, |_|\___||___/
+%          |___/
+
+\usepackage[pagestyles]{titlesec}
+\titleformat{\chapter}
+  [display]
+  {\chapterfont\huge\centering}                           % titre
+  {\flushleft\large\normalfont{Chapitre \thechapter}} % format du numéro de chapitre 
+  {2ex}                                               % espace entre numéro et titre
+  {}                                                  % code optionnel qui agit avant le titre (\MakeUppercase…)
+
+\titlespacing{\chapter}
+  {0pt}  % espace à gauche du bloc titre
+  {-12ex}  % espace au-dessus du bloc titre
+  {5ex plus 1ex minus 1ex} % espace élastique entre bloc titre et corps de texte
+
 
 $if(euro)$
   \newcommand{\euro}{€}
