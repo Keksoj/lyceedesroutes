@@ -1,8 +1,7 @@
 [book]
 title = "Le Lycée des Routes"
-authors = "Emmanuel Bosquet"
+authors = ["Emmanuel Bosquet"]
 description = "une nouvelle initiatique"
-multilingual = false
 # src = "../src"
 language = "fr"
 
