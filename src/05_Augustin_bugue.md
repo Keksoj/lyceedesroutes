@@ -16,7 +16,7 @@ On comprendra que je ne suis pas de la meilleure humeur du monde au moment de pa
 Une sorte d’énergie sourde brûle en moi.
 
 Je m’assois rageusement à table, sors mon cahier, et décide de noter absolument tout ce que dira le prof d’histoire, M. Josèphe.
-« Aujourd’hui, nous allons parler de la Chine de la deuxième moitié du vingtième siècle... »
+« Aujourd’hui, nous allons parler de la Chine de la deuxième moitié du vingtième siècle... »
 Cause toujours, mon vieux, cause toujours.
 « Après la victoire de l’Armée Populaire de Libération en 1949... »
 Autant dire la préhistoire...
