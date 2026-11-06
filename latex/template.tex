@@ -20,9 +20,9 @@ $endif$
   paperheight=17cm,
   inner=1.5cm, % marge intérieure
   outer=1cm, % marge extérieure
-  top=1cm,
-  bottom=1.5cm,
-  includehead
+  top=1.5cm,
+  bottom=1cm,
+  includefoot
 }
 
 %   __             _
@@ -49,15 +49,19 @@ $endif$
 \titleformat{\chapter}
   [display]
   {\chapterfont\huge\centering}                           % titre
-  {\flushleft\large\normalfont{Chapitre \thechapter}} % format du numéro de chapitre 
-  {2ex}                                               % espace entre numéro et titre
+  {\chapterfont\centering\huge{\thechapter}} % format du numéro de chapitre 
+  {1.5ex}                                               % espace entre numéro et titre
   {}                                                  % code optionnel qui agit avant le titre (\MakeUppercase…)
 
 \titlespacing{\chapter}
   {0pt}  % espace à gauche du bloc titre
-  {-12ex}  % espace au-dessus du bloc titre
+  {0cm}  % espace au-dessus du bloc titre
   {5ex plus 1ex minus 1ex} % espace élastique entre bloc titre et corps de texte
 
+\newpagestyle{mainstyle}{
+    \setfoot{}{\thepage}{}
+}
+\setlength{\footskip}{6ex}
 
 $if(euro)$
   \newcommand{\euro}{€}
@@ -125,17 +129,7 @@ $for(polyglossia-otherlangs)$
 $endfor$
 \fi
 $endif$
-$if(natbib)$
-\usepackage{natbib}
-\bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
-$endif$
-$if(biblatex)$
-\usepackage$if(biblio-style)$[style=$biblio-style$]$endif${biblatex}
-$if(biblatexoptions)$\ExecuteBibliographyOptions{$for(biblatexoptions)$$biblatexoptions$$sep$,$endfor$}$endif$
-$for(bibliography)$
-\addbibresource{$bibliography$}
-$endfor$
-$endif$
+
 $if(listings)$
 \usepackage{listings}
 $endif$
@@ -226,6 +220,7 @@ $include-before$
 $endfor$
 
 % Le contenu du document est là-dedans :
+\pagestyle{mainstyle}
 $body$
 
 % La table des matière, ici mise après "body", donc à la fin du document

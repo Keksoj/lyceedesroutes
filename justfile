@@ -33,3 +33,4 @@ latex:
 pdf: latex
     @command -v lualatex >/dev/null || { echo "Veuillez installer lualatex"; exit 1; }
     cd exports && lualatex lelyceedesroutes.tex
+
