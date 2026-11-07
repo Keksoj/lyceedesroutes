@@ -64,6 +64,17 @@ $endif$
 \setlength{\footskip}{6ex}
 \setlength{\parskip}{0pt}
 
+
+%  _                                           _
+% | |_ _   _ _ __   ___   __ _ _ __ __ _ _ __ | |__  _   _
+% | __| | | | '_ \ / _ \ / _` | '__/ _` | '_ \| '_ \| | | |
+% | |_| |_| | |_) | (_) | (_| | | | (_| | |_) | | | | |_| |
+%  \__|\__, | .__/ \___/ \__, |_|  \__,_| .__/|_| |_|\__, |
+%      |___/|_|          |___/          |_|          |___/
+
+\setlanghyphenmins{fr}{3}{3}
+
+
 $if(euro)$
   \newcommand{\euro}{€}
 $endif$
@@ -176,26 +187,7 @@ $else$
 \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
 \fi
 $endif$
-$if(dir)$
-\ifxetex
-  % load bidi as late as possible as it modifies e.g. graphicx
-  $if(latex-dir-rtl)$
-  \usepackage[RTLdocument]{bidi}
-  $else$
-  \usepackage{bidi}
-  $endif$
-\fi
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \TeXXeTstate=1
-  \newcommand{\RL}[1]{\beginR #1\endR}
-  \newcommand{\LR}[1]{\beginL #1\endL}
-  \newenvironment{RTL}{\beginR}{\endR}
-  \newenvironment{LTR}{\beginL}{\endL}
-\fi
-$endif$
-$for(header-includes)$
-$header-includes$
-$endfor$
+
 
 $if(title)$
 \title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
@@ -210,10 +202,51 @@ $endif$
 \date{$date$}
 
 \begin{document}
+\newpage
+\pagestyle{empty}
+\mbox{} % contenu vide, histoire de mettre quelque chose
+
+\cleardoublepage
+\mbox{}
+\begin{center}
+\vspace{3cm}
+\huge\textsc{Le Lycée des Routes}
+\end{center}
+
+\newpage
+
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.55\textwidth}
+
+\parfillskip=0pt
+
+Creative Commons BY-NC 4.0
+
+\footnotesize
+Vous êtes autorisé à partager cette œuvre par tous moyens et sous tous formats,
+à l'adapter, la remixer, la transformer et créer à partir d'elle.
+Vous devez créditer l'œuvre, intégrer un lien vers la licence~:
+\texttt{\mbox{creativecommons.org}} \texttt{\mbox{/\,licenses}} \texttt{\mbox{/\,by-nc}} \texttt{\mbox{/\,4.0}} \texttt{\mbox{/\,deed.fr}}
+
+et indiquer si des modifications ont été effectuées à l'œuvre.
+Vous n'êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant.
+Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques
+qui restreindraient légalement autrui à utiliser l'œuvre
+dans les conditions décrites par la licence.
+Couverture et mise en page\,: Emmanuel Bosquet.
+Impression\,: CoolLibri.com 111, rue Vauquelin 31100 Toulouse.
+Ce livre a été composé en markdown et convertit en \LaTeX par pandoc,
+en utilisant les caractères STIX Two Text pour le corps du texte
+et Adobe Jenson Pro pour les titres de chapitres,
+puis compilé avec Lua\LaTeX.
+
+\end{minipage}
+\end{center}
+\vspace*{\fill}
 
 \maketitle
 
-Éditions \LaTeX
 
 $for(include-before)$
 $include-before$
