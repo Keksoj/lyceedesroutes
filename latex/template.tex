@@ -20,7 +20,7 @@ $endif$
   paperheight=17cm,
   inner=1.5cm, % marge intérieure
   outer=1cm, % marge extérieure
-  top=1.5cm,
+  top=1.3cm,
   bottom=1cm,
   includefoot
 }
@@ -117,30 +117,10 @@ $endif$
 $if(keywords)$
             pdfkeywords={$for(keywords)$$keywords$$sep$; $endfor$},
 $endif$
-$if(colorlinks)$
-            colorlinks=true,
-            linkcolor=$if(linkcolor)$$linkcolor$$else$Maroon$endif$,
-            citecolor=$if(citecolor)$$citecolor$$else$Blue$endif$,
-            urlcolor=$if(urlcolor)$$urlcolor$$else$Blue$endif$,
-$else$
             pdfborder={0 0 0},
-$endif$
             breaklinks=true}
 \urlstyle{same}  % don't use monospace font for urls
-$if(lang)$
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[shorthands=off,$for(babel-otherlangs)$$babel-otherlangs$,$endfor$main=$babel-lang$]{babel}
-$if(babel-newcommands)$
-  $babel-newcommands$
-$endif$
-\else
-  \usepackage{polyglossia}
-  \setmainlanguage[$polyglossia-lang.options$]{$polyglossia-lang.name$}
-$for(polyglossia-otherlangs)$
-  \setotherlanguage[$polyglossia-otherlangs.options$]{$polyglossia-otherlangs.name$}
-$endfor$
-\fi
-$endif$
+
 
 $if(listings)$
 \usepackage{listings}
@@ -210,25 +190,28 @@ $endif$
 \mbox{}
 \begin{center}
 \vspace{3cm}
-\huge\textsc{Le Lycée des Routes}
+\chapterfont\huge\textsc{Le\hspace{0.5em}Lycée\hspace{0.5em}des\hspace{0.5em}Routes}
 \end{center}
 
 \newpage
 
 \vspace*{\fill}
 \begin{center}
-\begin{minipage}{0.55\textwidth}
+\begin{minipage}{0.7\textwidth}
 
 \parfillskip=0pt
 
-Creative Commons BY-NC 4.0
+Licence Creative Commons BY-NC 4.0
 
 \footnotesize
 Vous êtes autorisé à partager cette œuvre par tous moyens et sous tous formats,
 à l'adapter, la remixer, la transformer et créer à partir d'elle.
 Vous devez créditer l'œuvre, intégrer un lien vers la licence~:
-\texttt{\mbox{creativecommons.org}} \texttt{\mbox{/\,licenses}} \texttt{\mbox{/\,by-nc}} \texttt{\mbox{/\,4.0}} \texttt{\mbox{/\,deed.fr}}
-
+\texttt{\mbox{creativecommons.org}}
+/ \texttt{\mbox{licenses}}
+/ \texttt{\mbox{by-nc}}
+/ \texttt{\mbox{4.0}}
+/ \texttt{\mbox{deed.fr}}~;
 et indiquer si des modifications ont été effectuées à l'œuvre.
 Vous n'êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant.
 Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques
@@ -236,7 +219,7 @@ qui restreindraient légalement autrui à utiliser l'œuvre
 dans les conditions décrites par la licence.
 Couverture et mise en page\,: Emmanuel Bosquet.
 Impression\,: CoolLibri.com 111, rue Vauquelin 31100 Toulouse.
-Ce livre a été composé en markdown et convertit en \LaTeX par pandoc,
+Ce livre a été composé en markdown et converti en \LaTeX par pandoc,
 en utilisant les caractères STIX Two Text pour le corps du texte
 et Adobe Jenson Pro pour les titres de chapitres,
 puis compilé avec Lua\LaTeX.
